@@ -1,3 +1,6 @@
 @echo off
-powershell -ExecutionPolicy Bypass -File "%~dp0sync-to-github.ps1"
-pause
+echo 🚀 Отправка изменений на GitHub...
+powershell -ExecutionPolicy Bypass -File "%~dp0auto-push.ps1"
+echo.
+echo ✅ Готово! Нажмите любую клавишу для закрытия...
+pause >nul

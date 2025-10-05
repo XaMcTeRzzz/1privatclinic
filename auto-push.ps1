@@ -1,27 +1,34 @@
-# Скрипт автоматической синхронизации с GitHub
+# Скрипт автоматического push на GitHub
+param(
+    [string]$Message = "Auto-commit: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
+)
 
-# Параметры
-$REPO_PATH = "c:\Users\PC\Local Sites\newprivatclinic\app\public\wp-content\themes\privatclinic"
-$GIT_REPO = "https://github.com/XaMcTeRzzz/1privatclinic.git"
+# Переходим в папку темы
+$repoPath = "c:\Users\PC\Local Sites\newprivatclinic\app\public\wp-content\themes\privatclinic"
+Set-Location $repoPath
 
-# Переходим в папку репозитория
-Set-Location -Path $REPO_PATH
+Write-Host "🚀 Автоматический push на GitHub..." -ForegroundColor Cyan
 
-# Инициализируем репозиторий если нужно
-if (-not (Test-Path -Path ".git")) {
-    git init
-    git remote add origin $GIT_REPO
-    git checkout -b main
+# Проверяем статус
+$status = git status --porcelain
+if ($status) {
+    Write-Host "📁 Найдены изменения, выполняем push..." -ForegroundColor Yellow
+    
+    # Добавляем все изменения
+    git add .
+    
+    # Создаем коммит
+    git commit -m "$Message"
+    
+    # Пушим изменения
+    git push origin main
+    
+    Write-Host "✅ Изменения успешно отправлены на GitHub!" -ForegroundColor Green
+    Write-Host "🌐 Репозиторий: https://github.com/XaMcTeRzzz/1privatclinic" -ForegroundColor Cyan
+} else {
+    Write-Host "📝 Нет изменений для отправки" -ForegroundColor Yellow
 }
 
-# Добавляем все изменения
-git add .
-
-# Создаем коммит с текущей датой/временем
-$COMMIT_MSG = "Automatic sync: $(Get-Date -Format 'yyyy-MM-dd HH:mm:ss')"
-git commit -m "$COMMIT_MSG"
-
-# Пушим изменения
-git push -u origin main --force
-
-Write-Host "✅ Changes pushed to GitHub" -ForegroundColor Green
+# Показываем последние коммиты
+Write-Host "`n📊 Последние коммиты:" -ForegroundColor Cyan
+git log --oneline -5
