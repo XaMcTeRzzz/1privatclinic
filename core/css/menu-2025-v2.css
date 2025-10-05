@@ -69,21 +69,23 @@
   .nav-bottom__nav-list__parent__item:hover .nav-bottom__nav-list__children {
     opacity: 1 !important;
     visibility: visible !important;
-    transform: translateY(0) !important;
+    transform: translateX(-50%) translateY(0) !important;
     pointer-events: auto !important;
   }
 
   .nav-bottom__nav-list__children {
     position: absolute !important;
     top: 100% !important;
-    left: 0 !important;
-    transform: translateY(10px) !important;
+    left: 50% !important;
+    transform: translateX(-50%) translateY(10px) !important;
     background: #ffffff !important;
     border: none !important;
     border-radius: 12px !important;
     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08) !important;
     padding: 24px 28px !important;
     min-width: 280px !important;
+    width: max-content !important;
+    text-align: center !important;
     z-index: 9999 !important;
     opacity: 0 !important;
     visibility: hidden !important;
