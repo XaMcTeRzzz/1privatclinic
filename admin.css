@@ -1,0 +1,8 @@
+
+
+body:not(.taxonomy-product_cat):not(.woocommerce-page) .wrap {
+    padding-top: 37px!important;
+}
+.float-none{
+    float: none;
+}

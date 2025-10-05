@@ -1,0 +1,148 @@
+﻿/* Medical Clinic Professional Menu 2025 - Clean Version */
+.nav-bottom {
+  background: #ffffff !important;
+  border-radius: 16px !important;
+  box-shadow: 0 2px 16px rgba(71, 85, 105, 0.05) !important;
+  padding: 14px 24px !important;
+}
+
+@media (min-width: 768px) {
+  .nav-bottom__nav-list__parent {
+    display: flex !important;
+    justify-content: center !important;
+    gap: 10px !important;
+  }
+
+  .nav-bottom__nav-list__parent__item .link__parent {
+    position: relative !important;
+    display: inline-flex !important;
+    align-items: center !important;
+    padding: 12px 24px !important;
+    border-radius: 8px !important;
+    background: transparent !important;
+    color: #4b5563 !important;
+    font-weight: 800 !important;
+    font-size: 21.8px !important;
+    letter-spacing: 0.025em !important;
+    text-transform: uppercase !important;
+    text-decoration: none !important;
+    transition: all 0.2s ease !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+
+  .nav-bottom__nav-list__parent__item .link__parent::before {
+    content: "" !important;
+    position: absolute !important;
+    left: 50% !important;
+    bottom: 6px !important;
+    width: 0 !important;
+    height: 2px !important;
+    background: #0ea5e9 !important;
+    transform: translateX(-50%) !important;
+    transition: width 0.25s ease !important;
+  }
+
+  .nav-bottom__nav-list__parent__item .link__parent:hover,
+  .nav-bottom__nav-list__parent__item .link__parent:focus,
+  .nav-bottom__nav-list__parent__item .link__parent.active {
+    color: #0ea5e9 !important;
+    background: rgba(14, 165, 233, 0.03) !important;
+    transform: none !important;
+  }
+
+  .nav-bottom__nav-list__parent__item .link__parent:hover::before,
+  .nav-bottom__nav-list__parent__item .link__parent:focus::before,
+  .nav-bottom__nav-list__parent__item .link__parent.active::before {
+    width: 70% !important;
+  }
+
+  .nav-bottom__nav-list__parent__item .link__parent.last {
+    color: #dc2626 !important;
+    background: transparent !important;
+  }
+
+  .nav-bottom__nav-list__parent__item .link__parent.last:hover {
+    background: rgba(220, 38, 38, 0.02) !important;
+    box-shadow: none !important;
+  }
+
+  .nav-bottom__nav-list__children {
+    background: #ffffff !important;
+    border: none !important;
+    border-radius: 12px !important;
+    box-shadow: 0 8px 30px rgba(0, 0, 0, 0.08) !important;
+    padding: 24px 28px !important;
+  }
+
+  .nav-bottom__nav-list__children .link__children {
+    display: block !important;
+    padding: 10px 16px !important;
+    border-radius: 6px !important;
+    background: transparent !important;
+    color: #4b5563 !important;
+    font-weight: 700 !important;
+    transition: all 0.15s ease !important;
+    border: none !important;
+    margin-bottom: 4px !important;
+  }
+
+  .nav-bottom__nav-list__children .link__children:hover {
+    color: #0ea5e9 !important;
+    background: rgba(14, 165, 233, 0.03) !important;
+    transform: none !important;
+    box-shadow: none !important;
+    padding-left: 20px !important;
+  }
+
+  .nav-bottom__nav-list__children-item-fixed {
+    background: rgba(14, 165, 233, 0.03) !important;
+    border: none !important;
+    border-radius: 8px !important;
+    height: 44px !important;
+    max-width: 300px !important;
+    margin-top: 16px !important;
+  }
+
+  .nav-bottom__nav-list__children-item-fixed:hover {
+    background: rgba(14, 165, 233, 0.06) !important;
+  }
+
+  .nav-bottom__nav-list__children-item-fixed .nav-bottom__nav-list__children-item-all-link {
+    color: #0ea5e9 !important;
+    font-weight: 800 !important;
+    font-size: 21.8px !important;
+  }
+}
+
+@media (max-width: 767px) {
+  .nav-bottom {
+    background: #ffffff !important;
+    padding: 12px 16px !important;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04) !important;
+  }
+
+  .nav-bottom__nav-list__parent__item .link__parent {
+    width: 100% !important;
+    justify-content: center !important;
+    background: #f9fafb !important;
+    border: none !important;
+    border-radius: 8px !important;
+    padding: 12px 16px !important;
+    color: #4b5563 !important;
+    margin-bottom: 6px !important;
+  }
+
+  .nav-bottom__nav-list__children {
+    background: #ffffff !important;
+    border-radius: 10px !important;
+    margin-top: 8px !important;
+    padding: 16px !important;
+    box-shadow: 0 2px 12px rgba(0, 0, 0, 0.06) !important;
+  }
+}
+
+
+
+
+

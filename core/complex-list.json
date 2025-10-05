@@ -1,0 +1,2147 @@
+{
+  "Messages": [
+    {
+      "Title": "Операція виконана вдало",
+      "Description": "Список комплексних послуг було отримано."
+    }
+  ],
+  "HasErrors": false,
+  "HasMessages": true,
+  "Data": [
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 1993,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 1994,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 1997,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 1998,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 1999,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 2000,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 2001,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 2002,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 2003,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 2005,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 2006,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 2008,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 2009,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 2010,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2132,
+      "ServiceID": 2012,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2133,
+      "ServiceID": 1993,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2133,
+      "ServiceID": 1994,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2133,
+      "ServiceID": 1999,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2133,
+      "ServiceID": 2005,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2133,
+      "ServiceID": 2006,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2133,
+      "ServiceID": 2137,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2134,
+      "ServiceID": 757,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2134,
+      "ServiceID": 1272,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2134,
+      "ServiceID": 1537,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2135,
+      "ServiceID": 1993,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2135,
+      "ServiceID": 1994,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 658,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 661,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 666,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 668,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 679,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 690,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 704,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 709,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 719,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 720,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 721,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 726,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 836,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 871,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 872,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 897,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 898,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 938,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1009,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1349,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1350,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1351,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1541,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1546,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1605,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1606,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1749,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1795,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1807,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 1943,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 2059,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2213,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 664,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 666,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 668,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 679,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 690,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 719,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 721,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 726,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 735,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 738,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 739,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 740,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 746,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 747,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 752,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 754,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 762,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 764,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1061,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1186,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1493,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1523,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1541,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1645,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1721,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1795,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1809,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1858,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 1869,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2214,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 661,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 664,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 666,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 668,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 679,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 690,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 719,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 721,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 726,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 735,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 739,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 753,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 754,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 762,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 764,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 800,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 801,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1061,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1071,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1186,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1257,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1541,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1794,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1808,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1810,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 1839,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 2035,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2215,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 664,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 679,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 682,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 690,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 699,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 705,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 719,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 735,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 739,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 753,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 754,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 762,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 763,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 789,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 797,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 800,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 801,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 803,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 998,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1061,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1071,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1150,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1257,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1292,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1538,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1541,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1646,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1794,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1808,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1810,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 1839,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 2035,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 2043,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2216,
+      "ServiceID": 2211,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 664,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 666,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 679,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 682,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 690,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 699,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 719,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 726,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 735,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 738,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 739,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 740,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 747,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 752,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 762,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 763,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 793,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 797,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 803,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1061,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1292,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1493,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1523,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1538,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1541,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1645,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1721,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1795,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1809,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 1858,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 2043,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 2054,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2217,
+      "ServiceID": 2211,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 682,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 719,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 735,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 739,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 747,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 752,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 753,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 754,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 762,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 764,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 800,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 801,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 984,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1071,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1150,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1257,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1541,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1646,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1691,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1794,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1808,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1810,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 1839,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 2035,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2218,
+      "ServiceID": 2074,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 661,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 668,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 679,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 682,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 690,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 719,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 735,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 738,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 739,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 740,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 747,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 752,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 753,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 754,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 762,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 764,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 778,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 871,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 872,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 880,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 881,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 887,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 888,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 893,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 894,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 897,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 898,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1145,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1150,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1257,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1493,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1541,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1645,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1721,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1795,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1809,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1858,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 1869,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 2035,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 2054,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2219,
+      "ServiceID": 2074,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 668,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 679,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1493,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1645,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1795,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1809,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1858,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 1869,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2221,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 668,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 679,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 1071,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 1794,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 1808,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 1839,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2222,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 664,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 666,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 668,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 679,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 719,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 721,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 726,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 1071,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 1794,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 1808,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2223,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 656,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 660,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 664,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 666,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 668,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 679,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 683,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 719,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 721,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 725,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 726,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 727,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 965,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1139,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1493,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1535,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1632,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1645,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1721,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1795,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1806,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1809,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1830,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1832,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1858,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 1869,
+      "Quantity": 1.000000
+    },
+    {
+      "ComplexServiceID": 2224,
+      "ServiceID": 2065,
+      "Quantity": 1.000000
+    }
+  ]
+}

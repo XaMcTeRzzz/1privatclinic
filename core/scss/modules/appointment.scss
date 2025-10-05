@@ -1,0 +1,112 @@
+.appointment-row {
+
+  box-shadow: 0px 0px 12px rgba(112, 126, 152, 0.4);
+  border-radius: 8px;
+  padding: 20px;
+
+  .appointment-header {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .appointment-slider {
+    position: relative;
+    display: flex;
+    align-items: center;
+
+    .slider-btn {
+      background: $white;
+      border: 1px solid $gray-100;
+      color: $blue;
+      border-radius: 50%;
+      width: 36px;
+      height: 36px;
+      cursor: pointer;
+      font-size: 18px;
+      line-height: 34px;
+      text-align: center;
+      transition: 0.3s;
+      flex-shrink: 0; // чтобы кнопка не сжималась
+
+      &:hover:enabled {
+        background: $blue;
+        color: $white;
+        border-color: $blue;
+      }
+
+      &:disabled {
+        opacity: 0.4;
+        cursor: default;
+      }
+
+      &.prev {
+        margin-right: 20px;
+      }
+
+      &.next {
+        margin-left: 20px;
+      }
+    }
+
+    .appointment-scroll {
+      display: flex;
+      gap: 15px;
+      overflow-x: hidden;
+      scroll-behavior: smooth;
+      flex: 1;
+
+      // если дней <= 7
+      &.full-width {
+        justify-content: space-between;
+        .day-column {
+          flex: 1; // растягиваем равномерно
+          min-width: auto; // убираем фиксированную ширину
+        }
+      }
+
+      // дефолт для скролла
+      .day-column {
+        flex: 0 0 auto;
+        min-width: 120px;
+        text-align: center;
+        background: $white;
+        padding: 10px;
+
+        .day-header {
+          font-weight: bold;
+          margin-bottom: 10px;
+        }
+
+        .time-list {
+          display: flex;
+          flex-direction: column;
+          gap: 6px;
+
+          .time-slot {
+            background: $green;
+            color: $white;
+            border: none;
+            border-radius: 6px;
+            padding: 6px 10px;
+            font-size: 14px;
+            cursor: pointer;
+            transition: $trans;
+
+            &:hover {
+              opacity: 0.9;
+              background: $blue;
+            }
+          }
+        }
+      }
+    }
+
+    // 🔄 если колонок <= 7 → стрелки скрываем
+    &.no-arrows {
+      .slider-btn {
+        display: none;
+      }
+    }
+  }
+}
+

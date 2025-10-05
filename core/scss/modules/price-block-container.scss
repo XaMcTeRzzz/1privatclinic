@@ -1,0 +1,132 @@
+.price-block-container{
+  max-width: 1920px;
+  margin: auto;
+  position: relative;
+@include md-block(){
+  min-height: 100vh;
+}
+  @include xs-block(){
+   padding-top: 70px;
+  }
+  .breadcrumb{
+   @include xs-block(){
+     display: none;
+   }
+  }
+  &-img{
+    position: absolute;
+    left: 0;
+    height: 100%;
+    top: 0;
+    display: none;
+    @include xs-block(){
+      display: block;
+      height: 320px;
+    }
+    @include md-block(){
+     height: 100%;
+    }
+    @include size-xs(10);
+    @include size-md(5);
+    img{
+      position: absolute;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      top: 0;
+      object-fit: cover;
+      object-position: top;
+      @include md-block(){
+        object-position: -34vw 0;
+      }
+      @include lg-block(){
+        object-position: center;
+      }
+      display: block;
+    }
+  }
+  .title{
+    z-index: 3;
+    position: relative;
+  }
+}
+
+.price-block{
+  margin-top: 40px;
+  @include xs-block(){
+    margin-top: 240px;
+  }
+  &--page{
+    margin-top: 0;
+    @include xs-block(){
+      margin-top: 0;
+    }
+    .price-block-item{
+      align-items: flex-start;
+    }
+  }
+  &--grid{
+    @include xs-block(){
+      display: grid;
+      grid-gap: 15px;
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+  @include md-block(){
+    margin-top: 74px;
+  }
+  &-item{
+    display: flex;
+    margin-bottom: 43px;
+    align-items: center;
+    @include md-block(){
+      margin-bottom: 52px;
+    }
+    &-icon{
+      min-width: 50px;
+      min-height: 50px;
+      max-width: 50px;
+      max-height: 50px;
+      @include sm-block(){
+        min-width: 64px;
+        min-height: 64px;
+        max-width: 64px;
+        max-height: 64px;
+      }
+      border-radius: 50%;
+      margin-right: 16px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      border: 1px solid $gray;
+      transition: $trans;
+      &:hover{
+        border-color: $green;
+        svg{
+          fill: $green;
+        }
+      }
+      @include md-block(){
+        margin-right: 40px;
+      }
+      svg{
+
+        width: 25px;
+        height: 25px;
+        @include sm-block(){
+          width: 32px;
+          height: 32px;
+        }
+        fill: $gray;
+        transition: $trans;
+      }
+    }
+    &-text{
+    .title-sm{
+      font-weight: 900;
+      margin-bottom: 15px;
+    }
+    }
+  }
+}
+

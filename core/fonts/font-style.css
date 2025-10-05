@@ -1,0 +1,50 @@
+@font-face {
+    font-family: "SourceSerif4";
+    font-style: normal;
+    font-weight: 300;
+    font-display: swap;
+    src: local("SourceSerif4"), url('SourceSerif4-Light.ttf') format("woff")
+}
+
+@font-face {
+    font-family: "SourceSerif4";
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local("SourceSerif4"), url('SourceSerif4-Regular.ttf') format("woff")
+}
+
+@font-face {
+    font-family: "SourceSerif4";
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: local("SourceSerif4"), url('SourceSerif4-SemiBold.ttf') format("woff")
+}
+
+@font-face {
+    font-family: "SourceSerif4";
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local("SourceSerif4"), url('SourceSerif4-Bold.ttf') format("woff")
+}
+
+@font-face {
+    font-family: "SourceSerif4";
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: local("SourceSerif4"), url('SourceSerif4-ExtraBold.ttf') format("woff")
+}
+
+@font-face {
+    font-family: "SourceSerif4";
+    font-style: normal;
+    font-weight: 900;
+    font-display: swap;
+    src: local("SourceSerif4"), url('SourceSerif4-Black.ttf') format("woff")
+}
+body {
+    font-family: "SourceSerif4", sans-serif;
+}

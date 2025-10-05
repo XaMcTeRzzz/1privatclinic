@@ -1,0 +1,29 @@
+.doc-slider{
+  .doc-nav{
+    display: flex;
+    margin-left: auto;
+    width: 88px;
+    padding: 5px;
+    margin-bottom: 12px;
+    justify-content: space-between;
+    .swiper-button-next,.swiper-button-prev{
+      position: static;
+      margin: 0;
+    }
+  }
+  .schedule-card{
+    margin-bottom: 40px;
+    @include md-block(){
+      margin-bottom: 87px;
+    }
+  }
+}
+.doc-wrap{
+  padding-top: 25px;
+  padding-bottom: 48px;
+  @include md-block(){
+    padding-top: 47px;
+    padding-bottom: 25px;
+  }
+
+}

@@ -1,0 +1,177 @@
+
+
+
+.schedule-table{
+  display: none;
+  @include md-block(){
+    display: table;
+  }
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0 12px;
+  thead{
+    margin-bottom: 10px;
+    th{
+      font-weight: 600;
+      font-size: 16px;
+      text-transform: uppercase;
+      color: $gray-200;
+      padding: 0 10px;
+      @include lg-block(){
+        padding: 0 16px;
+      }
+
+    }
+  }
+  &__tbody-parent{
+    & > tr{
+      &:not(.month){
+        background: #FFFFFF;
+        box-shadow: 0px 0px 12px rgba(112, 126, 152, 0.4);
+        transition: $trans;
+        border: 1px solid transparent;
+        &:hover:not(.disabled){
+          border: 1px solid #CCCCCC;
+          & > td:first-child{
+            &:before{
+              width: 6px;
+            }
+          }
+        }
+        & > td:first-child{
+          position: relative;
+          &:before{
+            content: '';
+            display: inline-block;
+            position: absolute;
+            background: $green;
+            left: 0;
+            width: 0;
+            transition: $trans;
+            top: 0;
+            height: 100%;
+          }
+        }
+        td{
+          padding: 5px;
+          @include lg-block(){
+            padding: 11px 16px;
+          }
+          font-size: 14px;
+          line-height: 21px;
+        }
+      }
+      &.active{
+        background: linear-gradient(90deg, #95C53D 1.06%, #5BCEAE 100%);
+        box-shadow: none;
+      }
+      &.disabled{
+        background: $gray-700;
+        box-shadow: none;
+      }
+    }
+
+  }
+  &-nav{
+    text-align: right;
+    position: relative;
+    &:before{
+      position: absolute;
+      width: 100%;
+      left: 0;
+      content: '';
+      height: 10px;
+      background: transparent;
+      bottom: -10px;
+    }
+    &-wrap{
+      position: absolute;
+      top: calc(100% + 11px);
+      display: none;
+      width: 314px;
+      background: #FFFFFF;
+      box-shadow: 0px 0px 24px rgba(112, 126, 152, 0.4);
+      border-radius: 8px;
+      max-height: 596px;
+      overflow-x: auto;
+      z-index: 99;
+      right: 0;
+
+    }
+    &__table{
+      width: 100%;
+      &__item{
+        background: transparent;
+        transition: $trans;
+        &:hover:not(.disabled){
+          background: rgba(196, 196, 196, 0.28);
+          & > td:first-child{
+            &:before{
+               width: 4px;
+            }
+          }
+        }
+        & > td:first-child{
+          position: relative;
+          &:before{
+            content: '';
+            display: inline-block;
+            position: absolute;
+            background: $green;
+            left: 0;
+            width: 0;
+            transition: $trans;
+            top: 0;
+            height: 100%;
+          }
+        }
+        &.active{
+          background: $gray-800;
+        }
+        &.active{
+          background: rgba(196, 196, 196, 0.28);
+          td:first-child{
+            position: relative;
+            overflow: hidden;
+            &:before{
+              position: absolute;
+              left: 0;
+              top: 0;
+              content: '';
+              background: $green;
+              width: 4px;
+              height: 100%;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+.month{
+  th{
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0.05em;
+    color: $gray-200;
+  }
+}
+
+
+.mCSB_container {
+  width: 100%;
+}
+
+.mCS-my-theme.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar{ background-color: $gray; }
+.mCS-my-theme.mCSB_scrollTools .mCSB_draggerRail{ background-color: white; }
+.mCS-my-theme.mCSB_scrollTools {
+  position: absolute;
+  width: 10px;
+  height: auto;
+  left: auto;
+  top: 0;
+  right: 0;
+  bottom: 0;
+}

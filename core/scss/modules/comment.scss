@@ -1,0 +1,185 @@
+.comments-area {
+  margin-top: 41px;
+  @include md-block(){
+    margin-top: 0;
+  }
+}
+
+.comment{
+
+  &-item{
+    position: relative;
+    padding-left: 60px;
+    padding-top: 25px;
+    @include md-block(){
+      padding-left: 55px;
+      padding-top: 35px;
+    }
+    &:before{
+      content: '';
+      background: url(../images/general/com.svg) no-repeat center;
+      width: 50px;
+      height: 50px;
+      background-size: contain;
+      position: absolute;
+      left: 0;
+      top: 0px;
+
+    }
+    .decr{
+      margin-bottom: 24px;
+    }
+    .text-bold{
+      text-align: right;
+    }
+  }
+  &-bottom{
+    display: flex;
+    margin-top: 48px;
+
+
+    &-text{
+      display: flex;
+      @include md-block(){
+        width: 56%;
+      }
+      margin-left: auto;
+      flex-direction: column;
+      @include md-block(){
+        flex-direction: row;
+      }
+      justify-content: space-between;
+      .comment-bottom-text-item:first-child{
+        order: 1;
+        margin-top: 10px;
+        @include md-block(){
+          order: 0;
+          margin-right: 0;
+        }
+      }
+    }
+  }
+}
+
+.nav-slider{
+  display: flex;
+  align-items: center;
+  &--sm{
+    @include md-block(){
+      justify-content: flex-end;
+    }
+
+  }
+.swiper-button-next,.swiper-button-prev, .swiper-pagination{
+  position: static;
+  width: auto;
+  margin-top: 0;
+}
+  .swiper-button-next,.swiper-button-prev{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    transition: $trans;
+  }
+  .swiper-pagination{
+    padding: 0 15px;
+    font-size: 18px;
+    @include md-block(){
+      font-size: 23px;
+    }
+    &-current{
+      font-weight: 900;
+      letter-spacing: 0.1em;
+      color: $green;
+      position: relative;
+      top: -5px;
+      @include md-block(){
+        font-size: 32px;
+      }
+    }
+    &-total{
+      margin-top: 1px;
+      position: relative;
+      bottom: -5px;
+    }
+  }
+
+}
+
+
+.comment-row{
+  margin-bottom: 40px;
+  @include md-block(){
+    display: flex;
+    margin-bottom: 88px;
+  }
+  &-left-block{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+    @include md-block(){
+      display: block;
+      @include  shift-lg-right(1)
+    }
+    &-title{
+      font-weight: 900;
+      font-size: 14px;
+      line-height: 21px;
+      color: $gray;
+      @include md-block(){
+       margin-bottom: 16px;
+      }
+    }
+    &-data{
+      color:  $gray-200;
+      font-size: 15px;
+      line-height: 18px;
+    }
+  }
+  &-right{
+    color: $gray-300;
+    font-size: 16px;
+    line-height: 24px;
+    position: relative;
+    @include md-block(){
+      padding-left: 55px;
+     }
+    &:before{
+      content: '';
+      background: url("../images/general/com.svg") no-repeat center;
+      width: 50px;
+      height: 50px;
+      background-size: contain;
+      left: 0;
+      position: absolute;
+
+      top: -35px;
+      display: none;
+      @include md-block(){
+        display: inline-block;
+      }
+    }
+  }
+}
+
+.comment-main{
+  padding-top: 64px;
+  padding-bottom: 20px;
+  @include md-block(){
+    padding-bottom: 88px;
+  }
+}
+
+a#cancel-comment-reply-link {
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: red;
+  margin-left: 10px;
+}
+
+.comment-respond {
+  margin-bottom: 30px;
+}

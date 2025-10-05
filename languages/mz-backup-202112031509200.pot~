@@ -1,0 +1,127 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: MEDZDRAV\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-28 13:32+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.5; wp-5.8.1\n"
+"X-Domain: mz"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr ""
+
+#. Name of the theme
+msgid "MEDZDRAV"
+msgstr ""
+
+#: core/comments_walker.php:235
+msgid "Pingback:"
+msgstr ""
+
+#. Author of the theme
+msgid "Аноним"
+msgstr ""
+
+#: single-doctor.php:506 taxonomy-specializations.php:340
+msgid "Ваш вопрос"
+msgstr ""
+
+#: home.php:212
+msgid "Все услуги"
+msgstr ""
+
+#: taxonomy-specializations.php:252 taxonomy-specializations.php:321
+#: core/inc/special-section.php:81
+msgid "Выберите специалиста"
+msgstr ""
+
+#: core/inc/have_questions.php:4
+msgid ""
+"Есть вопросы? Оставьте ваши контакты и мы свяжемся с вами в ближайшее время."
+msgstr ""
+
+#: single-doctor.php:491 taxonomy-specializations.php:314
+msgid "Задать вопрос специалисту"
+msgstr ""
+
+#: single-doctor.php:468 taxonomy-specializations.php:240
+#: core/inc/special-section.php:75
+msgid "Запись на прием"
+msgstr ""
+
+#: single-doctor.php:476 single-doctor.php:498 taxonomy-specializations.php:262
+#: taxonomy-specializations.php:332 core/inc/modal.php:9
+#: core/inc/special-section.php:84
+msgid "Имя"
+msgstr ""
+
+#: core/inc/modal.php:5
+msgid "Обратный звонок"
+msgstr ""
+
+#: home.php:330
+msgid "Отзывы"
+msgstr ""
+
+#: comments.php:24 taxonomy-specializations.php:165
+msgid "Отзывы и вопросы"
+msgstr ""
+
+#: home.php:94
+msgid "Почему выбирают именно нас"
+msgstr ""
+
+#: single-doctor.php:156
+msgid "Стоимость"
+msgstr ""
+
+#: single-doctor.php:480 single-doctor.php:502 taxonomy-specializations.php:266
+#: taxonomy-specializations.php:336 core/inc/modal.php:13
+#: core/inc/special-section.php:88
+msgid "Телефон"
+msgstr ""
+
+#: home.php:378
+msgid "все отзывы"
+msgstr ""
+
+#: single-doctor.php:510 taxonomy-specializations.php:344
+msgid "задать вопрос"
+msgstr ""
+
+#: single-doctor.php:157 core/inc/faq-list.php:23 core/inc/list-price.php:14
+msgid "задать вопрос специалисту"
+msgstr ""
+
+#: single-doctor.php:485 taxonomy-specializations.php:271
+#: core/inc/faq-list.php:24 core/inc/list-price.php:15 core/inc/modal.php:18
+#: core/inc/special-section.php:56 core/inc/special-section.php:93
+msgid "записаться на приём"
+msgstr ""
+
+#: core/inc/faq-list.php:21 core/inc/have_questions.php:5
+#: core/inc/list-price.php:13
+msgid "перезвоните мне"
+msgstr ""
+
+#: home.php:271 core/inc/special-section.php:49
+msgid "подробнее"
+msgstr ""
+
+#: home.php:322
+msgid "посмотреть больше"
+msgstr ""
+
+#: home.php:19
+msgid "смотреть  видео"
+msgstr ""

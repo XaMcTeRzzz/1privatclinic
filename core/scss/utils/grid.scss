@@ -1,0 +1,147 @@
+
+.container-fluid{
+  @include wrapper();
+}
+
+.container-100{
+  width: 100%;
+  max-width: 1920px;
+  margin: auto;
+  overflow-x: hidden;
+  padding: 0 15px;
+  @include lg-block(){
+    padding: 0 ;
+  }
+}
+
+.rowFlex{
+  @include row-flex();
+  & > .colFlex {
+    @include col();
+  }
+  & > .colFlexPad {
+    @include col-padding();
+  }
+}
+
+.rowFlexPad{
+  $o: 30px;
+  $w: 0px;
+  @include u-row-flex($o);
+  .colPadDef{
+    box-sizing: border-box;
+    word-wrap: break-word;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  .colPad-xs-4{
+    width: 100%;
+    @include xs-block(){
+      @include u-size(4, 12, $w);
+    }
+  }
+  .colPad-xs-8{
+    width: 100%;
+    @include xs-block(){
+      @include u-size(8, 12, $w);
+    }
+  }
+  .colPad-sm-2{
+    width: 100%;
+    @include sm-block(){
+      @include u-size(2, 12, $w);
+    }
+  }
+  .colPad-sm-4 {
+    width: 100%;
+    @include sm-block(){
+      @include u-size(4, 12, $w);
+    }
+  }
+
+  .colPad-sm-8{
+    width: 100%;
+    @include sm-block(){
+      @include u-size(8, 12, $w);
+    }
+  }
+
+  .colPad-sm-10{
+    width: 100%;
+    @include sm-block(){
+      @include u-size(10, 12, $w);
+    }
+  }
+
+  .colPad-md-6{
+    width: 100%;
+    @include md-block(){
+      @include u-size(6, 12, $w);
+    }
+  }
+  .colPad-md-8{
+    width: 100%;
+    @include md-block(){
+      @include u-size(8, 12, $w);
+    }
+  }
+  .colPad-lg-3 {
+    width: 100%;
+    @include lg-block(){
+      @include u-size(3, 12, $w);
+    }
+  }
+  .colPad-lg-4 {
+    width: 100%;
+    @include lg-block(){
+      @include u-size(4, 12, $w);
+    }
+  }
+  .colPad-lg-8{
+    width: 100%;
+    @include lg-block(){
+      @include u-size(8, 12, $w);
+    }
+  }
+}
+
+// xs
+@for $i from 1 through 12 {
+  .col-xxs-#{$i} {
+    width: 100%;
+    @include size-xxs($i);
+  }
+}
+
+@for $i from 1 through 12 {
+  .col-xs-#{$i} {
+    width: 100%;
+    @include size-xs($i);
+  }
+}
+
+// sm
+
+@for $i from 1 through 12 {
+  .col-sm-#{$i} {
+    width: 100%;
+    @include size-sm($i);
+  }
+}
+// md
+
+@for $i from 1 through 12 {
+  .col-md-#{$i} {
+    width: 100%;
+    @include size-md($i);
+  }
+}
+
+// lg
+
+@for $i from 1 through 12 {
+  .col-lg-#{$i} {
+    width: 100%;
+    @include size-lg($i);
+  }
+}

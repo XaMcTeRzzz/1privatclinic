@@ -1,0 +1,7108 @@
+{
+  "Messages": [
+    {
+      "Title": "Операція виконана вдало",
+      "Description": "Прайс-лист обраного медичного закладу було отримано."
+    }
+  ],
+  "HasErrors": false,
+  "HasMessages": true,
+  "Data": [
+    {
+      "ServiceID": 656,
+      "ParentServiceID": 1398,
+      "ServiceCode": "301",
+      "ServiceName": "Аланінамінотрансфераза (АЛаТ)\r\n",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 658,
+      "ParentServiceID": 1398,
+      "ServiceCode": "302",
+      "ServiceName": "Альфа-амілаза\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 659,
+      "ParentServiceID": 1409,
+      "ServiceCode": "303",
+      "ServiceName": "Амілаза в сечі\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 660,
+      "ParentServiceID": 1398,
+      "ServiceCode": "304",
+      "ServiceName": "Аспартатамінотрансфераза (АСаТ)\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 661,
+      "ParentServiceID": 1398,
+      "ServiceCode": "305",
+      "ServiceName": "Гамма-глутамілтрансфераза (ГГТП)\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 663,
+      "ParentServiceID": 1398,
+      "ServiceCode": "306",
+      "ServiceName": "Креатинфосфокіназа ",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 664,
+      "ParentServiceID": 1398,
+      "ServiceCode": "308",
+      "ServiceName": "Лактатдегідрогеназа (ЛДГ)\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 665,
+      "ParentServiceID": 1398,
+      "ServiceCode": "1701",
+      "ServiceName": "Ліпаза\r\n",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 666,
+      "ParentServiceID": 1398,
+      "ServiceCode": "309",
+      "ServiceName": "Лужна фосфатаза (ЛФ)\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 668,
+      "ParentServiceID": 1399,
+      "ServiceCode": "369",
+      "ServiceName": "Ліпідограма (тригліцериди, холестерин загальний, ЛПВЩ, ЛПНЩ, ЛПДНЩ, коефіцієнт атерогенності)\r\n",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 673,
+      "ParentServiceID": 1399,
+      "ServiceCode": "352",
+      "ServiceName": "Тригліцериди\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 674,
+      "ParentServiceID": 1399,
+      "ServiceCode": "353",
+      "ServiceName": "Холестерин загальний",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 675,
+      "ParentServiceID": 1399,
+      "ServiceCode": "354",
+      "ServiceName": "Холестерин ліпопротеїдів високої щільності(ЛПВЩ)",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 677,
+      "ParentServiceID": 1399,
+      "ServiceCode": "355",
+      "ServiceName": "Холестерин ліпопротеїдів низької щільності (ЛПНЩ)\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 679,
+      "ParentServiceID": 1400,
+      "ServiceCode": "359",
+      "ServiceName": "Білірубін фракцiйно (прямий, непрямий, загальний)\r\n",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 682,
+      "ParentServiceID": 1422,
+      "ServiceCode": "361",
+      "ServiceName": "Глікований гемоглобін HbA1c",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 683,
+      "ParentServiceID": 1422,
+      "ServiceCode": "360",
+      "ServiceName": "Глюкоза крові",
+      "Price": 65.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 685,
+      "ParentServiceID": 1577,
+      "ServiceCode": "1013",
+      "ServiceName": "Інсулін",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 687,
+      "ParentServiceID": 1577,
+      "ServiceCode": "1014",
+      "ServiceName": "С-пептид",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 690,
+      "ParentServiceID": 1401,
+      "ServiceCode": "322",
+      "ServiceName": "Загальний білок\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 691,
+      "ParentServiceID": 1401,
+      "ServiceCode": "393",
+      "ServiceName": "Альбумін\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 693,
+      "ParentServiceID": 1401,
+      "ServiceCode": "332",
+      "ServiceName": "Білкові фракції:альбумiни, глобулiни(альфа-1,альфа-2,бета,гама)",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 698,
+      "ParentServiceID": 1403,
+      "ServiceCode": "383",
+      "ServiceName": "Трансферин\r\n",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 699,
+      "ParentServiceID": 1403,
+      "ServiceCode": "372",
+      "ServiceName": "Феритин\r\n",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 700,
+      "ParentServiceID": 1648,
+      "ServiceCode": "386",
+      "ServiceName": "Вітамін В12",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 701,
+      "ParentServiceID": 1648,
+      "ServiceCode": "387",
+      "ServiceName": "Фолієва кислота (ЭХЛ)",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 703,
+      "ParentServiceID": 1403,
+      "ServiceCode": "333",
+      "ServiceName": "Залізо (Fe)\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 704,
+      "ParentServiceID": 1403,
+      "ServiceCode": "335",
+      "ServiceName": "Кальцій  (Са)\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 705,
+      "ParentServiceID": 1403,
+      "ServiceCode": "343",
+      "ServiceName": "Кальцій іонізований (Са 2+)\r\n",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 707,
+      "ParentServiceID": 1403,
+      "ServiceCode": "336",
+      "ServiceName": "Магній (Mg)\r\n",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 709,
+      "ParentServiceID": 1403,
+      "ServiceCode": "338",
+      "ServiceName": "Фосфор неорганічний (P)\r\n",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 711,
+      "ParentServiceID": 1403,
+      "ServiceCode": "334",
+      "ServiceName": "Калій (К)\r\n",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 712,
+      "ParentServiceID": 1403,
+      "ServiceCode": "337",
+      "ServiceName": "Натрій (Na)\r\n",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 713,
+      "ParentServiceID": 1403,
+      "ServiceCode": "339",
+      "ServiceName": "Хлор (Cl)\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 715,
+      "ParentServiceID": 1409,
+      "ServiceCode": "344",
+      "ServiceName": "Калій в сечі\r\n",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 716,
+      "ParentServiceID": 1409,
+      "ServiceCode": "345",
+      "ServiceName": "Натрій у сечі\r\n",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 717,
+      "ParentServiceID": 1409,
+      "ServiceCode": "346",
+      "ServiceName": "Хлор у сечі",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 719,
+      "ParentServiceID": 1404,
+      "ServiceCode": "325",
+      "ServiceName": "C-реактивний білок (кількісний)\r\n",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 720,
+      "ParentServiceID": 1404,
+      "ServiceCode": "317",
+      "ServiceName": "Антистрептолізин О (кількісний)\r\n",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 721,
+      "ParentServiceID": 1404,
+      "ServiceCode": "324",
+      "ServiceName": "Ревматоїдний фактор  (кількісний)\r\n",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 722,
+      "ParentServiceID": 1401,
+      "ServiceCode": "328",
+      "ServiceName": "Церулоплазмін",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 723,
+      "ParentServiceID": 1571,
+      "ServiceCode": "1734",
+      "ServiceName": "Тропонін I, кiлькiсно",
+      "Price": 155.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 725,
+      "ParentServiceID": 1401,
+      "ServiceCode": "312",
+      "ServiceName": "Креатинін\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 726,
+      "ParentServiceID": 1404,
+      "ServiceCode": "370",
+      "ServiceName": "Сечова кислота\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 727,
+      "ParentServiceID": 1401,
+      "ServiceCode": "314",
+      "ServiceName": "Сечовина\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 735,
+      "ParentServiceID": 1428,
+      "ServiceCode": "109",
+      "ServiceName": "Коагулограма: Протромбіновий час (ПЧ), міжнародне нормалізоване співвідношення (МНС), протромбінова активність за Квіком, тромбіновий час (ТЧ), активований частковий тромбопластиновий  час (АЧТЧ), кількісне визначення  фібрину, РФМК\r\n",
+      "Price": 170.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 736,
+      "ParentServiceID": 1369,
+      "ServiceCode": "548",
+      "ServiceName": "Адренокортикотропний гормон (AКТГ)",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 738,
+      "ParentServiceID": 1368,
+      "ServiceCode": "520",
+      "ServiceName": "Лютеїнізуючий гормон (ЛГ)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 739,
+      "ParentServiceID": 1368,
+      "ServiceCode": "518",
+      "ServiceName": "Пролактин",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 740,
+      "ParentServiceID": 1368,
+      "ServiceCode": "522",
+      "ServiceName": "Фолікулостимулюючий гормон (ФСГ)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 744,
+      "ParentServiceID": 1369,
+      "ServiceCode": "533",
+      "ServiceName": "17-ОН-Прогестерон(17-ОНР)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 746,
+      "ParentServiceID": 1368,
+      "ServiceCode": "542",
+      "ServiceName": "Дегідроепіандростерон-сульфат (DHEA-S)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 747,
+      "ParentServiceID": 1368,
+      "ServiceCode": "525",
+      "ServiceName": "Естрадіол",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 752,
+      "ParentServiceID": 1368,
+      "ServiceCode": "524",
+      "ServiceName": "Прогестерон",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 753,
+      "ParentServiceID": 1368,
+      "ServiceCode": "528",
+      "ServiceName": "Тестостерон вільний",
+      "Price": 170.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 754,
+      "ParentServiceID": 1368,
+      "ServiceCode": "527",
+      "ServiceName": "Тестостерон загальний",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 757,
+      "ParentServiceID": 1367,
+      "ServiceCode": "502",
+      "ServiceName": "Тиреотропний гормон (ТТГ)\r\n",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 758,
+      "ParentServiceID": 1367,
+      "ServiceCode": "508",
+      "ServiceName": "Т3 вільний(FT3)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 760,
+      "ParentServiceID": 1367,
+      "ServiceCode": "510",
+      "ServiceName": "Т4 вільний(FT4)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 762,
+      "ParentServiceID": 1367,
+      "ServiceCode": "561",
+      "ServiceName": "Антитіла до тиреоїдної пероксидази (анти-ТПО)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 763,
+      "ParentServiceID": 1367,
+      "ServiceCode": "1716",
+      "ServiceName": "Тиреоглобулін (TГ)",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 764,
+      "ParentServiceID": 1367,
+      "ServiceCode": "513",
+      "ServiceName": "Антитіла до тиреоглобуліну (анти-ТГ)(ЭХЛ)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 765,
+      "ParentServiceID": 1590,
+      "ServiceCode": "530",
+      "ServiceName": "Паратгормон ",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 767,
+      "ParentServiceID": 1368,
+      "ServiceCode": "557",
+      "ServiceName": "Протеїн-А асоційованний з вагітністю (PAPP-A)",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 768,
+      "ParentServiceID": 1368,
+      "ServiceCode": "545",
+      "ServiceName": "Естріол вільний",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 771,
+      "ParentServiceID": 1368,
+      "ServiceCode": "1549",
+      "ServiceName": "Пренатальна діагностика в I триместрі (подвійний тест в 10-13 тиж.: PAPP-A, вільний бета-ХГЛ) для проведення скринінгу на ризик генетичних захворювань за допомогою програми \"Astraia Software – First Trimester Screening\"",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 778,
+      "ParentServiceID": 1368,
+      "ServiceCode": "559",
+      "ServiceName": "Антимюллерів гормон(АМГ)",
+      "Price": 475.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 784,
+      "ParentServiceID": 1369,
+      "ServiceCode": "555",
+      "ServiceName": "Метанефрін, норметанефрін",
+      "Price": 800.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 789,
+      "ParentServiceID": 1421,
+      "ServiceCode": "401",
+      "ServiceName": "Альфа-фетопротеїн (АFP)\r\n",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 793,
+      "ParentServiceID": 1421,
+      "ServiceCode": "1717",
+      "ServiceName": "Онкомаркер  молочної залози  (СА-15-3)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 797,
+      "ParentServiceID": 1421,
+      "ServiceCode": "411",
+      "ServiceName": "Онкомаркер підшлункової залози, жовчного міхура (СА-19-9)\r\n",
+      "Price": 160.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 798,
+      "ParentServiceID": 1421,
+      "ServiceCode": "419",
+      "ServiceName": "Онкомаркер шлунку (СА-72-4)",
+      "Price": 220.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 799,
+      "ParentServiceID": 1421,
+      "ServiceCode": "407",
+      "ServiceName": "Онкомаркер яєчників  (СА-125)\r\n",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 800,
+      "ParentServiceID": 1421,
+      "ServiceCode": "405",
+      "ServiceName": "Простат-специфічний антиген вільний (Free PSA)",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 801,
+      "ParentServiceID": 1421,
+      "ServiceCode": "404",
+      "ServiceName": "Простат-специфічний антиген загальний (Total PSA)",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 803,
+      "ParentServiceID": 1421,
+      "ServiceCode": "403",
+      "ServiceName": "Раково-ембріональний антиген (СЕА)\r\n",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 804,
+      "ParentServiceID": 1368,
+      "ServiceCode": "556",
+      "ServiceName": "Вільний бета-ХГЛ ",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 817,
+      "ParentServiceID": 1653,
+      "ServiceCode": "1846",
+      "ServiceName": "Імуноглобулін A(IgA)",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 818,
+      "ParentServiceID": 1653,
+      "ServiceCode": "611",
+      "ServiceName": "Імуноглобулін E загальний(IgE)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 819,
+      "ParentServiceID": 1653,
+      "ServiceCode": "1848",
+      "ServiceName": "Імуноглобулін G(IgG)",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 820,
+      "ParentServiceID": 1653,
+      "ServiceCode": "1847",
+      "ServiceName": "Імуноглобулін M(IgM)",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 836,
+      "ParentServiceID": 1657,
+      "ServiceCode": "717",
+      "ServiceName": "Антитіла до циклічного цитрульованого пептиду  (АССР)\r\n",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 871,
+      "ParentServiceID": 1380,
+      "ServiceCode": "804",
+      "ServiceName": "Антитіла IgG до хламідії трахоматіс (Сhlamydia Trachomatis IgG)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 872,
+      "ParentServiceID": 1380,
+      "ServiceCode": "803",
+      "ServiceName": "Антитіла IgM  до хламідії трахоматіс (Сhlamydia Trachomatis IgM)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 873,
+      "ParentServiceID": 1380,
+      "ServiceCode": "805",
+      "ServiceName": "Антитіла IgA до хламідії трахоматіс (Сhlamydia Trachomatis IgA)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 877,
+      "ParentServiceID": 1380,
+      "ServiceCode": "802",
+      "ServiceName": "Хламідія пневмонії IgG (Chl. Pneumoniae  IgG)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 880,
+      "ParentServiceID": 1374,
+      "ServiceCode": "815",
+      "ServiceName": "Антитіла  ІgG до вірусу простого герпесу 1/2 типів (HSV 1/2 IgG)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 881,
+      "ParentServiceID": 1374,
+      "ServiceCode": "814",
+      "ServiceName": "Антитіла  IgM до вірусу простого герпесу 1/2 типів (HSV 1/2 IgM)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 887,
+      "ParentServiceID": 1375,
+      "ServiceCode": "821",
+      "ServiceName": "Антитіла IgG  до цитомегаловірусу (CMV IgG)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 888,
+      "ParentServiceID": 1375,
+      "ServiceCode": "820",
+      "ServiceName": "Антитіла IgM до цитомегаловірусу (CMV IgM)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 893,
+      "ParentServiceID": 1376,
+      "ServiceCode": "824",
+      "ServiceName": "Антитіла IgG  до вірусу краснухи (Rubella IgG)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 894,
+      "ParentServiceID": 1376,
+      "ServiceCode": "823",
+      "ServiceName": "Антитіла IgM  до вірусу краснухи (Rubella IgM)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 895,
+      "ParentServiceID": 1376,
+      "ServiceCode": "825",
+      "ServiceName": "Краснуха IgG  (Rubella IgG)+авідність",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 897,
+      "ParentServiceID": 1377,
+      "ServiceCode": "818",
+      "ServiceName": "Антитіла IgG  до токсоплазми гондії (ТOX IgG)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 898,
+      "ParentServiceID": 1377,
+      "ServiceCode": "817",
+      "ServiceName": "Антитіла IgM  до токсоплазми гондії (ТОX IgМ)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 901,
+      "ParentServiceID": 1378,
+      "ServiceCode": "828",
+      "ServiceName": "Антитіла IgM  до капсидного антигену вірусу Епштейна-Барр VCA (ЕВV VCA IgM)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 904,
+      "ParentServiceID": 1378,
+      "ServiceCode": "829",
+      "ServiceName": "Антитіла IgG до нуклеарного антигену  вірусу Епштейна-Барр  (EBNA IgG),ядерний",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 909,
+      "ParentServiceID": 1387,
+      "ServiceCode": "857",
+      "ServiceName": "Антитіла IgM до гепатиту А (HAV IgM)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 911,
+      "ParentServiceID": 1388,
+      "ServiceCode": "894",
+      "ServiceName": "HBsAg-експрес",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 913,
+      "ParentServiceID": 1388,
+      "ServiceCode": "879",
+      "ServiceName": "Антитіла к НВеАg (ИФА)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 915,
+      "ParentServiceID": 1388,
+      "ServiceCode": "862",
+      "ServiceName": "Сумарні антитіла к НВсorAg",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 919,
+      "ParentServiceID": 1388,
+      "ServiceCode": "865",
+      "ServiceName": "Кількісне визначення вірусу гепатиту B (HBV), ПЛР Real time  (матеріал: плазма периферичної крові)",
+      "Price": 610.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 921,
+      "ParentServiceID": 1390,
+      "ServiceCode": "869",
+      "ServiceName": "Антитіла IgМ до гепатиту С (HCV IgM) ",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 922,
+      "ParentServiceID": 1390,
+      "ServiceCode": "868",
+      "ServiceName": "Антитіла IgG до гепатиту С (anti-HCV IgG coreAg,NS3,NS4,NS5)",
+      "Price": 170.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 924,
+      "ParentServiceID": 1390,
+      "ServiceCode": "871",
+      "ServiceName": "Кількісне визначення вірусу гепатиту C (HCV),   ПЛР Real time  (матеріал: плазма периферичної крові)",
+      "Price": 610.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 925,
+      "ParentServiceID": 1390,
+      "ServiceCode": "870",
+      "ServiceName": "Вірус гепатиту C (HCV), ПЛР Real-time якісне визначення (матеріал: плазма периферичної крові)",
+      "Price": 260.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 934,
+      "ParentServiceID": 1381,
+      "ServiceCode": "809",
+      "ServiceName": "Mycopl. pneum. IgG-антитіла (Mycopl. pneum. IgG)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 936,
+      "ParentServiceID": 1665,
+      "ServiceCode": "841",
+      "ServiceName": "Гарднерелла вагіналіс (Gardnerella vaginalis), ПЛР Real-time якісне визначення (матеріал: зішкребок із слизових оболонок урогенітального траку)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 937,
+      "ParentServiceID": 1381,
+      "ServiceCode": "873",
+      "ServiceName": "Мікоплазма геніталіум (Mycoplasma genitalium), ПЛР Real-time якісне визначення (матеріал: зішкряб  із слизових оболонок урогенітального траку,  секрет передміхурової залози, сперма)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 938,
+      "ParentServiceID": 1381,
+      "ServiceCode": "835",
+      "ServiceName": "Уреаплазма парвум + уреалітікум (Ureaplasma species),  ПЛР Real-time якісне визначення  (матеріал: зішкребок  із слизових оболонок урогенітального траку, ротоглотки, виділення кон’юнктиви ока, і, секрет передміхурової залози, сперма)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 939,
+      "ParentServiceID": 1381,
+      "ServiceCode": "834",
+      "ServiceName": "Мікоплазма хомініс  (Mycoplasma hominis), ПЛР Real-time якісне визначення (матеріал: зішкряб  із слизових оболонок урогенітального траку,  секрет передміхурової залози, сперма)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 941,
+      "ParentServiceID": 1393,
+      "ServiceCode": "852",
+      "ServiceName": "Антитіла до лямблій G",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 944,
+      "ParentServiceID": 1423,
+      "ServiceCode": "856",
+      "ServiceName": "Антитіла IgG до опісторхісів",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 945,
+      "ParentServiceID": 1423,
+      "ServiceCode": "854",
+      "ServiceName": "Антитіла IgG до трихінели",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 946,
+      "ParentServiceID": 1423,
+      "ServiceCode": "892",
+      "ServiceName": "Антитіла IgG до аскариди ",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 947,
+      "ParentServiceID": 1423,
+      "ServiceCode": "853",
+      "ServiceName": "Антитіла IgG до токсокари",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 949,
+      "ParentServiceID": 1423,
+      "ServiceCode": "855",
+      "ServiceName": "Антитіла IgG до ехінококу",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 964,
+      "ParentServiceID": 1619,
+      "ServiceCode": "111",
+      "ServiceName": "Визначення груп крові за системою АВ0 та Rh.",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 965,
+      "ParentServiceID": 1408,
+      "ServiceCode": "101",
+      "ServiceName": "Загальний аналіз сечі",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 968,
+      "ParentServiceID": 1408,
+      "ServiceCode": "103",
+      "ServiceName": "Сеча за Земницьким",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 969,
+      "ParentServiceID": 1408,
+      "ServiceCode": "102",
+      "ServiceName": "Сеча за Нечипоренком",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 973,
+      "ParentServiceID": 1409,
+      "ServiceCode": "127",
+      "ServiceName": "Білок в сечі\r\n (ранкова,добова)",
+      "Price": 35.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 975,
+      "ParentServiceID": 1409,
+      "ServiceCode": "126",
+      "ServiceName": "Глюкоза в сечі\r\n (ранкова,добова)",
+      "Price": 35.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 978,
+      "ParentServiceID": 1409,
+      "ServiceCode": "371",
+      "ServiceName": "Сечова кислота в сечі\r\n\r\n (ранкова,добова)",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 980,
+      "ParentServiceID": 1409,
+      "ServiceCode": "347",
+      "ServiceName": "Фосфор у сечі\r\n\r\n",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 982,
+      "ParentServiceID": 1412,
+      "ServiceCode": "121",
+      "ServiceName": "Мікроскопія зішкрiбу (кожа чи вії) на демодекс",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 984,
+      "ParentServiceID": 1412,
+      "ServiceCode": "118",
+      "ServiceName": "Спермограма",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 989,
+      "ParentServiceID": 1418,
+      "ServiceCode": "1617",
+      "ServiceName": "Алергічна панель  \"Інгаляційна\"\r\n",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 990,
+      "ParentServiceID": 1418,
+      "ServiceCode": "1616",
+      "ServiceName": "Алергічна панель \" Білкова\"",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 991,
+      "ParentServiceID": 1418,
+      "ServiceCode": "1619",
+      "ServiceName": "Алергічна панель \"Харчова\"",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 992,
+      "ParentServiceID": 1418,
+      "ServiceCode": "1618",
+      "ServiceName": "Алергічна панель \"Фруктова\"\r\n",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 994,
+      "ParentServiceID": 1409,
+      "ServiceCode": "348",
+      "ServiceName": "Кальцій у сечi",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 998,
+      "ParentServiceID": 1368,
+      "ServiceCode": "415",
+      "ServiceName": "Хоріонічний гонадотропін людини (ЭХЛ) ",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 999,
+      "ParentServiceID": 1377,
+      "ServiceCode": "838",
+      "ServiceName": "Токсоплазма гондії (Toxoplasma gondii), ПЛР Real-time якісне визначення (матеріал: лейкоцити периферичної та пуповинної  крові, амніотична рідина, спинномозкова рідина, аутопсійний та біопсійний матеріал)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1003,
+      "ParentServiceID": 1375,
+      "ServiceCode": "885",
+      "ServiceName": "Цитомегаловірус (CMV), ПЛР, якісне визначення  (матеріал: зішкребок)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1004,
+      "ParentServiceID": 1375,
+      "ServiceCode": "839",
+      "ServiceName": "Цитомегаловірус (CMV), ПЛР, якiсне визначення  (матеріал: слина, кров, лiквор)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1009,
+      "ParentServiceID": 1667,
+      "ServiceCode": "836",
+      "ServiceName": "Трихомонада вагінальна  (Trichomonas vaginalis),  ПЛР Real-time якісне визначення (матеріал: зішкребок  із слизових оболонок урогенітального траку, зразки сечі(осад першої порції ранкової сечі),  секрет передміхурової залози, сперма)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1010,
+      "ParentServiceID": 1670,
+      "ServiceCode": "845",
+      "ServiceName": "Кандіда альбіканс  (Candida albicans),   ПЛР Real-time якісне визначення (матеріал:  зішкребок із слизових оболонок  урогенітального траку, ротової порожнини, зразки сечі)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1016,
+      "ParentServiceID": 1671,
+      "ServiceCode": "1737",
+      "ServiceName": "Дослідження біоценозу урогенітального тракту.  ПЛР Real-time, кількісний/якісний. Фемофлор Скрін\t",
+      "Price": 600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1017,
+      "ParentServiceID": 1671,
+      "ServiceCode": "1736",
+      "ServiceName": "Дослідження біоценозу урогенітального тракту. ПЛР Real-time, кількісний. Фемофлор 16\t",
+      "Price": 700.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1019,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "Профілі досліджень",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1030,
+      "ParentServiceID": 1653,
+      "ServiceCode": "614",
+      "ServiceName": " Гемолізини (антиеритроцитарні антитіла)",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1031,
+      "ParentServiceID": 1619,
+      "ServiceCode": "1047",
+      "ServiceName": "Антирезусні антітіла",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1034,
+      "ParentServiceID": 1409,
+      "ServiceCode": "315",
+      "ServiceName": "Сечовина сечі\r\n",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1059,
+      "ParentServiceID": 1412,
+      "ServiceCode": "120",
+      "ServiceName": "Мікроскопія секрету простати\r\n",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1061,
+      "ParentServiceID": 1394,
+      "ServiceCode": "830",
+      "ServiceName": "Антитіла IgG до Helicobacter pylori",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1063,
+      "ParentServiceID": 1429,
+      "ServiceCode": "909",
+      "ServiceName": "Бактеріологічний посів крові",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1071,
+      "ParentServiceID": 1412,
+      "ServiceCode": "132",
+      "ServiceName": "Мікроскопія урогенітальних виділень у чоловіків\r\n",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1076,
+      "ParentServiceID": 1639,
+      "ServiceCode": "139",
+      "ServiceName": "Копрограма\r\n",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1081,
+      "ParentServiceID": 1639,
+      "ServiceCode": "130",
+      "ServiceName": "Аналіз калу на яйця гельмінтів\r\n",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1086,
+      "ParentServiceID": 1639,
+      "ServiceCode": "131",
+      "ServiceName": "Зішкріб на ентеробіоз",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1097,
+      "ParentServiceID": 1381,
+      "ServiceCode": "807",
+      "ServiceName": "Антитіла IgG до Mycoplasma hominis",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1100,
+      "ParentServiceID": 1381,
+      "ServiceCode": "811",
+      "ServiceName": "Антитіла IgG до Ureaplasma urealyticum",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1104,
+      "ParentServiceID": 1388,
+      "ServiceCode": "864",
+      "ServiceName": "Вірус гепатиту В (HВV), ПЛР Real-time  якісне визначення (матеріал: плазма периферичної крові)",
+      "Price": 190.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1105,
+      "ParentServiceID": 1388,
+      "ServiceCode": "863",
+      "ServiceName": "Антитіла IgM до НВсorAg (НВсore IgМ)(ИФА)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1108,
+      "ParentServiceID": 1381,
+      "ServiceCode": "810",
+      "ServiceName": "Антитіла IgM до Ureaplasma urealyticum",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1111,
+      "ParentServiceID": 1381,
+      "ServiceCode": "806",
+      "ServiceName": "Антитіла IgM до Mycoplasma hominis",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1118,
+      "ParentServiceID": 1421,
+      "ServiceCode": "421",
+      "ServiceName": "ROMA (Risk of Ovarian Malignancy) (беремо тiльки з HE4/CA-125)",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1123,
+      "ParentServiceID": 1429,
+      "ServiceCode": "908",
+      "ServiceName": "Посів калу на дисбактеріоз (чутливість до антибактеріальних засобів)\r\n",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1124,
+      "ParentServiceID": 1403,
+      "ServiceCode": "375",
+      "ServiceName": "Загальна залізозв'язуюча здатність сироватки кровi",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1129,
+      "ParentServiceID": 1431,
+      "ServiceCode": "1179",
+      "ServiceName": "Комплекс № 2 (ТТГ, Т3 в, Т4 в)\r\n\r\n",
+      "Price": 310.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1139,
+      "ParentServiceID": 1390,
+      "ServiceCode": "1703",
+      "ServiceName": "Сумарні антитіла до гепатиту С (anti-HCV) ",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1140,
+      "ParentServiceID": 1409,
+      "ServiceCode": "961",
+      "ServiceName": "Мікроальбумін в сечі\r\n (ранкова,добова)",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1141,
+      "ParentServiceID": 1369,
+      "ServiceCode": "1735",
+      "ServiceName": "Соматотропний гормон,Tosoh(СТГ)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1145,
+      "ParentServiceID": 1647,
+      "ServiceCode": "394",
+      "ServiceName": "Гомоцистеїн",
+      "Price": 280.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1149,
+      "ParentServiceID": 1416,
+      "ServiceCode": "706",
+      "ServiceName": "Антитіла IgM до кардіоліпіну",
+      "Price": 160.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1150,
+      "ParentServiceID": 1368,
+      "ServiceCode": "1595",
+      "ServiceName": "Інгібін В",
+      "Price": 360.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1159,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "Інші",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1167,
+      "ParentServiceID": 1659,
+      "ServiceCode": "886",
+      "ServiceName": "Вірус Варіцелла-Зостер (VZV), ПЛР,якісне визначення  (матеріал: кров, ліквор, слина, мазок із ротоглотки)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1173,
+      "ParentServiceID": 1428,
+      "ServiceCode": "366",
+      "ServiceName": "% протромбіну по Квіку",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1174,
+      "ParentServiceID": 1669,
+      "ServiceCode": "846",
+      "ServiceName": "Антитіла IgG до борелії (Borrelia IgG)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1176,
+      "ParentServiceID": 1669,
+      "ServiceCode": "847",
+      "ServiceName": "Антитіла IgM до борелії (Borrelia IgM)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1182,
+      "ParentServiceID": 1412,
+      "ServiceCode": "123",
+      "ServiceName": "Назоцитограма (мазок з носу на еозiнофiли)",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1186,
+      "ParentServiceID": 1403,
+      "ServiceCode": "342",
+      "ServiceName": "Електроліти кровi: калій, натрій, хлор, кальцій іонізований\r\n",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1187,
+      "ParentServiceID": 1428,
+      "ServiceCode": "379",
+      "ServiceName": "Д-Димер",
+      "Price": 240.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1188,
+      "ParentServiceID": 1416,
+      "ServiceCode": "709",
+      "ServiceName": "Вовчуковий антикоагулянт ",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1208,
+      "ParentServiceID": 1019,
+      "ServiceCode": null,
+      "ServiceName": "100.01 Репродуктивна гормональна діагностика у жінок",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1209,
+      "ParentServiceID": 1019,
+      "ServiceCode": null,
+      "ServiceName": "100.02 Профілі діагностики щитоподібної залози",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1210,
+      "ParentServiceID": 1019,
+      "ServiceCode": null,
+      "ServiceName": "100.03 Профілі \"TORCH\"-інфекцій",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1211,
+      "ParentServiceID": 1019,
+      "ServiceCode": null,
+      "ServiceName": "100.04 Профілі онкомаркерної діагностики за локацією",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1214,
+      "ParentServiceID": 1653,
+      "ServiceCode": "601",
+      "ServiceName": "Імунограма (лейкоцити, лімфоцити,Т - лімфоцити ( CD3+), Т-хелпери (CD4+), Т-супресори ( CD8+),  кілери CD16+ ,В-лімфоцити (CD22+), Індекс CD4+/CD8+, Ig A, IgM,  Ig G, фагоцитарне число, фагоцитарний індекс, ЦІК)\r\n",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1233,
+      "ParentServiceID": 1390,
+      "ServiceCode": "890",
+      "ServiceName": "Генотипування вірусу гепатиту C (5 типів: 1а, 1b, 2, 3a, 4 ), ПЛР Real time якісне визначення  (матеріал: плазма периферичної крові)",
+      "Price": 410.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1237,
+      "ParentServiceID": 1659,
+      "ServiceCode": "888",
+      "ServiceName": "Антитіла IgG до Варіцелла-Зостер (VZV IgG)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1239,
+      "ParentServiceID": 1659,
+      "ServiceCode": "898",
+      "ServiceName": "Антитіла IgM до Варіцелла-Зостер (VZV IgM)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1243,
+      "ParentServiceID": 1374,
+      "ServiceCode": "798",
+      "ServiceName": "Антитіла IgG  до вірусу простого герпесу 2 типу (HSV-2 IgG)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1247,
+      "ParentServiceID": 1416,
+      "ServiceCode": "707",
+      "ServiceName": "Антитіла до фосфоліпідів IgG",
+      "Price": 220.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1248,
+      "ParentServiceID": 1416,
+      "ServiceCode": "708",
+      "ServiceName": "Антитіла до фосфоліпідів IgМ",
+      "Price": 220.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1256,
+      "ParentServiceID": 1637,
+      "ServiceCode": "201",
+      "ServiceName": "Цитологічне дослідження на атиповi клiтини (1 точка)",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1257,
+      "ParentServiceID": 1427,
+      "ServiceCode": "113",
+      "ServiceName": "Реакція мікропреципітації з кардіоліпіновим антигеном (РМП)",
+      "Price": 55.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1272,
+      "ParentServiceID": 1367,
+      "ServiceCode": "1713",
+      "ServiceName": "Антитіла до рецептора ТТГ",
+      "Price": 280.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1273,
+      "ParentServiceID": 1412,
+      "ServiceCode": "122",
+      "ServiceName": "Мікроскопічні дослідження на наявність грибів",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1275,
+      "ParentServiceID": 1430,
+      "ServiceCode": "1854",
+      "ServiceName": "Виявлення поліморфізмів генів BRCA1 та BRCA2, асоційованих з ризиком розвитку раку молочної залози та раку яєчників\r\n",
+      "Price": 1800.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1276,
+      "ParentServiceID": 1577,
+      "ServiceCode": "958",
+      "ServiceName": "Індекс HOMA(глюкоза,iнсулiн,розрахунок НОМА)",
+      "Price": 180.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1277,
+      "ParentServiceID": 1019,
+      "ServiceCode": null,
+      "ServiceName": "100.05 Пакети ПБ",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1292,
+      "ParentServiceID": 1421,
+      "ServiceCode": "413",
+      "ServiceName": "Антиген плоскоклітинної карценоми (SCC)",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1304,
+      "ParentServiceID": 1377,
+      "ServiceCode": "819",
+      "ServiceName": "Авідність Антитіл IgG  до токсоплазми гондії (ТOX IgG)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1333,
+      "ParentServiceID": 1019,
+      "ServiceCode": null,
+      "ServiceName": "Комплексне обтеження урогенітальної флори",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1349,
+      "ParentServiceID": 1657,
+      "ServiceCode": "703",
+      "ServiceName": "Антинуклеарні антитіла  (ANA)\r\n",
+      "Price": 230.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1350,
+      "ParentServiceID": 1657,
+      "ServiceCode": "701",
+      "ServiceName": "Антитіла до дволанцюгової ДНК (ds-ДНК)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1351,
+      "ParentServiceID": 1657,
+      "ServiceCode": "702",
+      "ServiceName": "Антитіла до одноланцюгової ДНК (ss-ДНК)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1352,
+      "ParentServiceID": 1637,
+      "ServiceCode": "1634",
+      "ServiceName": "Класичний ПАП-тест",
+      "Price": 156.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1354,
+      "ParentServiceID": 1401,
+      "ServiceCode": "367",
+      "ServiceName": "Проба Реберга",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1358,
+      "ParentServiceID": 1589,
+      "ServiceCode": "384",
+      "ServiceName": "Прокальцитонін\r\n",
+      "Price": 650.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1367,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "11. Тиреоїдна панель",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1368,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "13. Репродуктивна панель",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1369,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "12. Гіпоталямо-гіпофізарна-надниркова панель",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1372,
+      "ParentServiceID": 1397,
+      "ServiceCode": null,
+      "ServiceName": "04.7 Глюкоза, метаболіти вуглеводного обміну та пов'зані з ними гормони",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1374,
+      "ParentServiceID": 1379,
+      "ServiceCode": null,
+      "ServiceName": "21.1.1 Герпесвірусні інфекції",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1375,
+      "ParentServiceID": 1379,
+      "ServiceCode": null,
+      "ServiceName": "21.1.4 Цитомегаловірус",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1376,
+      "ParentServiceID": 1379,
+      "ServiceCode": null,
+      "ServiceName": "21.1.5 Краснуха",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1377,
+      "ParentServiceID": 1379,
+      "ServiceCode": null,
+      "ServiceName": "21.1.9 Токсоплазма",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1378,
+      "ParentServiceID": 1379,
+      "ServiceCode": null,
+      "ServiceName": "21.1.2 Вірус Епштейна-Барр",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1379,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "21. Інфекційні захворювання",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1380,
+      "ParentServiceID": 1664,
+      "ServiceCode": null,
+      "ServiceName": "22.1.1 Хламідійна інфекція",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1381,
+      "ParentServiceID": 1664,
+      "ServiceCode": null,
+      "ServiceName": "22.1.2 Мікоплазмена інфекція",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1382,
+      "ParentServiceID": 1413,
+      "ServiceCode": null,
+      "ServiceName": "24.1.2 Мікрокультуральна діагностика",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1383,
+      "ParentServiceID": 1159,
+      "ServiceCode": null,
+      "ServiceName": "04.2.4 Інші урогенітальні інфекції",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1384,
+      "ParentServiceID": 1379,
+      "ServiceCode": null,
+      "ServiceName": "21.1.7 Папіломавірусна інфекція",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1386,
+      "ParentServiceID": 1379,
+      "ServiceCode": null,
+      "ServiceName": "21.1.8 Вірусні гепатити",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1387,
+      "ParentServiceID": 1386,
+      "ServiceCode": null,
+      "ServiceName": "04.3.1 Гепатит А",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1388,
+      "ParentServiceID": 1386,
+      "ServiceCode": null,
+      "ServiceName": "04.3.2 Гепатит В",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1390,
+      "ParentServiceID": 1386,
+      "ServiceCode": null,
+      "ServiceName": "04.3.3 Гепатит С",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1391,
+      "ParentServiceID": 1386,
+      "ServiceCode": null,
+      "ServiceName": "04.3.4 Гепатит D",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1392,
+      "ParentServiceID": 1386,
+      "ServiceCode": null,
+      "ServiceName": "04.3.5 Інші гепатити",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1393,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "23. Паразитарні інфекції",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1394,
+      "ParentServiceID": 1664,
+      "ServiceCode": null,
+      "ServiceName": "22.4 Інші інфекції",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1395,
+      "ParentServiceID": 1411,
+      "ServiceCode": null,
+      "ServiceName": "01.1 Загальний аналіз крові",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1397,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "04. Біохімічні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1398,
+      "ParentServiceID": 1397,
+      "ServiceCode": null,
+      "ServiceName": "04.1 Ферменти",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1399,
+      "ParentServiceID": 1397,
+      "ServiceCode": null,
+      "ServiceName": "04.5 Ліпідний обмін",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1400,
+      "ParentServiceID": 1397,
+      "ServiceCode": null,
+      "ServiceName": "04.6 Пігментний обмін",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1401,
+      "ParentServiceID": 1397,
+      "ServiceCode": null,
+      "ServiceName": "04.3 Білковий обмін",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1403,
+      "ParentServiceID": 1397,
+      "ServiceCode": null,
+      "ServiceName": "04.4 Електроліти, мікроелементи",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1404,
+      "ParentServiceID": 1397,
+      "ServiceCode": null,
+      "ServiceName": "04.2 Ревмопробы",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1406,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "03. Дослідження системи згортання крові",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1407,
+      "ParentServiceID": 1411,
+      "ServiceCode": null,
+      "ServiceName": "01.2 Дослідження сечі",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1408,
+      "ParentServiceID": 1407,
+      "ServiceCode": null,
+      "ServiceName": "05.5.1 Клінічні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1409,
+      "ParentServiceID": 1407,
+      "ServiceCode": null,
+      "ServiceName": "05.5.2 Біохімічні дослідження сечі",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1411,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": " 01. Загальноклінічні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1412,
+      "ParentServiceID": 1411,
+      "ServiceCode": null,
+      "ServiceName": "01.3 Мікроскопічні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1413,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "24. Бактеріологічні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1415,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "20. Діагностика аутоімунних та системних захворювань, специфічні антитіла",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1416,
+      "ParentServiceID": 1415,
+      "ServiceCode": null,
+      "ServiceName": "20.02 Антифосфоліпідні антитіла",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1417,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "17. Імунологічні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1418,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "19. Алергологічна діагностика, виявлення алергоспецифічних IgE-антитіл ",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1419,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "26. Генетичні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1420,
+      "ParentServiceID": 1664,
+      "ServiceCode": null,
+      "ServiceName": "22.1.6 Комплексні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1421,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "10. Онкомаркери",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1422,
+      "ParentServiceID": 1372,
+      "ServiceCode": null,
+      "ServiceName": "03.1 Глюкоза, метаболіти вуглеводного обміну та пов'зані з ними гормони",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1423,
+      "ParentServiceID": 1393,
+      "ServiceCode": null,
+      "ServiceName": "04.4.1 Гельмінтози \r\n",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1426,
+      "ParentServiceID": 1395,
+      "ServiceCode": null,
+      "ServiceName": "05.1.1 Загальний аналіз крові",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1427,
+      "ParentServiceID": 1417,
+      "ServiceCode": null,
+      "ServiceName": "17.03 Серологические исследования",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1428,
+      "ParentServiceID": 1406,
+      "ServiceCode": null,
+      "ServiceName": "03.1 Дослідження системи згортання крові",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1429,
+      "ParentServiceID": 1413,
+      "ServiceCode": null,
+      "ServiceName": "24.1.1 Бактеріологічні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1430,
+      "ParentServiceID": 1419,
+      "ServiceCode": null,
+      "ServiceName": "07.1 Генетичні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1431,
+      "ParentServiceID": 1420,
+      "ServiceCode": null,
+      "ServiceName": "22.1.7 Комплексні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1443,
+      "ParentServiceID": 1429,
+      "ServiceCode": "910",
+      "ServiceName": "Бактеріологічний посів матеріалу з рани",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1445,
+      "ParentServiceID": 1429,
+      "ServiceCode": "905",
+      "ServiceName": "Бактеріологічний посів матеріалу на стафілокок (зів)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1454,
+      "ParentServiceID": 1369,
+      "ServiceCode": "558",
+      "ServiceName": "Кортизол (добова сеча або слина)",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1460,
+      "ParentServiceID": 1416,
+      "ServiceCode": "725",
+      "ServiceName": "Антитіла  IgM до бета-2 глікопротеїну І",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1462,
+      "ParentServiceID": 1416,
+      "ServiceCode": "726",
+      "ServiceName": "Антитіла IgG до бета-2 глікопротеїну І",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1464,
+      "ParentServiceID": 1429,
+      "ServiceCode": "917",
+      "ServiceName": "Бактеріологічний посів матеріалу на гриби",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1465,
+      "ParentServiceID": 1391,
+      "ServiceCode": "882",
+      "ServiceName": "Антитіла IgG до гепатиту D (HDV)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1477,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "28. Забір біоматеріалу",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1478,
+      "ParentServiceID": 1421,
+      "ServiceCode": "420",
+      "ServiceName": "НЕ4 - ранній онкомаркер яєчників",
+      "Price": 340.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1491,
+      "ParentServiceID": 1477,
+      "ServiceCode": null,
+      "ServiceName": "28.1 Забір біоматеріалу",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1493,
+      "ParentServiceID": 1412,
+      "ServiceCode": "133",
+      "ServiceName": "Мікроскопія виділень із жіночих статевих органів (3 точки)\r\n",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1511,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1850",
+      "ServiceName": "Патологогістологічне дослідження IV категорії складності",
+      "Price": 540.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1514,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1856",
+      "ServiceName": "Патологогістологічне дослідження III категорії складності",
+      "Price": 426.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1523,
+      "ParentServiceID": 1421,
+      "ServiceCode": "422",
+      "ServiceName": "Рання діагностика епітеліального раку яєчника(НЕ4+СА125+ROMA index)",
+      "Price": 450.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1524,
+      "ParentServiceID": 1525,
+      "ServiceCode": null,
+      "ServiceName": "Гісто-морфологічне дослідження матеріалу",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1525,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "25.Патологістологічні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1535,
+      "ParentServiceID": 1367,
+      "ServiceCode": "1704",
+      "ServiceName": "Тиреотропний гормон (Tosoh)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1538,
+      "ParentServiceID": 1367,
+      "ServiceCode": "1706",
+      "ServiceName": "Т3 вільний,Тosoh(FT3)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1541,
+      "ParentServiceID": 1367,
+      "ServiceCode": "1708",
+      "ServiceName": "Т4 вільний,Tosoh(FT4)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1542,
+      "ParentServiceID": 1367,
+      "ServiceCode": "1705",
+      "ServiceName": "T3 загальний,Tosoh",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1543,
+      "ParentServiceID": 1367,
+      "ServiceCode": "1707",
+      "ServiceName": "Т4 загальний (Tosoh)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1546,
+      "ParentServiceID": 1657,
+      "ServiceCode": "704",
+      "ServiceName": "Антитіла до модифікованого цитрульованого віментину (MCV)",
+      "Price": 320.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1549,
+      "ParentServiceID": 1416,
+      "ServiceCode": "705",
+      "ServiceName": "Антитіла IgG до кардіоліпіну ",
+      "Price": 160.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1550,
+      "ParentServiceID": 1657,
+      "ServiceCode": "716",
+      "ServiceName": "Антитіла до компонента Scl-70",
+      "Price": 160.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1552,
+      "ParentServiceID": 1657,
+      "ServiceCode": "718",
+      "ServiceName": "Мітохондріальні антитіла(АМА)",
+      "Price": 210.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1555,
+      "ParentServiceID": 1378,
+      "ServiceCode": "893",
+      "ServiceName": "Інфекційний мононукліоз",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1556,
+      "ParentServiceID": 1388,
+      "ServiceCode": "859",
+      "ServiceName": "HBs Ag (IФА)",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1558,
+      "ParentServiceID": 1390,
+      "ServiceCode": "866",
+      "ServiceName": "Антитіла до вірусу гепатиту С (HCV)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1564,
+      "ParentServiceID": 1381,
+      "ServiceCode": "1596",
+      "ServiceName": "Мікоплазма хомініс,Уреаплазма уреалітікум,Уреаплазма парум (Mycoplasma hominis+Ureaplasma urealyticum+Ureaplasma parum) ПЦР Real-time кількісне визначення (матеріал:зіскрібок слизових оболонок урогенітального тракту,ссекрет предміхрової залози,сперма)",
+      "Price": 170.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1565,
+      "ParentServiceID": 1431,
+      "ServiceCode": "1568",
+      "ServiceName": "Комплекс Хламидії(Chlamidia pneumoniae) и Микоплазма(Mycoplasma pneumoniae) ДНК ПЦР Real-time якісне визначення (материал: мазок з слизовоі нижнього носового ходу,ротоглотки,промивні води бронхів,цілісна кров)",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1571,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "09. Кардіомаркери",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1573,
+      "ParentServiceID": 1369,
+      "ServiceCode": "536",
+      "ServiceName": "Дослідження сумарної  екскреції 17-кетостероїдів (17-КС)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1577,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "15. Інкреторна функція підшлункової залози",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1578,
+      "ParentServiceID": 1409,
+      "ServiceCode": "313",
+      "ServiceName": "Креатинін в сечі",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1579,
+      "ParentServiceID": 1397,
+      "ServiceCode": null,
+      "ServiceName": "04.8 Вуглеводно-білковий обмін",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1580,
+      "ParentServiceID": 1579,
+      "ServiceCode": "362",
+      "ServiceName": "Глікозаміноглікани",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1581,
+      "ParentServiceID": 1579,
+      "ServiceCode": "363",
+      "ServiceName": "Оксіпролін",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1582,
+      "ParentServiceID": 1579,
+      "ServiceCode": "364",
+      "ServiceName": "Уронові кислоти",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1583,
+      "ParentServiceID": 1401,
+      "ServiceCode": "329",
+      "ServiceName": "Серомукоїди",
+      "Price": 45.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1585,
+      "ParentServiceID": 1401,
+      "ServiceCode": "381",
+      "ServiceName": "Тимолова проба",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1586,
+      "ParentServiceID": 1403,
+      "ServiceCode": "340",
+      "ServiceName": "Мідь(Сu)",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1587,
+      "ParentServiceID": 1409,
+      "ServiceCode": "349",
+      "ServiceName": "Мідь в сечі",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1588,
+      "ParentServiceID": 1403,
+      "ServiceCode": "341",
+      "ServiceName": "Цинк(Zn)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1589,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "07. Маркери сепсісу",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1590,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "05. Маркери метаболізму кісткової тканини",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1592,
+      "ParentServiceID": 1369,
+      "ServiceCode": "1181",
+      "ServiceName": "Альдостерон",
+      "Price": 240.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1594,
+      "ParentServiceID": 1374,
+      "ServiceCode": "837",
+      "ServiceName": "Вiрус простого герпесу, ПЛР(HSV 1/2, якiсне визначення ( кров, лiквор, слина))",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1595,
+      "ParentServiceID": 1369,
+      "ServiceCode": "1180",
+      "ServiceName": "Активний ренін",
+      "Price": 370.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1596,
+      "ParentServiceID": 1369,
+      "ServiceCode": "1728",
+      "ServiceName": "Комплекс \"Ренин-альдостерон\"(ренiн, альдостерон, розрахунок ренiн-альдостеронового спiввiдношення)",
+      "Price": 600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1597,
+      "ParentServiceID": 1571,
+      "ServiceCode": "327",
+      "ServiceName": "Тропонін якісно",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1598,
+      "ParentServiceID": 1394,
+      "ServiceCode": "134",
+      "ServiceName": "Антитоксин правцевий",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1599,
+      "ParentServiceID": 1394,
+      "ServiceCode": "849",
+      "ServiceName": "АТ к туберкульоз (IgМ+IgG)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1600,
+      "ParentServiceID": 1381,
+      "ServiceCode": "808",
+      "ServiceName": "Mycopl. pneum. IgМ-антитіла (Mycopl. pneum. IgМ)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1602,
+      "ParentServiceID": 1380,
+      "ServiceCode": "801",
+      "ServiceName": "Хламідія пневмонії IgМ (Chl. Pneumoniae  IgМ)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1604,
+      "ParentServiceID": 1665,
+      "ServiceCode": "827",
+      "ServiceName": "Gardnerella vaginalis Ig G (ИФА)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1605,
+      "ParentServiceID": 1667,
+      "ServiceCode": "813",
+      "ServiceName": "Trihomonas vaginalis(IgG-AT)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1606,
+      "ParentServiceID": 1667,
+      "ServiceCode": "812",
+      "ServiceName": "Trihomonas vaginalis(IgM-AT)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1608,
+      "ParentServiceID": 1374,
+      "ServiceCode": "799",
+      "ServiceName": "Антитіла IgG до вірусу простого герпесу 1 типу (HSV-1 IgG)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1609,
+      "ParentServiceID": 1374,
+      "ServiceCode": "816",
+      "ServiceName": "Антітела IgG до вірусу простого герпесу(HSV-1/2 IgG) + авідність",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1610,
+      "ParentServiceID": 1374,
+      "ServiceCode": "875",
+      "ServiceName": "Антитiла IgG до герпесу 6 типу (HHV6 IgG)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1611,
+      "ParentServiceID": 1375,
+      "ServiceCode": "822",
+      "ServiceName": "Антитіла IgG до цитомегаловірусу (CMV IgG)+ авідність",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1612,
+      "ParentServiceID": 1426,
+      "ServiceCode": "105",
+      "ServiceName": "Клінічний аналіз крові+ ретiкулоцити",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1615,
+      "ParentServiceID": 1619,
+      "ServiceCode": "955",
+      "ServiceName": "Проба Кумбса (пряма)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1616,
+      "ParentServiceID": 1619,
+      "ServiceCode": "957",
+      "ServiceName": "Проба Кумбса непряма(холодова)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1617,
+      "ParentServiceID": 1619,
+      "ServiceCode": "956",
+      "ServiceName": "Проба Кумбса непряма (теплова)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1619,
+      "ParentServiceID": 1417,
+      "ServiceCode": null,
+      "ServiceName": "17.02 Ізосерологія",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1620,
+      "ParentServiceID": 1619,
+      "ServiceCode": "951",
+      "ServiceName": "АТ по системі АВО(повні природні)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1621,
+      "ParentServiceID": 1619,
+      "ServiceCode": "953",
+      "ServiceName": "АТ по системі АВО (повнi iмуннi)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1622,
+      "ParentServiceID": 1619,
+      "ServiceCode": "952",
+      "ServiceName": "АТ по системі АВО(повні природні) в молоці",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1624,
+      "ParentServiceID": 1421,
+      "ServiceCode": "1731",
+      "ServiceName": "Простат-специфічний антиген вільний (Free PSA)(ИФА)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1625,
+      "ParentServiceID": 1421,
+      "ServiceCode": "1730",
+      "ServiceName": "Простат-специфічний антиген загальний (Total PSA)(ИФА)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1630,
+      "ParentServiceID": 1408,
+      "ServiceCode": "125",
+      "ServiceName": "Жовчні пігменти в сечі",
+      "Price": 15.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1631,
+      "ParentServiceID": 1408,
+      "ServiceCode": "129",
+      "ServiceName": "Солі в добовій сечі",
+      "Price": 20.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1632,
+      "ParentServiceID": 1426,
+      "ServiceCode": "104",
+      "ServiceName": "Клінічний аналіз крові",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1633,
+      "ParentServiceID": 1426,
+      "ServiceCode": "106",
+      "ServiceName": "Клінічний аналіз крові+час згортання крові",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1634,
+      "ParentServiceID": 1426,
+      "ServiceCode": "107",
+      "ServiceName": "Клінічний аналіз крові+ ретiкулоцити+час згортання крові",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1635,
+      "ParentServiceID": 1412,
+      "ServiceCode": "119",
+      "ServiceName": "Мікроскопія виділень із жіночих статевих органів (1 точка)\r\n",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1637,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "02. Цитологічні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1639,
+      "ParentServiceID": 1411,
+      "ServiceCode": null,
+      "ServiceName": "01.4 Кал",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1640,
+      "ParentServiceID": 1412,
+      "ServiceCode": "128",
+      "ServiceName": "Тест-контакт",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1641,
+      "ParentServiceID": 1412,
+      "ServiceCode": "1174",
+      "ServiceName": "Тест Шуварского-Гуннера (посткоітальний тест)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1643,
+      "ParentServiceID": 1525,
+      "ServiceCode": "1030",
+      "ServiceName": "Гісто-морфологічне дослідження матеріалу(вiд 1 до 4 шт.скла)",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1644,
+      "ParentServiceID": 1637,
+      "ServiceCode": "202",
+      "ServiceName": "Цитологiчне дослiдження видiлень з молочної залози",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1645,
+      "ParentServiceID": 1637,
+      "ServiceCode": "205",
+      "ServiceName": "Цитологічне дослідження на атиповi клiтини (Цервікс-Браш)",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1646,
+      "ParentServiceID": 1637,
+      "ServiceCode": "204",
+      "ServiceName": "Цитологiчне дослiдження соку предміхурової залози",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1647,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "06. Маркери пошкодження судинного ендотелію",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1648,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "08. Вітаміни",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1649,
+      "ParentServiceID": 1648,
+      "ServiceCode": "937",
+      "ServiceName": "Вітамін А",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1650,
+      "ParentServiceID": 1648,
+      "ServiceCode": "938",
+      "ServiceName": "Вітамін E",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1653,
+      "ParentServiceID": 1417,
+      "ServiceCode": null,
+      "ServiceName": "17.01 Иммунологические исследования",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1654,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "18. Медіатори алергійних реакцій",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1656,
+      "ParentServiceID": 1418,
+      "ServiceCode": "629",
+      "ServiceName": "Визначення індексу чутливості до лікарських препаратів (комлексне).",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1657,
+      "ParentServiceID": 1415,
+      "ServiceCode": null,
+      "ServiceName": "20.01 Аутоімунні та системні захворювання",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1658,
+      "ParentServiceID": 1428,
+      "ServiceCode": "962",
+      "ServiceName": "Розчинні фібрин-мономірні комплекси (РФМК)",
+      "Price": 30.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1659,
+      "ParentServiceID": 1379,
+      "ServiceCode": null,
+      "ServiceName": "21.1.3 Вірус Варiцела-Зостер",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1660,
+      "ParentServiceID": 1379,
+      "ServiceCode": null,
+      "ServiceName": "21.1.6 Вірус кашляку",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1661,
+      "ParentServiceID": 1660,
+      "ServiceCode": "945",
+      "ServiceName": "Bordetella pertussis IgA",
+      "Price": 220.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1662,
+      "ParentServiceID": 1660,
+      "ServiceCode": "946",
+      "ServiceName": "Bordetella pertussis IgM",
+      "Price": 220.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1663,
+      "ParentServiceID": 1660,
+      "ServiceCode": "947",
+      "ServiceName": "Bordetella pertussis IgG",
+      "Price": 220.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1664,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "22. Бактеріальні інфекції",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1665,
+      "ParentServiceID": 1664,
+      "ServiceCode": null,
+      "ServiceName": "22.1.5 Gardnerella vaginalis",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1667,
+      "ParentServiceID": 1664,
+      "ServiceCode": null,
+      "ServiceName": "22.1.3 Trihomonas vaginalis",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1668,
+      "ParentServiceID": 1664,
+      "ServiceCode": null,
+      "ServiceName": "22.1.4 Neisseria gonorrhea",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1669,
+      "ParentServiceID": 1664,
+      "ServiceCode": null,
+      "ServiceName": "22.3 Borrelia",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1670,
+      "ParentServiceID": 1664,
+      "ServiceCode": null,
+      "ServiceName": "22.2 Грибкова інфекція",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1671,
+      "ParentServiceID": 1420,
+      "ServiceCode": null,
+      "ServiceName": "22.1.6 Исследование биоценоза урогенитального тракта",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1672,
+      "ParentServiceID": 1664,
+      "ServiceCode": null,
+      "ServiceName": "22.1.7 ВІЛ",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1673,
+      "ParentServiceID": 1672,
+      "ServiceCode": "1613",
+      "ServiceName": "ВІЛ ІФА",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1674,
+      "ParentServiceID": 1369,
+      "ServiceCode": "933",
+      "ServiceName": "Адреналін (добова сеча)",
+      "Price": 115.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1675,
+      "ParentServiceID": 1369,
+      "ServiceCode": "934",
+      "ServiceName": "Норадреналін (добова сеча)",
+      "Price": 115.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1677,
+      "ParentServiceID": 1653,
+      "ServiceCode": "613",
+      "ServiceName": "Криоглобуліни",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1678,
+      "ParentServiceID": 1653,
+      "ServiceCode": "615",
+      "ServiceName": "Лімфоцитотоксичність",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1679,
+      "ParentServiceID": 1653,
+      "ServiceCode": "616",
+      "ServiceName": "Лейкоцитарна сумісність",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1680,
+      "ParentServiceID": 1653,
+      "ServiceCode": "607",
+      "ServiceName": "Комплемент",
+      "Price": 30.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1681,
+      "ParentServiceID": 1653,
+      "ServiceCode": "606",
+      "ServiceName": "Циркулюючі імунні комплекси(ЦИК)",
+      "Price": 35.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1682,
+      "ParentServiceID": 1653,
+      "ServiceCode": "603",
+      "ServiceName": "Клітинний імунітет",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1683,
+      "ParentServiceID": 1653,
+      "ServiceCode": "604",
+      "ServiceName": "Гуморальний імунітет",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1684,
+      "ParentServiceID": 1428,
+      "ServiceCode": "110",
+      "ServiceName": "Агрегація тромбоцитів з АДФ",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1685,
+      "ParentServiceID": 1525,
+      "ServiceCode": "1855",
+      "ServiceName": "Трепан-біопсія молочної залози",
+      "Price": 340.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1686,
+      "ParentServiceID": 1525,
+      "ServiceCode": "1853",
+      "ServiceName": "Капсидний тест",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1687,
+      "ParentServiceID": 1431,
+      "ServiceCode": "2100",
+      "ServiceName": "Комплекс\" Укус кліща\": борреліоз, моноцитарний ерліхіоз, гранулоцитарний анаплазмоз (матеріал:кліщ, кров)",
+      "Price": 420.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1688,
+      "ParentServiceID": 1394,
+      "ServiceCode": "141",
+      "ServiceName": "Антитіла до Vi-антигену збудника черевного тифу",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1689,
+      "ParentServiceID": 1429,
+      "ServiceCode": "911",
+      "ServiceName": "Бактеріологічний посів матеріалу з очей",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1690,
+      "ParentServiceID": 1429,
+      "ServiceCode": "906",
+      "ServiceName": "Бактеріологічний посів матеріалу на стафілокок (ніс)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1691,
+      "ParentServiceID": 1429,
+      "ServiceCode": "927",
+      "ServiceName": "Бактеріологічне дослідження еякуляту",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1692,
+      "ParentServiceID": 1429,
+      "ServiceCode": "922",
+      "ServiceName": "Бактеріологічне дослідження мокротиння",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1693,
+      "ParentServiceID": 1429,
+      "ServiceCode": "912",
+      "ServiceName": "Бактеріологічний посів матеріалу з вуха",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1694,
+      "ParentServiceID": 1429,
+      "ServiceCode": "913",
+      "ServiceName": "Бактеріологічний посів матеріалу з зубоясневого каналу",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1695,
+      "ParentServiceID": 1429,
+      "ServiceCode": "914",
+      "ServiceName": "Бактеріологічний посів матеріалу з пустули",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1696,
+      "ParentServiceID": 1429,
+      "ServiceCode": "915",
+      "ServiceName": "Бактеріологічне дослідження жовчі",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1697,
+      "ParentServiceID": 1669,
+      "ServiceCode": "1742",
+      "ServiceName": "Бореліоз ДНК(Borrelia burgdorferi S.L.)-матеріал:кров,кліщ,лiквор",
+      "Price": 160.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1698,
+      "ParentServiceID": 1429,
+      "ServiceCode": "916",
+      "ServiceName": "Бактеріологічне дослідження виділення зі статевих органів",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1699,
+      "ParentServiceID": 1429,
+      "ServiceCode": "919",
+      "ServiceName": "Бактеріологічне дослідження сечі",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1700,
+      "ParentServiceID": 1429,
+      "ServiceCode": "921",
+      "ServiceName": "Бактеріологічне дослідження грудного молока",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1701,
+      "ParentServiceID": 1429,
+      "ServiceCode": "923",
+      "ServiceName": "Бактеріологічне дослідження виділень зі слизової оболонки \"U\", \"С\", \"V\".",
+      "Price": 280.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1702,
+      "ParentServiceID": 1430,
+      "ServiceCode": "715",
+      "ServiceName": "HLA-B27(матеріал:кров)",
+      "Price": 190.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1703,
+      "ParentServiceID": 1429,
+      "ServiceCode": "924",
+      "ServiceName": "Бактеріологічне дослідження виділень зі слизової оболонки зіву",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1704,
+      "ParentServiceID": 1429,
+      "ServiceCode": "925",
+      "ServiceName": "Бактеріологічне дослідження виділень зі слизової оболонки носу",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1705,
+      "ParentServiceID": 1429,
+      "ServiceCode": "926",
+      "ServiceName": "Бактеріологічне дослідження виділень зі слизової оболонки зіву, носу",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1706,
+      "ParentServiceID": 1418,
+      "ServiceCode": "630",
+      "ServiceName": "Визначення індексу чутливості до лікарського препарату (одне найменування зі списку).",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1707,
+      "ParentServiceID": 1418,
+      "ServiceCode": "628",
+      "ServiceName": "Визначення індексу чутливості до лікарського препарату (одне найменування не із списку).",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1708,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "27. Медіатори пошкодження нервової системи",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1709,
+      "ParentServiceID": 1380,
+      "ServiceCode": "831",
+      "ServiceName": " Хламидії(Chlamidia pneumoniae)  ДНК ПЦР Real-time якісне визначення (материал: мазок з слизовоі нижнього носового ходу,ротоглотки,промивні води бронхів,цілісна кров)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1710,
+      "ParentServiceID": 1708,
+      "ServiceCode": "935",
+      "ServiceName": "Мелатонін",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1712,
+      "ParentServiceID": 1381,
+      "ServiceCode": "833",
+      "ServiceName": "Микоплазма(Mycoplasma pneumoniae) ДНК ПЦР Real-time якісне визначення (материал: мазок з слизовоі нижнього носового ходу,ротоглотки,промивні води бронхів,цілісна кров)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1715,
+      "ParentServiceID": -1,
+      "ServiceCode": null,
+      "ServiceName": "Лабораторні дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1716,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Ультразвукові дослідження",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1717,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1155",
+      "ServiceName": "УЗД нирок + сечовий міхур + простата + залишковий об'єм",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1718,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1101",
+      "ServiceName": "УЗД грудних залоз у чоловiкiв з допплерографiєю",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1719,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1102",
+      "ServiceName": "УЗД щитоподібної залози з допплерографiєю",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1721,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1105",
+      "ServiceName": "УЗД органів малого тазу у жiнок(трансвагiнальне або абдомiнальне)",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1722,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1107",
+      "ServiceName": "УЗД органiв черевної порожнини",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1723,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1108",
+      "ServiceName": "УЗД печiнки з допплерографiєю портального кровотоку",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1727,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1112",
+      "ServiceName": "УЗД лiмфатичних вузлiв ( 1 зона )",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1728,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1113",
+      "ServiceName": "УЗД нирок",
+      "Price": 230.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1729,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1114",
+      "ServiceName": "УЗД наднирникiв",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1730,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1115",
+      "ServiceName": "УЗД сечового міхура з допплерографiєю викидiв сечi",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1733,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1119",
+      "ServiceName": "УЗД мошонки (дорослі, діти)",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1734,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1122",
+      "ServiceName": "УЗД очних яблук та ретробульбарного простору з допплерографiєю",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1735,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1123",
+      "ServiceName": "УЗД слинних залоз",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1736,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1124",
+      "ServiceName": "УЗД м'яких тканин (одна зона)",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1737,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1126",
+      "ServiceName": "УЗД суглобiв (1 зона)",
+      "Price": 320.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1738,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1127",
+      "ServiceName": "Допплерографiя судин шиї з проведенням функцiональних проб",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1739,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1128",
+      "ServiceName": "Доплерографiя судин 1 кiнцiвки-артерiй або вен,дорослі",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1740,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1132",
+      "ServiceName": "Доплерографiя судин 2 кiнцiвок-артерiй та вен,дорослі",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1741,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1133",
+      "ServiceName": "Доплерографiя судин 2 кiнцiвок-артерiй або вен,дорослі",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1742,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1135",
+      "ServiceName": "УЗД вагітних 1 триместр",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1743,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1136",
+      "ServiceName": "УЗД доплерометрія плоду та маточно-плацентарного кровотоку",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1744,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1141",
+      "ServiceName": "УЗД молочних залоз з допплерографiєю",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1745,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1148",
+      "ServiceName": "УЗД нирок з допплерографiєю",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1746,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1156",
+      "ServiceName": "УЗД вагітних 1 триместр (двійня)",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1747,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1157",
+      "ServiceName": "УЗД вагітних 2 триместр чи 3 триместр(двійня)",
+      "Price": 550.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1748,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1158",
+      "ServiceName": "УЗД доплерометрія плоду та маточно-плацентарного кровотоку(двійня)",
+      "Price": 550.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1749,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1162",
+      "ServiceName": "УЗД суглобiв (2 симетричних зони)",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1750,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1163",
+      "ServiceName": "Функціональне дослідження жовчного міхура",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1751,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1164",
+      "ServiceName": "УЗД органiв черевної порожнини з допплерографiєю",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1753,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1167",
+      "ServiceName": "Доплерографiя судин 1 кiнцiвки-артерiй та вен,дорослі",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1754,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1168",
+      "ServiceName": "Доплерографiя судин голови",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1755,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1169",
+      "ServiceName": "Доплерографiя судин голови i шиї",
+      "Price": 480.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1756,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1170",
+      "ServiceName": "УЗД вагітних 2 триместр",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1757,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1171",
+      "ServiceName": "УЗД вагітних 3 триместр",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1758,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1172",
+      "ServiceName": "УЗД вагітних 3 триместр+доплер плода",
+      "Price": 600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1759,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1202",
+      "ServiceName": "Доплерографiя судин 1 кiнцiвки-артерiй або вен, діти",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1760,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1203",
+      "ServiceName": "Доплерографiя судин 1 кiнцiвки-артерiй та вен, діти",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1761,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1204",
+      "ServiceName": "Доплерографiя судин 2 кiнцiвок-артерiй та вен, діти",
+      "Price": 650.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1762,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1205",
+      "ServiceName": "Доплерографiя судин 2 кiнцiвок-артерiй або вен, діти",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1765,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1208",
+      "ServiceName": "УЗД лімфатичних вузлів (комплекс)",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1766,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1209",
+      "ServiceName": "УЗД молочних  залоз з допплерографiєю, дiти",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1768,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1211",
+      "ServiceName": "УЗД єдиного яєчка+мошонки, діти",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1771,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1214",
+      "ServiceName": "УЗД органiв черевної порожнини з допплерографiєю+функція жовчного міхура, дiти",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1772,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1215",
+      "ServiceName": "УЗД органiв черевної порожнини з допплерографiєю та органи малого тазу, дiти",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1773,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1216",
+      "ServiceName": "УЗД органiв черевної порожнини з допплерографiєю+допплерографiя нирок+ сечовий міхур",
+      "Price": 600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1777,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1220",
+      "ServiceName": "УЗД нирок з допплерографiєю + сечовий міхур, дiти",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1778,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1221",
+      "ServiceName": "УЗД нирок з допплерографiєю+ сечовий міхур + простата + залишковий об'єм сечi",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1779,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1222",
+      "ServiceName": "УЗД єдиної нирки з допплерографiєю+ сечовий міхур+залишковий об'єм сечi",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1780,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1223",
+      "ServiceName": "УЗД простати (абдомiнально) +сечовий міхур +залишковий об'єм сечi",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1782,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1225",
+      "ServiceName": "УЗД серця з допплерографiєю+ магістральнi судини серця",
+      "Price": 330.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1787,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1230",
+      "ServiceName": "УЗД скринінг дитини до 18 рокiв",
+      "Price": 700.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1788,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1231",
+      "ServiceName": "Нейросонографія (УЗД головного мозку у дiтей до 1 року)",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1789,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1232",
+      "ServiceName": "Допплерографiя аорти та її гiлок",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1791,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1234",
+      "ServiceName": "УЗД діуретична нефросонографія",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1792,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1235",
+      "ServiceName": "УЗД пілоруса у новонароджених при синдромi блювоти неуточненного генезу",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1794,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1237",
+      "ServiceName": "УЗД скринінг для чоловiкiв",
+      "Price": 1300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1795,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1238",
+      "ServiceName": "УЗД скринінг для жiнок",
+      "Price": 1300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1796,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1239",
+      "ServiceName": "УЗД пенiса з допплерографiєю",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1798,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1629",
+      "ServiceName": "УЗД простати (трансректально)",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1799,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1825",
+      "ServiceName": "УЗД тiмуса  (дiтям до 3-х рокiв)",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1800,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1829",
+      "ServiceName": "УЗД органiв черевної порожнини+ нирки",
+      "Price": 370.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1801,
+      "ParentServiceID": -1,
+      "ServiceCode": null,
+      "ServiceName": "Медичні послуги",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1804,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Маніпуляція",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1806,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1001",
+      "ServiceName": "Взяття  венозної кровi одноразовим стерильним інструментом і підготовка до дослідження",
+      "Price": 25.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1807,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1002",
+      "ServiceName": "Взяття матерiала одноразовим стерильним iнструментом",
+      "Price": 20.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1808,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1003",
+      "ServiceName": "Зішкріб зі слізової оболонки урогенітального тракту у чоловіків",
+      "Price": 25.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1809,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1004",
+      "ServiceName": "Зішкріб зі слізової оболонки урогенітального тракту у жінок (у ціну входить вартість гінекологічного дзеркала, рукавички стерильні, пелюшка одноразова)",
+      "Price": 30.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1810,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1005",
+      "ServiceName": "Забiр соку передміхурової залози",
+      "Price": 30.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1811,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1009",
+      "ServiceName": "Забiр матерiала катетером",
+      "Price": 15.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1812,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1011",
+      "ServiceName": "Cito",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1813,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1012",
+      "ServiceName": "Запис на дисковий носій інформації",
+      "Price": 5.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1814,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1015",
+      "ServiceName": "Взяття  венозної кровi (вакутайнер)",
+      "Price": 7.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1815,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1178",
+      "ServiceName": "Забiр матерiала на дому",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1816,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1597",
+      "ServiceName": "Лікарський забір матеріалу у жінок",
+      "Price": 25.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1817,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1598",
+      "ServiceName": "Лікарський забір матеріалу",
+      "Price": 15.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1818,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1604",
+      "ServiceName": "Запис дослідження на на дисковий носій інформації для вагiтних",
+      "Price": 30.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1819,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1008",
+      "ServiceName": "Вимірювання артеріального тиску",
+      "Price": 10.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1820,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1401",
+      "ServiceName": "Внутрішньом'язова ін'єкція",
+      "Price": 20.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1821,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1402",
+      "ServiceName": "Внутрішньовенна ін'єкція",
+      "Price": 35.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1823,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1424",
+      "ServiceName": "Місцева анестезія (1 маніпуляція)",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1824,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1461",
+      "ServiceName": "Крапельниця",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1825,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1515",
+      "ServiceName": "Лiкування 1 категорії складності",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1826,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1517",
+      "ServiceName": "Лiкування 2 категорії складності",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1827,
+      "ParentServiceID": 1804,
+      "ServiceCode": "1518",
+      "ServiceName": "Лiкування 3 категорії складності",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1829,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація терапевта",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1830,
+      "ParentServiceID": 1829,
+      "ServiceCode": "1064",
+      "ServiceName": "Консультація лiкаря терапевта",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1831,
+      "ParentServiceID": 1829,
+      "ServiceCode": "1160",
+      "ServiceName": "Електрокардіограма",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1832,
+      "ParentServiceID": 1829,
+      "ServiceCode": "1161",
+      "ServiceName": "Електрокардіограма (з розшифровкою)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1833,
+      "ParentServiceID": 1829,
+      "ServiceCode": "1456",
+      "ServiceName": "Холтерівське моніторування (при наявностi ЕКГ не більше 1 тиждня давностi)",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1834,
+      "ParentServiceID": 1829,
+      "ServiceCode": "1557",
+      "ServiceName": "Добове моніторування артеріального тиску ",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1836,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація кардіолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1837,
+      "ParentServiceID": 1836,
+      "ServiceCode": "1063",
+      "ServiceName": "Консультація лiкаря кардіолога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1838,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація уролога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1839,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1060",
+      "ServiceName": "Консультація лiкаря уролога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1840,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1182",
+      "ServiceName": "Консультація лiкаря  сексолога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1841,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1480",
+      "ServiceName": "Масаж простати",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1842,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1049",
+      "ServiceName": "Електросонотерапія",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1843,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1050",
+      "ServiceName": "Електрофорез",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1844,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1051",
+      "ServiceName": "Електростимуляцiя",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1845,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1052",
+      "ServiceName": "Дiадинамотерапiя",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1846,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1053",
+      "ServiceName": "Комплекс сеансів фізіотерапії",
+      "Price": 360.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1853,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1509",
+      "ServiceName": "Лікування лiкаря  уролога-сексолога",
+      "Price": 270.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1854,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1510",
+      "ServiceName": "Лікування лiкаря  сексолога 2 група",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1855,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1511",
+      "ServiceName": "Лікування лiкаря  сексолога 3 група",
+      "Price": 1000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1856,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1514",
+      "ServiceName": "Лікування лiкаря  сексолога 4 група",
+      "Price": 1500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1857,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація гінеколога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1858,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1067",
+      "ServiceName": "Консультація лiкаря гінеколога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1859,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1565",
+      "ServiceName": "Премедикація: венозний доступ катетером «Venflon»,атропін, тавегіл, дексалгін",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1860,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1070",
+      "ServiceName": "Цервікометрія",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1861,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1175",
+      "ServiceName": "Біопсія радіохвильовим апаратом 1 категорії складності",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1862,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1176",
+      "ServiceName": "Біопсія радіохвильовим апаратом 2 категорії складності",
+      "Price": 450.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1863,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1410",
+      "ServiceName": "Введення  внутріматочної спіралі ( без вартості спіралі) 1 категорії складності",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1864,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1411",
+      "ServiceName": "Видалення внутріматочної спіралі до 5 рокiв",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1865,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1412",
+      "ServiceName": "Діатермокоагуляція шийки",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1866,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1415",
+      "ServiceName": "Конусовидна електроексцизія шийки матки",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1867,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1416",
+      "ServiceName": "Конусовидна електроексцизія шийки матки 2 категорії складності",
+      "Price": 450.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1868,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1417",
+      "ServiceName": "Кріодеструкція шийки матки",
+      "Price": 450.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1869,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1419",
+      "ServiceName": "Кольпоскопія",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1870,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1425",
+      "ServiceName": "Лiкування ш/м методом хімічної коагуляции",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1871,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1428",
+      "ServiceName": "Поліпектомія цервикального каналу шийки матки",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1872,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1433",
+      "ServiceName": "Конусовидна електроексцизія шийки матки 3 категорії складності",
+      "Price": 550.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1873,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1434",
+      "ServiceName": "Лікування ш/м  радіохвильовим методом",
+      "Price": 980.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1874,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1519",
+      "ServiceName": "Кріодеструкція шийки матки 2 категорії складності",
+      "Price": 550.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1875,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1520",
+      "ServiceName": "Кріодеструкція шийки матки 3 категорії складності",
+      "Price": 650.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1876,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1521",
+      "ServiceName": "Введення ВМС ( без вартості ВМС)  2 категорії складності",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1877,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1523",
+      "ServiceName": "Введення ВМС Мерена ( без вартості ВМС) ",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1878,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1524",
+      "ServiceName": "Бiопсiя - дiатермоелектроексцизія",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1879,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1525",
+      "ServiceName": "ДЕК бiльше 5 кондилом",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1880,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1526",
+      "ServiceName": "ДЕК до 5 кондилом",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1881,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1527",
+      "ServiceName": "Амiновый тест",
+      "Price": 15.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1882,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1532",
+      "ServiceName": "Видалення внутріматочної спіралі( бiльше 5 рокiв)",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1883,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1562",
+      "ServiceName": "Лікування ш/м  радіохвильовим методом 2 категорії складності",
+      "Price": 1100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1884,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1563",
+      "ServiceName": "Лікування ш/м  радіохвильовим методом 3 категорії складності",
+      "Price": 1250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1885,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1564",
+      "ServiceName": "Введення колагенової пластини+",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1886,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1625",
+      "ServiceName": "Вишкрібання цервікального каналу",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1887,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1626",
+      "ServiceName": "Підбір та встановлення  піхвового песарія (при випадінні статевих органів у жінок)",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1888,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1627",
+      "ServiceName": "Заміна  піхвового песарія(при випадінні статевих органів у жінок)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1889,
+      "ParentServiceID": 1857,
+      "ServiceCode": "2307",
+      "ServiceName": "Плазмоліфтінг (1 пробірка)",
+      "Price": 1000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1890,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація дерматолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1891,
+      "ParentServiceID": 1890,
+      "ServiceCode": "1068",
+      "ServiceName": "Консультація лiкаря дерматовенеролога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1892,
+      "ParentServiceID": 1890,
+      "ServiceCode": "1440",
+      "ServiceName": "Електроексцизія (видалення) папілом, бородавок, контагіозного моллюска, судинних '''зiрочок'''",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1893,
+      "ParentServiceID": 1890,
+      "ServiceCode": "1441",
+      "ServiceName": "Електроексцизія (видалення) невуса",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1894,
+      "ParentServiceID": 1890,
+      "ServiceCode": "1444",
+      "ServiceName": "Кріотерапія рідким азотом бородавки, папілом, кератом і iн.утворень",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1895,
+      "ParentServiceID": 1890,
+      "ServiceCode": "1445",
+      "ServiceName": "Видалення рідким азотом пігментної плями",
+      "Price": 50.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1896,
+      "ParentServiceID": 1890,
+      "ServiceCode": "1452",
+      "ServiceName": "Радіохвильове видалення: контагiозний молюск до 10 одиниць",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1897,
+      "ParentServiceID": 1890,
+      "ServiceCode": "1460",
+      "ServiceName": "Радіохвильове видалення новоутворень (0,5-1 см)",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1898,
+      "ParentServiceID": 1890,
+      "ServiceCode": "1516",
+      "ServiceName": "Дерматофіброма (звичайна)",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1899,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2300",
+      "ServiceName": "Дерматофіброма (ускладнена)",
+      "Price": 550.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1900,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2301",
+      "ServiceName": "Радіохвильове видалення: контагiозний молюск бiльше 10 одиниць.",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1901,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2302",
+      "ServiceName": "Радіохвильове видалення новоутворень (1-3 см)",
+      "Price": 450.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1902,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2303",
+      "ServiceName": "Радіохвильове видалення новоутворень (3-5 см)",
+      "Price": 550.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1903,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2304",
+      "ServiceName": "Радіохвильове видалення новоутворень бiльше 5 см",
+      "Price": 650.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1904,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2305",
+      "ServiceName": "Радіохвильове видалення: папіллом, бородавок, сосудістих зірочок діаметром 0,5 см",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1905,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2306",
+      "ServiceName": "Радіохвильове видалення: папіллом, бородавок, сосудістих зірочок діаметром бiльше 0,5 см ",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1906,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація ЛОР",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1907,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1059",
+      "ServiceName": "Консультація лiкаря отоларинголога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1908,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1404",
+      "ServiceName": "Кріозрошення носоглотки, 1 бiк",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1909,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1405",
+      "ServiceName": "Кріозрошення носоглотки (курс 6 процедур)",
+      "Price": 620.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1910,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1806",
+      "ServiceName": "Пункція гайморової пазухи",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1911,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1807",
+      "ServiceName": "Промивання лакун піднебінних мигдалин",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1912,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1808",
+      "ServiceName": "Переміщення по Проєтцу з лікарськими препаратами(Кукушка)",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1913,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1809",
+      "ServiceName": "Ін'єкції нижніх носових раковин при алергічних станах",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1915,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1811",
+      "ServiceName": "Вимивання чужорідного тіла зовнішнього слухового проходу",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1916,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1812",
+      "ServiceName": "Продування по Поліцеру",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1917,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1813",
+      "ServiceName": "Видалення чужорідного тіла носа",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1918,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1814",
+      "ServiceName": "Видалення чужорідного тіла гортані",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1920,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1816",
+      "ServiceName": "Катетеризація слухової труби",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1921,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1817",
+      "ServiceName": "Внутрішньогортанне вливання",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1925,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1821",
+      "ServiceName": "Анемізацiя середнiх носових ходів",
+      "Price": 30.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1926,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1822",
+      "ServiceName": "Передня томпонада",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1928,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1824",
+      "ServiceName": "Введення турунди",
+      "Price": 30.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1929,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1837",
+      "ServiceName": "Лікування рецидивуючих носових кровотеч рідкий азотом",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1930,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1838",
+      "ServiceName": "Дія на носові раковини (вазомоторний риніт, гіпертрофічний риніт, медикаментозний риніт), 1 сторона",
+      "Price": 600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1933,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1841",
+      "ServiceName": "Видалення доброякісних новоутворень глотки",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1934,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1842",
+      "ServiceName": "Промивання лакун мигдалин (1 сторона)",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1935,
+      "ParentServiceID": 1906,
+      "ServiceCode": "949",
+      "ServiceName": "Вимивання сірчаних пробок(1 шт.)",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1936,
+      "ParentServiceID": 1906,
+      "ServiceCode": "950",
+      "ServiceName": "Вимивання сірчаних пробок (2 шт.)",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1937,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація гастроентеролога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1938,
+      "ParentServiceID": 1937,
+      "ServiceCode": "1039",
+      "ServiceName": "Консультація лiкаря гастроентеролога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1939,
+      "ParentServiceID": 1937,
+      "ServiceCode": "1045",
+      "ServiceName": "Хелiк-тест (дихальний тест)",
+      "Price": 280.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1940,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація ревматолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1942,
+      "ParentServiceID": 1940,
+      "ServiceCode": "1831",
+      "ServiceName": "Консультація лiкаря ревматолога (Ерахторiна Н.В., заслужений лікар України)",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1943,
+      "ParentServiceID": 1940,
+      "ServiceCode": "1043",
+      "ServiceName": "Консультація лiкаря ревматолога к.м.н.",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1944,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація алерголога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1945,
+      "ParentServiceID": 1944,
+      "ServiceCode": "1054",
+      "ServiceName": "Консультація лiкаря алерголога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1947,
+      "ParentServiceID": 1944,
+      "ServiceCode": "1631",
+      "ServiceName": "Алергопроби (пилкові  алергени,8-10 проб)",
+      "Price": 800.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1948,
+      "ParentServiceID": 1944,
+      "ServiceCode": "1632",
+      "ServiceName": "АСIТ( алергенспецифічна імунотерапія)",
+      "Price": 1050.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1949,
+      "ParentServiceID": 1944,
+      "ServiceCode": "1633",
+      "ServiceName": "Алергопроби (епiдермальні  алергени:кiшка,собака,кролик)",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1950,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація ендокринолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1951,
+      "ParentServiceID": 1950,
+      "ServiceCode": "1832",
+      "ServiceName": "Консультація лiкаря ендокринолога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1953,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація інфекціоніста",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1954,
+      "ParentServiceID": 1953,
+      "ServiceCode": "1058",
+      "ServiceName": "Консультація лiкаря iнфекціоніста",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1955,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація паразитолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1956,
+      "ParentServiceID": 1955,
+      "ServiceCode": "1069",
+      "ServiceName": "Консультація лiкаря паразитолога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1957,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація невропатолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1958,
+      "ParentServiceID": 1957,
+      "ServiceCode": "1057",
+      "ServiceName": "Консультація лiкаря невропатолога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1959,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація травмотолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1960,
+      "ParentServiceID": 1959,
+      "ServiceCode": "1061",
+      "ServiceName": "Консультація лiкаря травматолога, ортопеда",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1961,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація імунолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1962,
+      "ParentServiceID": 1961,
+      "ServiceCode": "1066",
+      "ServiceName": "Консультація лiкаря iмунолога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1963,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація генетика",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1964,
+      "ParentServiceID": 1963,
+      "ServiceCode": "1065",
+      "ServiceName": "Консультація лiкаря генетика",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1965,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація психотерапевта",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1966,
+      "ParentServiceID": 1965,
+      "ServiceCode": "1055",
+      "ServiceName": "Консультація лiкаря психотерапевта (перший вiзит)",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1967,
+      "ParentServiceID": 1965,
+      "ServiceCode": "1056",
+      "ServiceName": "Консультація лiкаря психотерапевта (повторний вiзит)",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1968,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація офтальмолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1975,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація проктолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1976,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1833",
+      "ServiceName": "Консультація лiкаря проктолога(первинний огляд)",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1980,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1500",
+      "ServiceName": "Лікування ускладнених форм геморою(тромбоз, анальна тріщина, кровотеча)",
+      "Price": 12700.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1981,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1700",
+      "ServiceName": "Видалення наружного тромбозу",
+      "Price": 2500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1982,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1834",
+      "ServiceName": "Лікування:внутрiшнього геморою, 1 категорії складності",
+      "Price": 5500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1983,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1835",
+      "ServiceName": "Лікування:внутрiшнього геморою, 2 категорії складності",
+      "Price": 7000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1984,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1836",
+      "ServiceName": "Лікування:внутрiшнього геморою, 3 категорії складності",
+      "Price": 9500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1985,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Мануальна терапія",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1989,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Медичний огляд",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1991,
+      "ParentServiceID": 1989,
+      "ServiceCode": null,
+      "ServiceName": "Оформлення медичної  справки",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1993,
+      "ParentServiceID": 1991,
+      "ServiceCode": "1150",
+      "ServiceName": "Консультацiя лiкаря дерматолога (довідка)",
+      "Price": 20.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1994,
+      "ParentServiceID": 1991,
+      "ServiceCode": "1138",
+      "ServiceName": "Консультацiя лiкаря терапевта (довідка)",
+      "Price": 20.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1995,
+      "ParentServiceID": 1989,
+      "ServiceCode": null,
+      "ServiceName": "Медична книжка",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 1997,
+      "ParentServiceID": 1995,
+      "ServiceCode": "929",
+      "ServiceName": "Черевний тиф",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1998,
+      "ParentServiceID": 1995,
+      "ServiceCode": "8119",
+      "ServiceName": "Вагинальнi, цервикальні, уретральні мазки на визначення флори",
+      "Price": 15.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 1999,
+      "ParentServiceID": 1995,
+      "ServiceCode": "1010",
+      "ServiceName": "Забiр матерiала (санкнижка)",
+      "Price": 30.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2000,
+      "ParentServiceID": 1995,
+      "ServiceCode": "8907",
+      "ServiceName": "Обстеження на патогену групу ентеробактерій",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2001,
+      "ParentServiceID": 1995,
+      "ServiceCode": "8130",
+      "ServiceName": "Кал на яйцеглист",
+      "Price": 20.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2002,
+      "ParentServiceID": 1995,
+      "ServiceCode": "8113",
+      "ServiceName": "МРП",
+      "Price": 15.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2003,
+      "ParentServiceID": 1995,
+      "ServiceCode": "1139",
+      "ServiceName": "Консультацiя лiкаря гiнеколога (санкнижка)",
+      "Price": 20.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2005,
+      "ParentServiceID": 1995,
+      "ServiceCode": "1151",
+      "ServiceName": "Консультацiя лiкаря отоларинголога (санкнижка)",
+      "Price": 20.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2006,
+      "ParentServiceID": 1995,
+      "ServiceCode": "1033",
+      "ServiceName": "Консультацiя лiкаря стоматолога (санкнижка)",
+      "Price": 10.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2008,
+      "ParentServiceID": 1995,
+      "ServiceCode": "8905",
+      "ServiceName": "Посів мазка із зіву на стафілокок",
+      "Price": 45.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2009,
+      "ParentServiceID": 1995,
+      "ServiceCode": "8906",
+      "ServiceName": "Посів мазка із носа на стафілокок",
+      "Price": 45.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2010,
+      "ParentServiceID": 1995,
+      "ServiceCode": "8131",
+      "ServiceName": "Зскрібок на ентеробіоз",
+      "Price": 15.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2011,
+      "ParentServiceID": 1995,
+      "ServiceCode": "8132",
+      "ServiceName": "Уретральні мазки на визначення флори",
+      "Price": 15.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2012,
+      "ParentServiceID": 1995,
+      "ServiceCode": "8201",
+      "ServiceName": "Цитологiчне дослідження матеріалу",
+      "Price": 20.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2015,
+      "ParentServiceID": 1890,
+      "ServiceCode": "1071",
+      "ServiceName": "Дерматоскопія (з консультацією лікаря)",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2017,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1432",
+      "ServiceName": "Розпрямлення фімозу",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2019,
+      "ParentServiceID": 1829,
+      "ServiceCode": "1072",
+      "ServiceName": "Консультація лiкаря терапевта (на виїзді 1 час)",
+      "Price": 440.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2021,
+      "ParentServiceID": 1426,
+      "ServiceCode": "1849",
+      "ServiceName": "Клінічний аналіз крові (для тварин)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2023,
+      "ParentServiceID": 1637,
+      "ServiceCode": "1635",
+      "ServiceName": "Рідинна цитологія ПАП-тест Cell-Prep",
+      "Price": 335.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2024,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1851",
+      "ServiceName": "IГХ (імуногiстохiмічне дослідження 1 маркер)",
+      "Price": 390.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2025,
+      "ParentServiceID": 1525,
+      "ServiceCode": "1852",
+      "ServiceName": "Консультація матеріалу(патоморфологічного)",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2026,
+      "ParentServiceID": 1637,
+      "ServiceCode": "1857",
+      "ServiceName": "Цитологічне дослідження матеріалу з ШКТ",
+      "Price": 260.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2027,
+      "ParentServiceID": 1412,
+      "ServiceCode": "124",
+      "ServiceName": "Клінічне дослідження мокроти",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2028,
+      "ParentServiceID": 1428,
+      "ServiceCode": "368",
+      "ServiceName": "Міжнародне нормалізоване співвідношення (МНС)",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2029,
+      "ParentServiceID": 1399,
+      "ServiceCode": "356",
+      "ServiceName": "Холестерин ліпопротеїдів дуже низької щільності(ЛПДНЩ)",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2030,
+      "ParentServiceID": 1399,
+      "ServiceCode": "358",
+      "ServiceName": "Коефіцієнт атерогеності",
+      "Price": 10.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2031,
+      "ParentServiceID": 1399,
+      "ServiceCode": "374",
+      "ServiceName": "Бета-ліпопротеїди",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2032,
+      "ParentServiceID": 1403,
+      "ServiceCode": "350",
+      "ServiceName": "Електроліти в сечi: калій, натрій, хлор",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2033,
+      "ParentServiceID": 1619,
+      "ServiceCode": "954",
+      "ServiceName": "АТ по системі АВО (повнi iмуннi) в молоцi",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2034,
+      "ParentServiceID": 1401,
+      "ServiceCode": "1741",
+      "ServiceName": "Альбумiн/креатинiнове спiввiдношення: мiкроальбумiн у сечi,креатинiн у сечi (ранкова порцiя)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2035,
+      "ParentServiceID": 1369,
+      "ServiceCode": "1718",
+      "ServiceName": "Кортизол (Tosoh)",
+      "Price": 170.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2037,
+      "ParentServiceID": 1374,
+      "ServiceCode": "883",
+      "ServiceName": "Вiрус простого герпесу, ПЛР(HSV 1/2, якiсне визначення (матерiал:зiшкребок))",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2038,
+      "ParentServiceID": 1659,
+      "ServiceCode": "887",
+      "ServiceName": "Вірус Варіцелла-Зостер (VZV), ПЛР Real-time якісне визначення  (матеріал:зiшкребок)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2039,
+      "ParentServiceID": 1423,
+      "ServiceCode": "851",
+      "ServiceName": "Сумарнi антитіла к гельмiнтам (токсокар,трихiнела,опiсторх,ехiнокок,аскарида)",
+      "Price": 380.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2040,
+      "ParentServiceID": 1577,
+      "ServiceCode": "959",
+      "ServiceName": "Вуглеводний обмін(глюкоза,iнсулiн,С-пептид,глікозильований гемоглобiн,розрахунок НОМА)",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2042,
+      "ParentServiceID": 1619,
+      "ServiceCode": "112",
+      "ServiceName": "Визначення груп крові за системою АВ0+ Rh+антирезуснi антитіла",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2043,
+      "ParentServiceID": 1421,
+      "ServiceCode": "1732",
+      "ServiceName": "Бета-2-мiкроглобулiн (кров,сеча)",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2045,
+      "ParentServiceID": 1368,
+      "ServiceCode": "402",
+      "ServiceName": "Хоріонічний гонадотропін людини (IФА)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2047,
+      "ParentServiceID": 1657,
+      "ServiceCode": "710",
+      "ServiceName": "LE-клiтини",
+      "Price": 70.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2048,
+      "ParentServiceID": 1657,
+      "ServiceCode": "941",
+      "ServiceName": "Антитiла ANCA скринiнг(антигени PR3,MPO)",
+      "Price": 260.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2049,
+      "ParentServiceID": 1384,
+      "ServiceCode": "724",
+      "ServiceName": "Вірус папіломи людини високого канцерогеного риску (16,18,31,33,35,39,45,51,52,56,58,59)",
+      "Price": 280.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2050,
+      "ParentServiceID": 1384,
+      "ServiceCode": "842",
+      "ServiceName": "Вірус папіломи людини 16/18, ДНК",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2051,
+      "ParentServiceID": 1384,
+      "ServiceCode": "843",
+      "ServiceName": "Вірус папіломи людини 31/33, ДНК",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2052,
+      "ParentServiceID": 1384,
+      "ServiceCode": "880",
+      "ServiceName": "Вірус папіломи людини 16, ДНК",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2053,
+      "ParentServiceID": 1384,
+      "ServiceCode": "881",
+      "ServiceName": "Вірус папіломи людини 18, ДНК",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2054,
+      "ParentServiceID": 1384,
+      "ServiceCode": "1733",
+      "ServiceName": "Вірус папіломи людини високого канцерогеного риску (16,18,31,33,35,39,45,51,52,56,58,59), кількісно",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2055,
+      "ParentServiceID": 1384,
+      "ServiceCode": "1739",
+      "ServiceName": "Кількісне визначення збудника, методом ПЦР",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2056,
+      "ParentServiceID": 1384,
+      "ServiceCode": "1740",
+      "ServiceName": "Кількісне визначення збудника, методом ПЦР (якщо в направленнi бiльше 1-ї iнфекцiї)",
+      "Price": 20.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2057,
+      "ParentServiceID": 1378,
+      "ServiceCode": "844",
+      "ServiceName": "Вірусу Епштейна-Барр, ПЛР (кров або слина), якiсне визначення",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2058,
+      "ParentServiceID": 1378,
+      "ServiceCode": "8001",
+      "ServiceName": "Вірусу Епштейна-Барр, ПЛР (кров або слина), кiлькiсне визначення",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2059,
+      "ParentServiceID": 1380,
+      "ServiceCode": "832",
+      "ServiceName": " Хламидії (Chlamidia Trachomatis), ДНК ПЦР Real-time якісне визначення",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2060,
+      "ParentServiceID": 1668,
+      "ServiceCode": "872",
+      "ServiceName": "Гонорея (Neisseria gonorrhea), ДНК ПЦР Real-Time якісне визначення",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2061,
+      "ParentServiceID": 1394,
+      "ServiceCode": "850",
+      "ServiceName": "Туберкульоз, ДНК ПЦР Real-time якісне визначення",
+      "Price": 185.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2062,
+      "ParentServiceID": 1381,
+      "ServiceCode": "897",
+      "ServiceName": "Уреаплазма (Ureaplasma species)",
+      "Price": 130.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2063,
+      "ParentServiceID": 1374,
+      "ServiceCode": "876",
+      "ServiceName": "Вiрус герпесу 6-й тип, ПЛР",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2064,
+      "ParentServiceID": 1390,
+      "ServiceCode": "895",
+      "ServiceName": "Антитіла до вірусу гепатиту (HCV), якiстно",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2065,
+      "ParentServiceID": 1388,
+      "ServiceCode": "1702",
+      "ServiceName": "Проверхневий антиген до гепатиту В (ЄХЛ)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2066,
+      "ParentServiceID": 1388,
+      "ServiceCode": "860",
+      "ServiceName": "HBV антитiла к HBs Ag",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2067,
+      "ParentServiceID": 1429,
+      "ServiceCode": "907",
+      "ServiceName": "Бактеріологічне дослідження на патогенну групу ентеробактерiй",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2068,
+      "ParentServiceID": 1382,
+      "ServiceCode": "901",
+      "ServiceName": "Генiтальна система",
+      "Price": 580.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2069,
+      "ParentServiceID": 1428,
+      "ServiceCode": "963",
+      "ServiceName": "Ризик тромбозу",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2070,
+      "ParentServiceID": 1159,
+      "ServiceCode": "1584",
+      "ServiceName": "Подарунковий сертифікат 1",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2071,
+      "ParentServiceID": 1159,
+      "ServiceCode": "1585",
+      "ServiceName": "Подарунковий сертифікат 2",
+      "Price": 1000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2072,
+      "ParentServiceID": 1159,
+      "ServiceCode": "1586",
+      "ServiceName": "Подарунковий сертифікат 3",
+      "Price": 2000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2073,
+      "ParentServiceID": 1159,
+      "ServiceCode": "1587",
+      "ServiceName": "Подарунковий сертифікат 4",
+      "Price": 5000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2074,
+      "ParentServiceID": 1394,
+      "ServiceCode": "1738",
+      "ServiceName": "12 IППП (кiлькicно)",
+      "Price": 700.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2075,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "28. Комплексні програми",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2098,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1859",
+      "ServiceName": "Iмуногiсто(цито-)хiмiчне дослiдження,коктель з двох антитiл",
+      "Price": 520.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2099,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1858",
+      "ServiceName": "Визначення амплiфiкації гену HER-2/neu",
+      "Price": 11715.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2100,
+      "ParentServiceID": 1378,
+      "ServiceCode": "1743",
+      "ServiceName": "Антитіла Ig G до капсидного антигену вірусу Епштейна-Барр VCA (ЕВV VCA IgG)",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2101,
+      "ParentServiceID": 1423,
+      "ServiceCode": "1481",
+      "ServiceName": "Токсокар в тітрi",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2102,
+      "ParentServiceID": 1409,
+      "ServiceCode": "1240",
+      "ServiceName": "Магнiй в сечi",
+      "Price": 40.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2103,
+      "ParentServiceID": 1378,
+      "ServiceCode": "1744",
+      "ServiceName": "Антитіла Ig G до раннього антигену вірусу Епштейна-Барр (ЕВV IgG)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2104,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1860",
+      "ServiceName": "Бiопсiя кiшкiвника",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2105,
+      "ParentServiceID": 1431,
+      "ServiceCode": "1241",
+      "ServiceName": "Комплекс\"Транспорт солей\"",
+      "Price": 950.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2106,
+      "ParentServiceID": 1944,
+      "ServiceCode": "1636",
+      "ServiceName": "Алергопроби (побутові  алергени,2 вида пилу)",
+      "Price": 320.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2107,
+      "ParentServiceID": 1857,
+      "ServiceCode": "2005",
+      "ServiceName": "Лікування ш/м  радіохвильовим методом 4 категорії складності",
+      "Price": 1500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2108,
+      "ParentServiceID": 1648,
+      "ServiceCode": "1242",
+      "ServiceName": "Вiтамiн D",
+      "Price": 360.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2109,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1183",
+      "ServiceName": "Патологогістологічне дослідження V категорії складності",
+      "Price": 675.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2111,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1861",
+      "ServiceName": "Лiкування мигдаликiв(кріо)",
+      "Price": 1400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2112,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1862",
+      "ServiceName": "Лiкування при фарингiтах(кріо)",
+      "Price": 600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2113,
+      "ParentServiceID": 1906,
+      "ServiceCode": "1863",
+      "ServiceName": "Ендоскопічний огляд лiкаря",
+      "Price": 440.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2114,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3001",
+      "ServiceName": "Еластографія печiнки",
+      "Price": 1300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2116,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3002",
+      "ServiceName": "Еластографія щитовидної залози",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2120,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1745",
+      "ServiceName": "Бiопсiя шлунку",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2121,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1864",
+      "ServiceName": "Еластографія лімфатичних вузлiв, 1 зона",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2122,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1865",
+      "ServiceName": "Еластографія сухожилкiв та зв'язок 1 суглобу",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2123,
+      "ParentServiceID": 1716,
+      "ServiceCode": "1866",
+      "ServiceName": "УЗД суглобiв панорамне(розширене), 1 зона",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2124,
+      "ParentServiceID": 1431,
+      "ServiceCode": "1746",
+      "ServiceName": "Глюкозотолерантний тест для вагiтних",
+      "Price": 80.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2125,
+      "ParentServiceID": 1431,
+      "ServiceCode": "1747",
+      "ServiceName": "Глюкозотолерантний тест",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2126,
+      "ParentServiceID": 1431,
+      "ServiceCode": "1748",
+      "ServiceName": "Комплекс печінкові проби",
+      "Price": 220.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2127,
+      "ParentServiceID": 1431,
+      "ServiceCode": "1749",
+      "ServiceName": "Комплекс нирковi проби",
+      "Price": 105.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2128,
+      "ParentServiceID": 1431,
+      "ServiceCode": "1750",
+      "ServiceName": "Комплекс ревмопроби",
+      "Price": 205.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2132,
+      "ParentServiceID": 1995,
+      "ServiceCode": "1830",
+      "ServiceName": "Медична книжка первинний огляд для жiнок",
+      "Price": 355.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2133,
+      "ParentServiceID": 1995,
+      "ServiceCode": "1603",
+      "ServiceName": "Медичний книжка первинний огляд для чоловiкiв",
+      "Price": 325.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2135,
+      "ParentServiceID": 1991,
+      "ServiceCode": "1602",
+      "ServiceName": "Оформлення медичної  справки",
+      "Price": 70.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2137,
+      "ParentServiceID": 1995,
+      "ServiceCode": "1603_1",
+      "ServiceName": "Профиль медична книжка для чоловіків",
+      "Price": 325.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2138,
+      "ParentServiceID": 1408,
+      "ServiceCode": "1751",
+      "ServiceName": "Трьохсклянкова проба сечі",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2140,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3003",
+      "ServiceName": "УЗД плевральних порожнин",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2141,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3004",
+      "ServiceName": "Один орган черевної порожнини(на вибiр печiнка, жовчний мiхур, пiдшлункова залоза, селезiнка)",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2142,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3005",
+      "ServiceName": "УЗД апендикса",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2143,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3006",
+      "ServiceName": "Скринiнг вiльної рiдини в черевнiй порожнинi (F.A.S.T.)",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2144,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3007",
+      "ServiceName": "УЗД кульшових суглобiв за методикою Graff у дiтей 1 року життя для виявлення дисплазiї ",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2145,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3008",
+      "ServiceName": "УЗД суглобiв панорамне (розширене), 2 зони",
+      "Price": 600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2146,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3009",
+      "ServiceName": "Передоперацiйна розмiтка вен пiд контролем УЗД",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2147,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3010",
+      "ServiceName": "Еластографія молочних залоз",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2148,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3011",
+      "ServiceName": "Еластографія м'яких тканин(новоутворень,ущiльнень,рубцiв), 1 зона",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2149,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3012",
+      "ServiceName": "Еластографiя в гінекології",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2150,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1867",
+      "ServiceName": "Виявлення мутацій в гені B-Raf (V600) для раку товстої і прямої кишки та меланоми методом ПЛР в режимі реального часу",
+      "Price": 3674.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2151,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1868",
+      "ServiceName": "Панч-біопсія шкіри при запальних дерматозах + ШЙК/альціановий синій + еластичні волокна за Вергоффом, толуїдиновий синій (2 за призначенням лікаря-паталогоанатома) + одноразовий пристрій для взяття панч-біопсії",
+      "Price": 645.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2152,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1869",
+      "ServiceName": "Панч-біопсія шкіри при алопеціях + ШЙК/альціановий синій + за Масоном + еластичні волокна або толуїдиновий синій + одноразовий пристрій для взяття панч-біопсіїх ",
+      "Price": 780.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2154,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3013",
+      "ServiceName": "Еластографiя простати",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2155,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація хірурга",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2156,
+      "ParentServiceID": 2155,
+      "ServiceCode": "1073",
+      "ServiceName": "Консультація хірурга",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2158,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація нефролога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2159,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація онкогінеколога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2160,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація онколога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2161,
+      "ParentServiceID": 2159,
+      "ServiceCode": "1075",
+      "ServiceName": "Консультація онкогінеколога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2162,
+      "ParentServiceID": 2158,
+      "ServiceCode": "1074",
+      "ServiceName": "Консультація нефролога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2163,
+      "ParentServiceID": 2160,
+      "ServiceCode": "1076",
+      "ServiceName": "Консультація онколога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2164,
+      "ParentServiceID": -1,
+      "ServiceCode": null,
+      "ServiceName": "Додаткові послуги лікаря",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2165,
+      "ParentServiceID": 2164,
+      "ServiceCode": "1077",
+      "ServiceName": "Додаткова консультація лікаря",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2167,
+      "ParentServiceID": 1857,
+      "ServiceCode": "2006",
+      "ServiceName": "Радіохвильова конізація шийки матки",
+      "Price": 2000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2168,
+      "ParentServiceID": 1950,
+      "ServiceCode": "1875",
+      "ServiceName": "Консультація лiкаря ендокринолога (Смірнов І.І. к.м.н.)",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2169,
+      "ParentServiceID": 2155,
+      "ServiceCode": "1900",
+      "ServiceName": "Перев'язка",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2175,
+      "ParentServiceID": 2155,
+      "ServiceCode": "1906",
+      "ServiceName": "Первинна хiрургiчна обробка рани(з урахуванням медикаментів)",
+      "Price": 900.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2186,
+      "ParentServiceID": 1388,
+      "ServiceCode": "861",
+      "ServiceName": "HBeAg",
+      "Price": 110.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2189,
+      "ParentServiceID": 1639,
+      "ServiceCode": "1753",
+      "ServiceName": "Антиген H.pylory в калi,метод імунохроматографіі",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2190,
+      "ParentServiceID": 1957,
+      "ServiceCode": "1930",
+      "ServiceName": "Паравертебральна блокада (без урахування ліків)",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2191,
+      "ParentServiceID": 1957,
+      "ServiceCode": "1931",
+      "ServiceName": "Усунення помірного больового синдрому (з урахуванням введення 1 ампули траумель)",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2193,
+      "ParentServiceID": 1957,
+      "ServiceCode": "1932",
+      "ServiceName": "Усунення вираженого больового синдрому",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2195,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультацiя пульмонолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2196,
+      "ParentServiceID": 2195,
+      "ServiceCode": "1940",
+      "ServiceName": "Консультацiя пульмонолога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2197,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3014",
+      "ServiceName": "Транскранiальна сонографія чорної субстанції",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2199,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3015",
+      "ServiceName": "УЗД периферичних нервів, 1 зона",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2200,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3016",
+      "ServiceName": "УЗД нервового сплетіння, 1 зона",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2201,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація судинного хірурга",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2205,
+      "ParentServiceID": 1412,
+      "ServiceCode": "1754",
+      "ServiceName": "Мікроскопічне дослідження синовіальної рідини",
+      "Price": 90.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2206,
+      "ParentServiceID": 1412,
+      "ServiceCode": "1755",
+      "ServiceName": "Комплексне дослідження випітних рідин (синовіальної, плевральної, перикардіальної, абдомінальної ридини)",
+      "Price": 185.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2207,
+      "ParentServiceID": 1401,
+      "ServiceCode": "1756",
+      "ServiceName": "Азот сечовини",
+      "Price": 60.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2209,
+      "ParentServiceID": 1524,
+      "ServiceCode": "1758",
+      "ServiceName": "Трипан-бiопсiя кісткового мозку",
+      "Price": 820.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2210,
+      "ParentServiceID": 1857,
+      "ServiceCode": "2007",
+      "ServiceName": "Iнсемінація",
+      "Price": 2600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2211,
+      "ParentServiceID": 1367,
+      "ServiceCode": "516",
+      "ServiceName": "Кальцитонін(ЭХЛ)",
+      "Price": 330.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2213,
+      "ParentServiceID": 2075,
+      "ServiceCode": "1531",
+      "ServiceName": "Програма\"Здорові суглоби\"",
+      "Price": 5500.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2214,
+      "ParentServiceID": 2075,
+      "ServiceCode": "1558",
+      "ServiceName": "Програма\"Жiнка пiсля 40\"",
+      "Price": 5500.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2215,
+      "ParentServiceID": 2075,
+      "ServiceCode": "1559",
+      "ServiceName": "Програма\"Чоловiк пiсля 40\"",
+      "Price": 4635.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2216,
+      "ParentServiceID": 2075,
+      "ServiceCode": "1538",
+      "ServiceName": "Програма\"Онкологічна для чоловiка\"",
+      "Price": 6350.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2217,
+      "ParentServiceID": 2075,
+      "ServiceCode": "1537",
+      "ServiceName": "Програма\"Онкологічна для жінки\"",
+      "Price": 6600.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2218,
+      "ParentServiceID": 2075,
+      "ServiceCode": "1529",
+      "ServiceName": "Програма\"Репродуктивне здоров'я чоловiка\"",
+      "Price": 5650.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2219,
+      "ParentServiceID": 2075,
+      "ServiceCode": "1528",
+      "ServiceName": "Програма\"Репродуктивне здоров'я жінки\"",
+      "Price": 8055.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2220,
+      "ParentServiceID": 1368,
+      "ServiceCode": "500",
+      "ServiceName": "Макропролактин",
+      "Price": 255.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2221,
+      "ParentServiceID": 2075,
+      "ServiceCode": "2103",
+      "ServiceName": "Програма\"За один день для жiнок\"",
+      "Price": 3075.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2222,
+      "ParentServiceID": 2075,
+      "ServiceCode": "2104",
+      "ServiceName": "Програма\"За один день для чоловiкiв\"",
+      "Price": 2770.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2223,
+      "ParentServiceID": 2075,
+      "ServiceCode": "1580",
+      "ServiceName": "Програма\"Профiлактична для чоловiкiв\"",
+      "Price": 2765.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2224,
+      "ParentServiceID": 2075,
+      "ServiceCode": "1579",
+      "ServiceName": "Програма\"Профiлактична для жiнок\"",
+      "Price": 3560.0000,
+      "Type": "C"
+    },
+    {
+      "ServiceID": 2226,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1870",
+      "ServiceName": "Консультація лiкаря проктолога(повторний огляд)",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2228,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3017",
+      "ServiceName": "УЗД суглобiв поглиблене (панорамне сканування та еластографiя), 1 зона",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2229,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3018",
+      "ServiceName": "УЗД суглобiв поглиблене (панорамне сканування та еластографiя), 2 зони",
+      "Price": 750.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2231,
+      "ParentServiceID": 2155,
+      "ServiceCode": "1878",
+      "ServiceName": "Видалення фiброми(з урахуванням перев'язок та медикаментів)",
+      "Price": 2500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2232,
+      "ParentServiceID": 2155,
+      "ServiceCode": "1879",
+      "ServiceName": "Видалення липоми(з урахуванням перев'язок та медикаментів)",
+      "Price": 2500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2233,
+      "ParentServiceID": 2155,
+      "ServiceCode": "1880",
+      "ServiceName": "Видалення атероми(з урахуванням перев'язок та медикаментів),маленька",
+      "Price": 2500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2234,
+      "ParentServiceID": 2155,
+      "ServiceCode": "1881",
+      "ServiceName": "Видалення атероми(з урахуванням перев'язок та медикаментів),велика",
+      "Price": 3500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2235,
+      "ParentServiceID": 2155,
+      "ServiceCode": "1882",
+      "ServiceName": "Лазерне видалення врослого нігтя з одного боку",
+      "Price": 1500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2236,
+      "ParentServiceID": 2155,
+      "ServiceCode": "1883",
+      "ServiceName": "Лазерне видалення врослого нігтя з обох боків",
+      "Price": 2500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2237,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1871",
+      "ServiceName": "Лікування анальних тріщин радіохвильовим методом",
+      "Price": 5500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2238,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1872",
+      "ServiceName": "Видалення залишкових гемороїдальних шкiрних мiток,аногенiтальних бородавок,гострокiнцевих кондилом,поодинокi",
+      "Price": 3000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2239,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1873",
+      "ServiceName": "Видалення залишкових гемороїдальних шкiрних мiток,аногенiтальних бородавок,гострокiнцевих кондилом, множиннi",
+      "Price": 7000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2240,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1874",
+      "ServiceName": "Лiкування гострого парапроктиту",
+      "Price": 5500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2241,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1876",
+      "ServiceName": "Лiкування хронiчного парапроктиту,свищiв прямої кишки радіохвильовим методом",
+      "Price": 5500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2242,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1877",
+      "ServiceName": "Видалення кiсти куприка,неiнфiкованого куприкового ходу",
+      "Price": 5500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2243,
+      "ParentServiceID": 1431,
+      "ServiceCode": "1184",
+      "ServiceName": "Комплекс № 1 (ТТГ, АТ к ТПО, Т4 в)",
+      "Price": 310.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2244,
+      "ParentServiceID": 1421,
+      "ServiceCode": "1712",
+      "ServiceName": "Онкомаркер Cyfra 21-1 (фрагмент цитокератина 19)",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2245,
+      "ParentServiceID": 1368,
+      "ServiceCode": "517",
+      "ServiceName": "Глобулін, що зв'язує статеві гормони (СЗГ, SHBG)",
+      "Price": 140.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2246,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1637",
+      "ServiceName": "Біоревіталізація інтимних зон",
+      "Price": 3000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2247,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1638",
+      "ServiceName": "Аугментація точки G",
+      "Price": 3000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2248,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1639",
+      "ServiceName": "Лабіопластика",
+      "Price": 7000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2249,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1640",
+      "ServiceName": "Гіменопластика",
+      "Price": 6000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2250,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1641",
+      "ServiceName": "Зменшення об'єму піхви(звуження входу у піхву)",
+      "Price": 5000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2251,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1642",
+      "ServiceName": "Тредліфтинг в гінекології(мезониті)",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2252,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1643",
+      "ServiceName": "Безопераційне лікування початкових форм стресового нетримання сечі",
+      "Price": 2500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2253,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація мамолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2254,
+      "ParentServiceID": 2253,
+      "ServiceCode": "1079",
+      "ServiceName": "Консультація лікаря мамолога",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2255,
+      "ParentServiceID": 1429,
+      "ServiceCode": "928",
+      "ServiceName": "Бактеріологічний посів матеріалу з розширеною антибіотикограмою",
+      "Price": 160.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2256,
+      "ParentServiceID": 1401,
+      "ServiceCode": "519",
+      "ServiceName": "Лактат",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2259,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1080",
+      "ServiceName": "Консультація лiкаря гінеколога з оглядом",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2261,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1021",
+      "ServiceName": "Збагачення еякуляту",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2262,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультація гематолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2264,
+      "ParentServiceID": 1975,
+      "ServiceCode": "1884",
+      "ServiceName": "Видалення свищу",
+      "Price": 12000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2265,
+      "ParentServiceID": 1995,
+      "ServiceCode": "1600",
+      "ServiceName": "Оформлення бланку медичної книжки",
+      "Price": 35.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2266,
+      "ParentServiceID": 1412,
+      "ServiceCode": "1759",
+      "ServiceName": "Аналіз пунктату кісткового мозку (мієлограма)",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2267,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2308",
+      "ServiceName": "Склеротерапія судинної сітки (1 кінцівка)",
+      "Price": 1000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2268,
+      "ParentServiceID": 1857,
+      "ServiceCode": "1644",
+      "ServiceName": "Гінекологічна лікувальна ванночка (без урахування ліків)",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2269,
+      "ParentServiceID": 1857,
+      "ServiceCode": "2008",
+      "ServiceName": "Фолікулометрія",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2270,
+      "ParentServiceID": 2253,
+      "ServiceCode": "1090",
+      "ServiceName": "Пункційна біопсія молочної залози (ТАБ), або лімфатичного вузла, або м'яких тканин під контролем УЗД",
+      "Price": 1000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2271,
+      "ParentServiceID": 2253,
+      "ServiceCode": "1091",
+      "ServiceName": "Склерозування кісти молочної залози під контролем УЗД",
+      "Price": 1000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2272,
+      "ParentServiceID": 2253,
+      "ServiceCode": "1092",
+      "ServiceName": "Лікарський забір мазка- відбитка",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2274,
+      "ParentServiceID": 1985,
+      "ServiceCode": "1799",
+      "ServiceName": "Сеанс рефлексотерапії(повторний прийом)",
+      "Price": 120.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2275,
+      "ParentServiceID": 1398,
+      "ServiceCode": "115",
+      "ServiceName": "Тест на виявлення 10 наркотичних речовин в сечі (маріхуана, кокаін, морфін, метамфетамін, амфетамін, фенциклідин, метадон, екстазі, барбітурати, бензодіазепіни),метод імунохроматографіі",
+      "Price": 600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2276,
+      "ParentServiceID": 2253,
+      "ServiceCode": "1093",
+      "ServiceName": "Трепан-біопсія молочної залози(послуга лiкаря Белевцова)",
+      "Price": 1500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2277,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2309",
+      "ServiceName": "Видалення кліщу (дерматолог)",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2279,
+      "ParentServiceID": 1715,
+      "ServiceCode": null,
+      "ServiceName": "19.1 Діагностика алергії",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2280,
+      "ParentServiceID": 2279,
+      "ServiceCode": "631",
+      "ServiceName": "Визначення алерген-специфічних IgЕ до рекомбінантних алергенів",
+      "Price": 889.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2281,
+      "ParentServiceID": 2279,
+      "ServiceCode": "632",
+      "ServiceName": "Триптаза\t",
+      "Price": 759.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2282,
+      "ParentServiceID": 2279,
+      "ServiceCode": "633",
+      "ServiceName": "Фадиатоп (Phadiatop) (алергени білків пилку злакових і бур'янів, дерев, чагарників, кліща домашнього пилу, епітелію і вовни кішки, собаки)",
+      "Price": 657.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2283,
+      "ParentServiceID": 2279,
+      "ServiceCode": "634",
+      "ServiceName": "Фадиатоп детский (Phadiatop infant) (алергени білків яйця, молока, сої, пшениці, риби, арахісу, кліща домашнього пилу, епітелію і вовни кішки, собаки)",
+      "Price": 787.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2284,
+      "ParentServiceID": 2279,
+      "ServiceCode": "635",
+      "ServiceName": "Перехресно-реактивні карбогідратні детермінанти (CCD Bromelain), міститься в аллергенах пилку, харчових продуктах рослинного походження",
+      "Price": 861.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2285,
+      "ParentServiceID": 2279,
+      "ServiceCode": "636",
+      "ServiceName": "Специфічні IgE до 112 алергокомпонентів (ImmunoCAP, ISAC)",
+      "Price": 15644.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2286,
+      "ParentServiceID": 2279,
+      "ServiceCode": "637",
+      "ServiceName": "Диаміноксидаза (DAO) ",
+      "Price": 1400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2288,
+      "ParentServiceID": 2279,
+      "ServiceCode": "639",
+      "ServiceName": "Загальний імуноглобулін (IgG4)",
+      "Price": 2473.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2289,
+      "ParentServiceID": 2279,
+      "ServiceCode": "640",
+      "ServiceName": "Визначення алерген-специфічних IgE до алергенів",
+      "Price": 861.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2290,
+      "ParentServiceID": 2279,
+      "ServiceCode": "641",
+      "ServiceName": "Визначення алерген-специфічних IgG4 до алергенів",
+      "Price": 747.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2291,
+      "ParentServiceID": 2279,
+      "ServiceCode": "642",
+      "ServiceName": "Мажорні аллергокомпоненти пилку тимофіївки лугової, IgG4",
+      "Price": 868.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2292,
+      "ParentServiceID": 2279,
+      "ServiceCode": "643",
+      "ServiceName": "Скрининги (суміші алергенів)",
+      "Price": 861.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2293,
+      "ParentServiceID": 1985,
+      "ServiceCode": "1798",
+      "ServiceName": "Сеанс рефлексотерапії(первинний прийом)",
+      "Price": 170.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2294,
+      "ParentServiceID": 2279,
+      "ServiceCode": "644",
+      "ServiceName": "Еозинофільний катіонний білок суперчутливий",
+      "Price": 400.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2295,
+      "ParentServiceID": 2279,
+      "ServiceCode": "645",
+      "ServiceName": "Комплексне дослідження на  282 алергена \"Алекс\"",
+      "Price": 6600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2297,
+      "ParentServiceID": 1857,
+      "ServiceCode": "2000",
+      "ServiceName": "Аргоноплазмова коагуляція 1 ступеню",
+      "Price": 1300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2298,
+      "ParentServiceID": 1857,
+      "ServiceCode": "2001",
+      "ServiceName": "Аргоноплазмова коагуляція 2 ступеню",
+      "Price": 2000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2299,
+      "ParentServiceID": 1857,
+      "ServiceCode": "2002",
+      "ServiceName": "Аргоноплазмова коагуляція 3 ступеню",
+      "Price": 2500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2300,
+      "ParentServiceID": 1957,
+      "ServiceCode": "1933",
+      "ServiceName": "Електронейроміографія 1 зона",
+      "Price": 450.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2301,
+      "ParentServiceID": 1571,
+      "ServiceCode": "1760",
+      "ServiceName": "Натрій-діуретичний пептид BNP(Tosoh)",
+      "Price": 850.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2302,
+      "ParentServiceID": 1368,
+      "ServiceCode": "1761",
+      "ServiceName": "Плацентарний фактор росту",
+      "Price": 480.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2303,
+      "ParentServiceID": 1944,
+      "ServiceCode": "1648",
+      "ServiceName": "Патч-тест",
+      "Price": 3000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2304,
+      "ParentServiceID": 1838,
+      "ServiceCode": "1088",
+      "ServiceName": "Ушивання розриву / пластика вуздечки",
+      "Price": 1800.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2306,
+      "ParentServiceID": 1857,
+      "ServiceCode": "2003",
+      "ServiceName": "Аргоноплазмова коагуляція точечна",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2307,
+      "ParentServiceID": 1430,
+      "ServiceCode": "1800",
+      "ServiceName": "Генетичний ризик розвитку хвороби Жильбера. Ген UGT1A1",
+      "Price": 442.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2308,
+      "ParentServiceID": 1801,
+      "ServiceCode": null,
+      "ServiceName": "Консультацiя дієтолога",
+      "Price": 0.0000,
+      "Type": "G"
+    },
+    {
+      "ServiceID": 2309,
+      "ParentServiceID": 2308,
+      "ServiceCode": "4000",
+      "ServiceName": "Консультація спеціаліста по здоровому харчуванню (перший вiзит)",
+      "Price": 600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2310,
+      "ParentServiceID": 2308,
+      "ServiceCode": "4001",
+      "ServiceName": "Консультація спеціаліста по здоровому харчуванню (повторний вiзит)",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2311,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2310",
+      "ServiceName": "Оперативне лікування базаліоми до 2 см",
+      "Price": 3000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2312,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2311",
+      "ServiceName": "Лазерне видалення доброякісних новоутворень (кожний ріг, дерматофіброма, фібропапілома): на тілі Ø до 0,5 см ",
+      "Price": 250.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2314,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2312",
+      "ServiceName": "Лазерне видалення доброякісних новоутворень (кожний ріг, дерматофіброма, фібропапілома): на тілі Ø до 1 см",
+      "Price": 450.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2315,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2313",
+      "ServiceName": "Лазерне видалення доброякісних новоутворень (кожний ріг, дерматофіброма, фібропапілома): на обличчi Ø до 0,5 см",
+      "Price": 450.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2316,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2314",
+      "ServiceName": "Лазерне видалення доброякісних новоутворень (кожний ріг, дерматофіброма, фібропапілома): на обличчi Ø до 1 см",
+      "Price": 700.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2317,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2315",
+      "ServiceName": "Лазерне видалення звичайних бородавок до 0,5 см",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2318,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2316",
+      "ServiceName": "Лазерне видалення підошвених бородавок: до 0,5 см",
+      "Price": 350.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2319,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2317",
+      "ServiceName": "Лазерне видалення підошвених бородавок: 0,6-1,0 см",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2320,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2318",
+      "ServiceName": "Лазерне видалення папілом: до 0,5 см",
+      "Price": 100.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2321,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2319",
+      "ServiceName": "Лазерне видалення папілом: бiльше 0,5 см",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2322,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2320",
+      "ServiceName": "Лазерне видалення папілом: в областi ока та повiк",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2323,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2321",
+      "ServiceName": "Лазерне видалення ксантелазми: до 1 см",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2324,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2322",
+      "ServiceName": "Лазерне видалення невусів: до 0,5 см на обличчі",
+      "Price": 700.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2325,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2323",
+      "ServiceName": "Лазерне видалення невусів: 0,6-1 см на обличчі",
+      "Price": 900.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2326,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2325",
+      "ServiceName": "Лазерне видалення невусів: 0,6-1,0 см на тулубі",
+      "Price": 7.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2327,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2326",
+      "ServiceName": "ЛАЗЕРНА ОБРОБКА ГЕМАНГІОМ, КЕРАТОМ та інших доброякісних новооутворень: до 0,5 см  ",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2328,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2327",
+      "ServiceName": "ЛАЗЕРНА ОБРОБКА ГЕМАНГІОМ, КЕРАТОМ та інших доброякісних новооутворень: 0,6-1 см ",
+      "Price": 600.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2329,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2328",
+      "ServiceName": "ЛАЗЕРНА ОБРОБКА ГЕМАНГІОМ, КЕРАТОМ та інших доброякісних новооутворень: 1-2 см",
+      "Price": 1000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2330,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2329",
+      "ServiceName": "ЛАЗЕРНА ОБРОБКА ГЕМАНГІОМ, КЕРАТОМ та інших доброякісних новооутворень: бiльше 2 см ",
+      "Price": 2000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2331,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2330",
+      "ServiceName": "Видалення телеангіоектазій обличчя 1 ст ",
+      "Price": 300.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2332,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2331",
+      "ServiceName": "Видалення телеангіоектазій обличчя 2 ст ",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2333,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2332",
+      "ServiceName": "Видалення телеангіоектазій обличчя 3 ст ",
+      "Price": 700.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2335,
+      "ParentServiceID": 1857,
+      "ServiceCode": "2009",
+      "ServiceName": "Ехосальпінгоскопія",
+      "Price": 700.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2336,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2324",
+      "ServiceName": "Лазерне видалення невусів: до 0,5 см на тулубі",
+      "Price": 500.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2338,
+      "ParentServiceID": 1716,
+      "ServiceCode": "3019",
+      "ServiceName": "УЗД мигдалин",
+      "Price": 200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2339,
+      "ParentServiceID": 1430,
+      "ServiceCode": "719",
+      "ServiceName": "Аналіз крові на jack-2,ПЛР",
+      "Price": 410.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2340,
+      "ParentServiceID": 1430,
+      "ServiceCode": "720",
+      "ServiceName": "Фолатний цикл (MTHFR 2 поліморфізми, MTRR, MTR),ПЛР",
+      "Price": 450.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2341,
+      "ParentServiceID": 1430,
+      "ServiceCode": "721",
+      "ServiceName": "Генетичний ризик розвитку тромбофілії ( F2, F5, F7),ПЛР",
+      "Price": 1000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2342,
+      "ParentServiceID": 1408,
+      "ServiceCode": "722",
+      "ServiceName": "Білок Бенс-Джонса (BENCE JONES OUCHTERLONY),середня ранкова порція сечі(РІД)",
+      "Price": 220.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2343,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2333",
+      "ServiceName": "Мезотерапія обличчя або шиї та декольте  1 процедура",
+      "Price": 2000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2344,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2334",
+      "ServiceName": "Мезотерапія волосистої частини голови  1 процедура",
+      "Price": 800.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2345,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2335",
+      "ServiceName": "Введення ліполітика (видалення жиру з підборіддя, нижньої третини обличчя та інших частин тіла) 1 процедура",
+      "Price": 1200.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2346,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2336",
+      "ServiceName": "Контурна пластика губ або носогубних складок або підборіддя або міжбровної складки",
+      "Price": 3000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2347,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2337",
+      "ServiceName": "Контурна пластика скул",
+      "Price": 4000.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2348,
+      "ParentServiceID": 1890,
+      "ServiceCode": "2338",
+      "ServiceName": "Знеболювання кремом",
+      "Price": 150.0000,
+      "Type": "S"
+    },
+    {
+      "ServiceID": 2349,
+      "ParentServiceID": 1671,
+      "ServiceCode": "1763",
+      "ServiceName": "Андрофлор Скрин(ПЛР)",
+      "Price": 460.0000,
+      "Type": "S"
+    }
+  ]
+}

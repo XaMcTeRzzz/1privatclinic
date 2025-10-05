@@ -1,0 +1,120 @@
+.slider-data{
+  position: relative;
+  .slider-year-bottom-next,.slider-year-bottom-prev{
+    position: absolute;
+    top: 116px;
+    @include md-block(){
+      top: 201px;
+    }
+    @include lg-block(){
+      top: 202px;
+    }
+
+    cursor: pointer;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    outline: none;
+    box-shadow: 0px 0px 12px rgba(112, 126, 152, 0.4);
+    display: none;
+    @include sm-block(){
+      display: flex;
+    }
+    svg{
+      width: 12px;
+      transition: $trans;
+    }
+    &:hover {
+      path{
+        stroke: #95C53D;
+      }
+    }
+  }
+  .slider-year-bottom-next{
+    right: -10%;
+    @include md-block(){
+      right: 10%;
+    }
+    svg{
+      position: relative;
+      left: 1px;
+    }
+  }
+  .slider-year-bottom-prev{
+    left: -10%;
+    @include md-block(){
+      left: 10%;
+    }
+    svg{
+      position: relative;
+      left: -2px;
+    }
+  }
+}
+
+
+.slider-year{
+  display: none;
+  @include sm-block(){
+    display: block;
+    margin-bottom: 25px;
+  }
+  @include md-block(){
+    margin-bottom: 78px;
+  }
+  .slider-title{
+    color: $gray;
+    transition: $trans;
+    font-weight: 600;
+    font-size: 18px;
+    height: 35px;
+    display: inline-flex;
+    white-space: nowrap;
+    align-items: center;
+    cursor: pointer;
+    line-height: 1;
+    @include lg-block(){
+      font-size: 24px;
+    }
+  }
+  .swiper-slide {
+    width: auto;
+  }
+  .swiper-slide-thumb-active{
+    .slider-title{
+      color: $green;
+    }
+  }
+  .swiper-wrapper{
+    align-items: center;
+  }
+}
+.slider-year-bottom{
+  @include size-md(7);
+  .swiper-wrapper{
+    display: block;
+    @include sm-block(){
+      display: flex;
+    }
+  }
+  .swiper-button-next, .swiper-button-prev {
+   height: auto;
+    width: auto;
+    margin-top: 0;
+  }
+}
+.data{
+  margin-bottom: 15px;
+  .decr{
+    @include md-block(){
+      font-size: 20px;
+      line-height: 28px;
+      margin-bottom: 0;
+    }
+  }
+
+}
+
+.swiper-button-next::after, .swiper-button-prev::after {
+  display: none;
+}

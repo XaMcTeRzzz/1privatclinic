@@ -1,0 +1,279 @@
+/* Banner Slider Plugin Styles */
+
+/* Основной контейнер слайдера */
+.banner-slider-container {
+    position: relative;
+    width: 100%;
+}
+
+/* Обертка для разных типов слайдеров */
+.banner-slider-wrapper {
+    position: relative;
+}
+
+/* Скрываем десктопный слайдер на мобильных */
+@media (max-width: 575px) {
+    .desktop-slider {
+        display: none !important;
+    }
+}
+
+/* Скрываем мобильный слайдер на десктопе */
+@media (min-width: 576px) {
+    .mobile-slider {
+        display: none !important;
+    }
+}
+
+/* Стили для слайдера */
+.banner-slider {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.banner-slider .swiper-container {
+    width: 100% !important;
+    overflow: hidden;
+}
+
+.banner-slider .swiper-wrapper {
+    display: flex;
+    align-items: center;
+}
+
+.banner-slider .swiper-slide {
+    flex-shrink: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    transition: transform 0.3s ease;
+}
+
+/* Эффект при наведении на слайд */
+.banner-slider .swiper-slide:hover {
+    transform: translateY(-5px);
+    z-index: 2;
+}
+
+/* Контейнер для изображения */
+.banner-slider-item {
+    width: 100%;
+    height: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+    background: #f5f5f5;
+    transition: box-shadow 0.3s ease;
+}
+
+.banner-slider-item:hover {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.banner-slider-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform 0.4s ease;
+}
+
+.banner-slider-item:hover img {
+    transform: scale(1.05);
+}
+
+/* Стили для кликабельных слайдов */
+.banner-slide-link {
+    display: block;
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    border-radius: 12px;
+    overflow: hidden;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+.banner-slide-link:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+}
+
+.banner-slide-link:hover img {
+    transform: scale(1.05);
+}
+
+.banner-slide-link img {
+    pointer-events: none !important;
+    user-select: none !important;
+    -webkit-user-drag: none !important;
+}
+
+/* Кнопки навигации */
+.banner-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+    position: relative;
+    z-index: 10;
+}
+
+.swiper-button-prev,
+.swiper-button-next {
+    position: relative !important;
+    width: 50px;
+    height: 50px;
+    background: rgba(255, 255, 255, 0.9);
+    border-radius: 50%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: all 0.3s ease;
+    border: none;
+    outline: none;
+}
+
+.swiper-button-prev:hover,
+.swiper-button-next:hover {
+    background: #fff;
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+    transform: translateY(-2px);
+}
+
+.swiper-button-prev span,
+.swiper-button-next span {
+    font-size: 20px;
+    font-weight: bold;
+    color: #333;
+    line-height: 1;
+}
+
+.swiper-button-prev {
+    margin-right: auto;
+}
+
+.swiper-button-next {
+    margin-left: auto;
+}
+
+/* Отключаем выделение и перетаскивание */
+.banner-slider .swiper-slide {
+    cursor: default !important;
+    user-select: none !important;
+    -webkit-user-drag: none !important;
+}
+
+.banner-slider .swiper-wrapper {
+    cursor: default !important;
+    user-select: none !important;
+    touch-action: none !important;
+}
+
+/* Адаптивные размеры для десктопа */
+@media (max-width: 1023px) {
+    .banner-slider .swiper-slide {
+        width: 340px !important;
+    }
+}
+
+@media (max-width: 767px) {
+    .banner-slider .swiper-slide {
+        width: 100% !important;
+    }
+
+    .swiper-button-prev,
+    .swiper-button-next {
+        width: 40px;
+        height: 40px;
+    }
+
+    .swiper-button-prev span,
+    .swiper-button-next span {
+        font-size: 16px;
+    }
+}
+
+/* Дополнительные стили для мобильных устройств */
+@media (max-width: 575px) {
+    .banner-slider-container {
+        margin: 0 -15px;
+    }
+
+    .banner-navigation {
+        margin-top: 15px;
+    }
+}
+
+/* Стили для пагинации (если будет добавлена) */
+.banner-slider .swiper-pagination {
+    bottom: 10px !important;
+    left: 50% !important;
+    transform: translateX(-50%);
+}
+
+.banner-slider .swiper-pagination-bullet {
+    width: 8px;
+    height: 8px;
+    background: rgba(255, 255, 255, 0.5);
+    opacity: 1;
+    margin: 0 4px;
+}
+
+.banner-slider .swiper-pagination-bullet-active {
+    background: #fff;
+}
+
+/* Стили для загрузки */
+.banner-slider-loading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+    background: #f5f5f5;
+    border-radius: 12px;
+}
+
+.banner-slider-loading::after {
+    content: '';
+    width: 40px;
+    height: 40px;
+    border: 3px solid #ddd;
+    border-top: 3px solid #007cba;
+    border-radius: 50%;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+/* Скрываем элементы управления на мобильных, если отключено касание */
+.banner-slider.no-touch .swiper-button-prev,
+.banner-slider.no-touch .swiper-button-next {
+    display: none;
+}
+
+/* Стили для пустого состояния */
+.banner-slider-empty {
+    text-align: center;
+    padding: 40px 20px;
+    background: #f5f5f5;
+    border-radius: 12px;
+    color: #666;
+}
+
+.banner-slider-empty h3 {
+    margin: 0 0 10px 0;
+    font-size: 18px;
+}
+
+.banner-slider-empty p {
+    margin: 0;
+    font-size: 14px;
+}
+

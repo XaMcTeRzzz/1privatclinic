@@ -1,0 +1,75 @@
+.c-header-link {
+	&__wrap {
+		margin-left: 32px;
+		display: flex;
+		height: 24px;
+		@include to($break_lg) {
+			margin-left: 20px;
+		}
+
+		/*change to button*/
+		background-image: linear-gradient(90deg,#95c53d 100%,#5bceae 0);
+		border-radius: 20px;
+		padding: 0 15px 0 10px;
+
+		&:hover {
+			background-size: 200% auto;
+			background-image: linear-gradient(90deg,#95c53d 1.06%,#5bceae 100%);
+		}
+	}
+
+	&__link {
+		font-weight: 600;
+		font-size: 15px;/*change to button 16px*/
+		line-height: 24px;
+		//color: #333333;/*change to button*/
+		margin-left: 8px;
+		//text-decoration: underline !important;/*change to button*/
+		@include to($break_lg) {
+			font-size: 9px;/*change to button 11px*/
+		}
+		@include to(1001px) {
+			font-size: 8px;/*change to button 11px*/
+		}
+
+		/*change to button*/
+		//&:hover {
+		//	text-decoration: none !important;
+		//	color: #95C53D;
+		//}
+
+		/*change to button*/
+		text-decoration: none !important;
+		color: #fff;
+	}
+
+	&__mob {
+		background-color: #95C53D;
+		margin-top: 20px;
+		@include from($break_md) {
+			display: none;
+		}
+
+		.nav-item-custom {
+			padding-top: 0 !important;
+			padding-bottom: 0 !important;
+		}
+
+		&-wrap {
+			display: flex;
+			justify-content: center;
+			padding-right: 20px;
+			height: 52px;
+			align-items: center;
+
+			a {
+				font-weight: 600;
+				font-size: 16px;
+				line-height: 24px;
+				margin-left: 8px;
+				color: #FFFFFF;
+				text-decoration: none;
+			}
+		}
+	}
+}

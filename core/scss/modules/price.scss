@@ -1,0 +1,250 @@
+.prise-sidebar-wrap{
+  max-width: 100%;
+  margin-bottom: 30px;
+  @include md-block(){
+    max-width: 400px;
+  }
+}
+.prise-sidebar{
+  background: #FFFFFF;
+  box-shadow: 0px 0px 12px rgba(112, 126, 152, 0.4);
+  border-radius: 8px;
+  //overflow: hidden;
+  display: none;
+  @include md-block(){
+    display: block;
+  }
+}
+
+.prise-sidebar-reset{
+  padding-top: 20px;
+  @include md-block(){
+    padding-top: 40px;
+  }
+}
+
+.prise-list{
+  li{
+    position: relative;
+  }
+  span {
+    font-weight: 600;
+    font-size: 18px;
+    padding: 15px 37px 15px 18px;
+    display: block;
+    transition: $trans;
+    text-decoration: none;
+    line-height: 26px;
+    text-transform: uppercase;
+    color: #000000;
+
+    cursor: pointer;
+    &:hover{
+      color: #95C53D !important;
+    }
+    &.active{
+      color: #95C53D !important;
+    }
+  }
+  ul{
+    padding-inline-start: 6px;
+  }
+  & > li {
+    position: relative;
+    background: #ffffff;
+  }
+   .children{
+    display: none;
+  }
+  .children{
+    background: #F9F9F9;
+    span{
+      font-size: 16px;
+      padding:  10px 12px;
+      color: #57596B;
+      text-transform: inherit;
+    }
+  }
+}
+.prise-block{
+  background: #FFFFFF;
+  box-shadow: 0px 0px 12px rgba(112, 126, 152, 0.4);
+  border-radius: 8px;
+  overflow: hidden;
+
+  &-header{
+    border-bottom: 1px solid #F4F4F4;
+    display: grid;
+    grid-template-columns: minmax(150px,579px) 42px 85px;
+    justify-content: space-between;
+    padding: 20px 15px 12px;
+    grid-column-gap: 10px;
+    @include md-block(){
+      padding: 20px 24px 12px;
+      grid-template-columns: minmax(200px, 579px) 77px 87px;
+
+    }
+
+    & > div{
+     font-weight: 600;
+      font-size: 14px;
+     line-height: 24px;
+     display: flex;
+     align-items: center;
+     text-transform: uppercase;
+     color: #57596B;
+      @include md-block(){
+        font-size: 16px;
+      }
+   }
+  }
+}
+
+button.parent-accordion-arrow {
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 42px;
+  height: 56px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  svg{
+    transition: $trans;
+  }
+  &.active{
+    svg{
+      transform: rotate(180deg);
+      path{
+        stroke: #95C53D
+      }
+    }
+  }
+
+  path{
+    transition: $trans;
+  }
+  &:hover {
+    path{
+      stroke: #95C53D
+    }
+  }
+}
+
+
+
+.indicator svg polyline {
+  fill: none;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.indicator svg polyline#back {
+  stroke: rgba(149, 197, 61, 0.3);
+}
+
+.indicator svg polyline#front {
+  stroke: #95c53d;
+  stroke-dasharray: 12, 36;
+  stroke-dashoffset: 48;
+  animation: dash 1s linear infinite;
+}
+
+@-moz-keyframes dash {
+  62.5% {
+    opacity: 0;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@-webkit-keyframes dash {
+  62.5% {
+    opacity: 0;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@-o-keyframes dash {
+  62.5% {
+    opacity: 0;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes dash {
+  62.5% {
+    opacity: 0;
+  }
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.level-4.prise-block-item--grid{
+  .prise-block-item__title{
+    padding-left: 20px;
+    @include md-block(){
+      padding-left: 43px;
+    }
+  }
+}
+
+.level-5.prise-block-item--grid{
+  .prise-block-item__title{
+    padding-left: 25px;
+    @include md-block(){
+      padding-left: 50px;
+    }
+  }
+}
+.level-3.prise-block-item--grid{
+
+  .prise-block-item__title{
+    padding-left: 26px;
+  }
+}
+.level-2.prise-block-item--grid{
+  .prise-block-item__title{
+    padding-left: 13px;
+  }
+}
+.prise-block-item__list{
+  padding-left: 43px;
+  @include md-block(){
+    padding-left: 65px;
+  }
+  &.level-1{
+    padding-left: 30px;
+    padding-bottom: 20px;
+    @include md-block(){
+      padding-left: 40px;
+    }
+  }
+  &.level-3{
+    padding-left: 43px;
+    @include md-block(){
+      padding-left: 53px;
+    }
+  }
+
+  li{
+    font-size: 14px;
+    @include md-block(){
+      font-size: 15px;
+    }
+  }
+  li::before {
+    content: "\2022";
+    color: $green;
+    font-weight: bold;
+    display: inline-block;
+    width: 1em;
+    margin-left: -1em;
+  }
+}

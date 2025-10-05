@@ -1,0 +1,12 @@
+a[class]{
+  text-decoration: none;
+}
+
+
+a:not([class]) { text-decoration-skip-ink: auto; }
+
+input,
+select,
+button { outline: none; }
+
+@include reset();

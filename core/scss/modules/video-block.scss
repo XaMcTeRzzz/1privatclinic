@@ -1,0 +1,80 @@
+
+.video-block{
+  position: relative;
+  display: flex;
+  height: 460px;
+  z-index: 99;
+  max-height: 100vh;
+  background: #000;
+  overflow: hidden;
+  height: 37vw;
+  @include md-block(){
+  height: 37vh;
+  min-height: 700px;
+}
+  &__background {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width : 120%;
+    height: 0;
+    padding-bottom: 66.25%;
+    transform: translate(-50%, -50%);
+    pointer-events: none;
+  }
+
+  &__video-overlay {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    @include md-block(){
+      transition: opacity 0.5s cubic-bezier(0.250,  0.460, 0.450, 0.940), visibility 0.5s linear;
+    }
+      &--fadeOut {
+      @include md-block(){
+        opacity: 0;
+        visibility: hidden;
+      }
+    }
+  }
+
+  iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    display: none;
+    @include md-block(){
+      display: block;
+    }
+  }
+  &__title{
+    margin-bottom: 30px;
+  }
+  &__text{
+    font-weight: 900;
+    color: #FFFFFF;
+    padding-top: 145px;
+    max-width: 563px;
+    margin-bottom: 30px;
+    z-index: 9;
+    font-size: 25px;
+    position: relative;
+    line-height: 36px;
+
+    @include md-block(){
+      font-size: 44px;
+      padding-top: 200px;
+      margin-bottom: 48px;
+      line-height: 52px;
+    }
+  }
+  .container-fluid{
+    width: 100%;
+  }
+}

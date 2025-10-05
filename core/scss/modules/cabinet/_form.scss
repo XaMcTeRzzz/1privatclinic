@@ -1,0 +1,39 @@
+form {
+	display: flex;
+	flex-direction: column;
+	@include to($break_xs) {
+		padding: 0 8px;
+	}
+
+	.error-msg {
+		color: #FF0000;
+		display: inline-block;
+		text-align: center;
+		font-size: 16px;
+		line-height: 24px;
+	}
+
+	.preloader-modal-send {
+		display: none;
+		margin: 0 auto;
+		text-align: center;
+	}
+
+	.c-error-field:not([type="checkbox"]):not([inputmode="numeric"]) {
+		border: 1px solid #FF0000;
+	}
+
+	.c-error-label {
+		color: #FF0000;
+		font-weight: 400;
+		font-size: 10px;
+		line-height: 15px;
+	}
+
+	input[type="text"],
+	input[type="tel"],
+	input[type="email"],
+	input[type="date"]{
+		appearance: initial;
+	}
+}

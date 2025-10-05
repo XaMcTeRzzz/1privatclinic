@@ -1,0 +1,34 @@
+<?php
+
+
+/**
+ * Recursively sort an array of taxonomy terms hierarchically. Child categories will be
+ * placed under a 'children' member of their parent term.
+ * @param Array   $cats     taxonomy term objects to sort
+ * @param Array   $into     result array to put them in
+ * @param integer $parentId the current parent ID to put them in
+ */
+function sort_terms_hierarchicaly( & $cats, & $into, $parentId = 0 ){
+
+    foreach( $cats as $i => $cat ){
+        if( $cat->parent == $parentId ){
+            $into[ $cat->term_id ] = $cat;
+            unset( $cats[$i] );
+        }
+    }
+
+    // Сортировка категорий по названию
+    usort($into, function($a, $b) {
+        return strcmp($a->name, $b->name);
+    });
+
+    foreach( $into as $top_cat ){
+        $top_cat->children = array();
+        sort_terms_hierarchicaly( $cats, $top_cat->children, $top_cat->term_id );
+
+        // Сортировка подкатегорий по названию
+        usort($top_cat->children, function($a, $b) {
+            return strcmp($a->name, $b->name);
+        });
+    }
+}

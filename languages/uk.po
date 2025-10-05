@@ -1,0 +1,281 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MEDZDRAV\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-12-03 15:09+0000\n"
+"PO-Revision-Date: 2024-12-02 10:03+0000\n"
+"Last-Translator: \n"
+"Language-Team: Ukrainian\n"
+"Language: uk\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.4; wp-6.2.6\n"
+"X-Domain: mz"
+
+#: taxonomy-specializations.php:173 comments.php:24
+msgid "Отзывы и вопросы"
+msgstr "Відгуки та запитання"
+
+#: taxonomy-specializations.php:195 comments.php:27
+msgctxt "Поки що немає відгуків"
+msgid "Пока что нет отзывов"
+msgstr "Поки що немає відгуків"
+
+#: taxonomy-specializations.php:262 single-doctor.php:332
+#: core/inc/modal-doctors.php:3
+msgid "Запись на прием"
+msgstr "Запис на прийом"
+
+#: taxonomy-specializations.php:274 taxonomy-specializations.php:344
+#: core/inc/modal-doctors.php:9
+msgid "Выберите специалиста"
+msgstr "Виберіть спеціаліста"
+
+#: taxonomy-specializations.php:284 taxonomy-specializations.php:355
+#: single-doctor.php:340 single-doctor.php:362 core/inc/call_back.php:6
+#: core/inc/modal-doctors.php:12 core/inc/check_up_modal.php:18
+msgid "Имя"
+msgstr "Ім'я"
+
+#: taxonomy-specializations.php:288 taxonomy-specializations.php:359
+#: single-doctor.php:344 single-doctor.php:366 core/inc/call_back.php:10
+#: core/inc/modal-doctors.php:16 core/inc/check_up_modal.php:22
+msgid "Телефон"
+msgstr "Телефон"
+
+#: taxonomy-specializations.php:293 single-specials.php:54
+#: single-doctor.php:349 home.php:192 template/check_up.php:23
+#: core/inc/call_back.php:15 core/inc/faq-list.php:25
+#: core/inc/modal-doctors.php:21 core/inc/list-price.php:17
+#: core/inc/doc-banner.php:17 core/inc/special-section.php:56
+msgid "записаться на приём"
+msgstr "записатися на прийом"
+
+#: taxonomy-specializations.php:337 single-doctor.php:355
+msgid "Задать вопрос специалисту"
+msgstr "Задати питання фахівцю"
+
+#: taxonomy-specializations.php:363 single-doctor.php:370
+msgid "Ваш вопрос"
+msgstr "Ваше запитання"
+
+#: taxonomy-specializations.php:367 single-doctor.php:374
+msgid "задать вопрос"
+msgstr "поставити питання"
+
+#: page-1009.php:85 taxonomy-blog.php:7
+msgid "Главная"
+msgstr "Головна"
+
+#: single-specials.php:47 home.php:191 template/check_up.php:55
+#: core/inc/faq-list.php:22 core/inc/list-price.php:15
+#: core/inc/have_questions.php:5
+msgid "перезвоните мне"
+msgstr "передзвоніть мені"
+
+#: single-specials.php:229
+msgid "Если заметили несоответствие цен на услуги — сообщите нам"
+msgstr ""
+"\n"
+"Якщо помітили невідповідність цін на послуги, повідомте нам"
+
+#: footer.php:49
+msgid "Online чат"
+msgstr ""
+
+#: footer.php:55
+msgid "Перезвонить"
+msgstr "Передзвонити"
+
+#: footer.php:365
+msgid "Подпишитесь, чтобы быть в курсе последних новостей и событий"
+msgstr "Підпишіться, щоб бути в курсі останніх новин та подій"
+
+#: footer.php:373
+msgid "подписаться"
+msgstr "підписатися"
+
+#: comments.php:70
+msgid "Comments are closed."
+msgstr "Коментарі закриті."
+
+#: single-doctor.php:156
+msgid "Стоимость"
+msgstr "Вартість"
+
+#: single-doctor.php:157 core/inc/faq-list.php:24 core/inc/list-price.php:16
+msgid "задать вопрос специалисту"
+msgstr "задати питання фахівцю"
+
+#: home.php:28 core/inc/doc-banner.php:16
+msgid "подробнее о акции"
+msgstr "докладніше про акцію"
+
+#: home.php:111 home.php:213 home.php:236 core/inc/special-section.php:49
+msgid "подробнее"
+msgstr "детальніше"
+
+#: home.php:112 template/check_up.php:56
+msgid "пройти обследование"
+msgstr ""
+"\n"
+"пройти обстеження"
+
+#: home.php:125
+msgid "Основные направления"
+msgstr "Основні напрямки"
+
+#: home.php:143
+msgid "Врачи"
+msgstr "Лікарі"
+
+#: home.php:161
+msgid "Услуги"
+msgstr "Послуги"
+
+#: home.php:166
+msgid "Все услуги"
+msgstr "Всі послуги"
+
+msgid "Все врачи"
+msgstr "Всі лікарі"
+
+#: home.php:180
+msgid "Анализы"
+msgstr "Аналізи"
+
+#: home.php:185
+msgid "Все анализы"
+msgstr "Всі аналізи"
+
+#: home.php:256
+msgid "посмотреть больше"
+msgstr "подивитися більше"
+
+#: home.php:264
+msgid "Отзывы"
+msgstr "Відгуки"
+
+#: home.php:312
+msgid "все отзывы"
+msgstr "всі відгуки"
+
+#. Name of the template
+msgid "Шаблон страницы Чекап"
+msgstr "Шаблон сторінки Чекап"
+
+#: core/comments_walker.php:235
+msgid "Pingback:"
+msgstr "Пінґбек:"
+
+#: core/inc/call_back.php:2
+msgid "Обратный звонок"
+msgstr "Зворотний дзвінок"
+
+#: core/inc/have_questions.php:4
+msgid ""
+"Есть вопросы? Оставьте ваши контакты и мы свяжемся с вами в ближайшее время."
+msgstr ""
+"Є питання? Залиште ваші контакти і ми зв'яжемося з вами найближчим часом."
+
+#: core/inc/check_up_modal.php:3
+msgid "Запись на чекап"
+msgstr "Запис на чекап"
+
+#: core/inc/check_up_modal.php:8
+msgid "Желаемая дата записи"
+msgstr "Бажана дата запису"
+
+#: core/inc/check_up_modal.php:14
+msgid "Выбрать дату"
+msgstr "Вибрати дату"
+
+#: core/inc/check_up_modal.php:27
+msgid "записаться"
+msgstr "записатися"
+
+#: core/inc/components/about-us.php:6
+msgid "Почему выбирают именно нас"
+msgstr "Чому обирають саме нас"
+
+#. Name of the theme
+msgid "MEDZDRAV"
+msgstr "МЕДЗДРАВ"
+
+#. Author of the theme
+msgid "Аноним"
+msgstr "Анонім"
+
+#. Other
+msgid "услуги и консультации"
+msgstr "послуги та консультації"
+
+#. Other
+msgid "неделя"
+msgstr "тиждень"
+
+#. Other
+msgid "месяц"
+msgstr "місяць"
+
+#. Other
+msgid "отправить резюме"
+msgstr "відправити резюме"
+
+#. Other
+msgid "Благодарим Вас за интерес, проявленный к нашей компании!"
+msgstr "Дякуємо Вам за інтерес, виявлений до нашої компанії!"
+
+#. Other
+msgid "Отправка резюме"
+msgstr "Відправка резюме"
+
+#. Other
+msgid "Файл не выбран"
+msgstr "Файл не обрано"
+
+#. Other
+msgid "Выбрать"
+msgstr "Обрати"
+
+#. Other
+msgid "г. Полтава"
+msgstr "м. Полтава"
+
+#. Other
+msgid "г. Харьков"
+msgstr "м. Харків"
+
+#. Other
+msgid "г. Черкасы"
+msgstr "м. Черкаси"
+
+#. Other
+msgid "Выберите свой город"
+msgstr "Виберіть своє місто"
+
+#. Other
+msgid "График приема"
+msgstr "Графік прийому"
+
+#. Other
+msgid "Запись по телефону"
+msgstr "Запис по телефону"
+
+#. Other
+msgid "Я впервые"
+msgstr "Я вперше"
+
+#. Other
+msgid "Медицинский центр здоровье"
+msgstr "Медичний центр здоров'я"
+
+msgid "отправить"
+msgstr "відправити"
+
+msgid "Написать отзыв или задать вопрос"
+msgstr "Написати відгук або поставити запитання"

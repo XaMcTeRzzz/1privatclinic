@@ -1,0 +1,189 @@
+.pecials__card-accordion{
+  margin-top: 48px;
+}
+
+.product-accordion{
+  margin-top: 30px;
+  @include md-block(){
+    margin-top: 48px;
+  }
+  &-item{
+    border-bottom: 1px solid rgba(112, 126, 152, 0.5);
+    margin-bottom: 19px;
+    &--job{
+      &:hover{
+        .product-accordion-title-job{
+          color: $green;
+        }
+      }
+      .active{
+        .product-accordion-title-job{
+          color: $green;
+        }
+      }
+      margin-bottom: 24px;
+      box-shadow: 0px 0px 12px rgba(112, 126, 152, 0.4);
+      border-radius: 8px;
+      border-bottom: 0;
+
+      padding: 12px 20px;
+      .product-accordion-title-job{
+        font-weight: bold;
+        color: #000;
+        transition: $trans;
+        font-size: 20px;
+        margin-bottom: 12px;
+        line-height: 28px;
+      }
+      .product-accordion-text{
+        border-bottom: $gray-900;
+        display: flex;
+
+        align-items: center;
+        div:not(:last-child){
+          margin-right: 12px;
+          @include md-block(){
+            margin-right: 40px;
+          }
+        }
+        &__data{
+          font-size: 14px;
+          color: #000000;
+          font-weight: normal;
+        }
+        &__har{
+          font-weight: bold;
+          font-size: 13px;
+          color: $gray;
+        }
+      }
+    }
+  }
+  &-title{
+    cursor: pointer;
+    margin-bottom: 12px;
+    transition: color $trans;
+    position: relative;
+    font-weight: bold;
+    padding-right: 22px;
+    font-size: 16px;
+    line-height: 24px;
+    color: $gray-200;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    @include md-block(){
+      margin-bottom: 14px;
+      font-size: 24px;
+      line-height: 32px;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+    &.product-accordion-title--grid{
+      display: grid;
+      grid-template-columns: minmax(200px ,619px) 1fr 1fr;
+      align-items: center;
+    }
+    &__code{
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 24px;
+      color: #57596B;
+      margin-right: 20px;
+      margin-left: auto;
+    }
+    &__price{
+      font-weight: bold;
+      font-size: 14px;
+      line-height: 18px;
+      color: #333333;
+      margin-right: 20px;
+      margin-left: 15px;
+      flex-shrink: 0;
+      @include md-block(){
+        font-size: 24px;
+        line-height: 32px;
+      }
+    }
+
+    .close{
+      position: absolute;
+      right: 8px;
+      top: 50%;
+      transform: translateY(-50%);
+      width: 18px;
+      transition: all $trans;
+      height: 18px;
+      &:before, &:after {
+        position: absolute;
+        left: 15px;
+        content: ' ';
+        transition: all $trans;
+        height: 18px;
+        width: 2px;
+        background-color: $green;
+      }
+
+      &:before {
+        transform: rotate(90deg);
+      }
+      &:after {
+        transform: rotate(0deg);
+      }
+
+    }
+    &.active{
+      .close{
+        &:before, &:after {
+          transform: rotate(-90deg);
+        }
+        &:after {
+          opacity: 0;
+        }
+      }
+    }
+  }
+  &-decr{
+    display: none;
+    padding: 5px 0;
+    color: #333;
+    font-size: 16px;
+    line-height: 24px;
+    li{
+      margin-bottom: 10px;
+    }
+    &.active{
+      display: block;
+    }
+  }
+  &-row{
+    border-top: 1px solid #90A8BE;
+    padding-top: 12px;
+    @include xxs-block(){
+      text-align: center;
+      .btn{
+        margin-top: 10px;
+      }
+    }
+    @include xs-block(){
+      text-align: left;
+      .btn{
+        margin-top: 0;
+      }
+    }
+    &__link{
+      margin-right: 12px;
+      color: #707E98;
+      font-weight: 900;
+      font-size: 16px;
+      line-height: 19px;
+      transition: $trans;
+      &:hover{
+        color: $green;
+      }
+      @include md-block(){
+        margin-right: 40px;
+      }
+    }
+  }
+}

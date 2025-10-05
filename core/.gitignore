@@ -1,0 +1,9 @@
+.DS_store
+package-lock.json
+node_modules
+.idea
+dist
+.htaccess
+cache
+etc/host_config.php
+/*.exe.stackdump

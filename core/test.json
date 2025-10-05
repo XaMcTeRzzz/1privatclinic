@@ -1,0 +1,40 @@
+/*
+Лабораторні дослідження Type=G
+	22. Бактеріальні інфекції Type=G
+		22.1.1 Хламідійна інфекція Type=G
+			832 Хламидії (Chlamidia Trachomatis), ДНК ПЦР Real-time якісне визначення 130.00 грн Type=S
+*/
+
+{
+  "Data": [
+    {
+      "ParentServiceID": 1664,
+      "ServiceName": "22.1.1 Хламідійна інфекція",
+      "ServiceCode": "1380",
+      "Price": NULL,
+      "Type": "Group"
+    },
+    {
+      "ParentServiceID": 1715,
+      "ServiceName": "22. Бактеріальні інфекції",
+      "ServiceCode": "1664",
+      "Price": NULL,
+      "Type": "Group"
+    },
+    {
+      "ParentServiceID": 1644,
+      "ServiceName": "Лабораторні дослідження",
+      "ServiceCode": "1715",
+      "Price": NULL,
+      "Type": "Group"
+    },
+    {
+      "ParentServiceID": 1664,
+      "ServiceName": "Якісне визначення комплексу антитіл (IgА, IgМ та IgG) до SARS-CoV-2 методом ІФА  (сироватка крові, венозна кров)",
+      "ServiceCode": "5015",
+      "Price": 650.0000,
+      "Type": "Services"
+    }
+  ]
+}
+

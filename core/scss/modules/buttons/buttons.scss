@@ -1,0 +1,174 @@
+.btn, .btn.nav-item{
+  height: 40px;
+  background-image: linear-gradient(90deg, $green 100%, $green-200 0%);
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 20px;
+  font-weight: 700;
+  font-size: 16px;
+  border: none;
+  line-height: 1;
+  color: #fff ;
+  padding: 0 20px;
+  transition: background-color .3s linear;
+  outline: none;
+  cursor:pointer;
+  @include xs-block(){
+    padding: 0 30px;
+  }
+  &:hover{
+    background-size: 200% auto;
+    background-image: linear-gradient(90deg, $green 1.06%, $green-200 100%);
+  }
+  &:active{
+    background-image: $green-200;
+  }
+  &:defined{
+    background-image: $gray-100;
+  }
+  &.btn-sm{
+    height: 35px;
+  }
+  &.disabled{
+    color: $gray;
+    background: transparent;
+    border: 1px solid $gray;
+    cursor: auto;
+  }
+  &.btn-t{
+    background: transparent;
+    color: $green;
+    border: 1px solid $green;
+    &:hover{
+      color: $green-200;
+      border: 1px solid $green-200;
+    }
+  }
+  &.btn-w{
+    width: 276px;
+  }
+}
+.row-link{
+  button, a{
+    margin-bottom: 15px;
+    &:not(:last-child){
+      @include md-block(){
+        margin-right: 30px;
+      }
+    }
+  }
+}
+.row-btn{
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  @include md-block(){
+    margin-top: 0px;
+    flex-direction: row;
+  }
+  button, a{
+    margin-bottom: 15px;
+    @include md-block() {
+      margin-bottom: 0;
+    }
+    &:not(:last-child){
+      @include md-block(){
+        margin-right: 30px;
+      }
+    }
+  }
+}
+
+.btn-border-0{
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 21px;
+  letter-spacing: 0.1em;
+  color: $gray;
+  cursor: auto;
+  width: 100%;
+  text-align: center;
+}
+
+.active-row{
+  border-radius: 20px;
+  @include lg-block(){
+    padding: 10px 30px;
+  }
+
+  height: 32px;
+  text-indent: -9999px;
+  margin: 0 45px;
+  background: url("../images/general/done.svg") no-repeat center, linear-gradient(0deg, #95C53D 1.06%, #5BCEAE 100% );
+  background-size: 20px;
+  @include md-block(){
+    background-color: $green-200;
+    background-image: url("../images/general/done.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+  }
+  &:hover{
+    background-color: $green-200;
+    background-image: url("../images/general/done.svg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px;
+  }
+}
+
+.link-back{
+  box-shadow: 0px 0px 12px rgba(112, 126, 152, 0.4);
+  border-radius: 20px;
+  height: 34px;
+  display: inline-flex;
+  align-items: center;
+  padding: 0 14px;
+  line-height: 18px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  transition: $trans;
+  font-weight: 800;
+  font-size: 12px;
+  color: $gray-200;
+  &:hover{
+    color: $green;
+  }
+  .icon-arrowL {
+    width: 12px;
+    height: 12px;
+    fill: #0000;
+    stroke: $gray;
+    margin-right: 8px;
+  }
+}
+.btn-file{
+  input[type="file"] {
+    display: none;
+  }
+}
+
+
+.btn-secondary {
+  background: 0 0;
+  color: #57596B;
+  border: 1px solid #57596B;
+
+  &:hover {
+    background-color: #f0f0f0;
+    color: #333;
+    background-image: none;
+  }
+
+  &:active {
+    background-color: #e0e0e0;
+  }
+
+  &:disabled {
+    color: $gray;
+    background-color: #f0f0f0;
+    border: 2px solid $gray;
+    cursor: auto;
+  }
+}

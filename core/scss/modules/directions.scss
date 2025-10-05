@@ -1,0 +1,157 @@
+.directions{
+  background: $gray-500;
+  padding-top: 48px;
+  padding-bottom: 55px;
+  margin-bottom: 64px;
+  .title{
+    @include to($break_xs){
+      margin-bottom: 0;
+    }
+  }
+  @include md-block(){
+    margin-bottom: 140px;
+    padding-bottom: 10px;
+  }
+  &__item{
+
+    @include xs-block(){
+      display: flex;
+      margin-bottom: 76px;
+    }
+    @include md-block(){
+      display: block;
+      margin-bottom: 0;
+    }
+    &-list{
+     display: none;
+      margin-bottom: 15px;
+      @include xs-block(){
+        display: block;
+      }
+      &-item{
+        margin-bottom: 20px;
+        a{
+          font-style: normal;
+          font-weight: 800;
+          font-size: 14px;
+          text-decoration: none;
+          text-transform: uppercase;
+          color: #000000;
+          transition: $trans;
+          &:hover{
+            color: $green;
+          }
+        }
+      }
+    }
+    &-right{
+      padding-left: 60px;
+      position: relative;
+      z-index: 2;
+      @include xs-block(){
+        padding-left: 30px;
+        margin-top: 60px;
+      }
+      @include md-block(){
+        padding-left: 30px;
+        margin-top: 0;
+        position: relative;
+        top: -100px;
+      }
+      @include shift-md-padding-left(2);
+    }
+    &-left{
+      position: relative;
+      bottom: -45px;
+      z-index: 1;
+      @include xs-block(){
+        bottom: 0;
+      }
+    }
+    &-img{
+      display: block;
+      width: 150px;
+      height: 150px;
+      border-radius: 50%;
+      overflow: hidden;
+      z-index: 2;
+      position: relative;
+      @include xs-block(){
+        width: 250px;
+        height: 250px;
+      }
+      @include sm-block(){
+        width: 346px;
+        height: 346px;
+      }
+      @include md-block(){
+        width: 300px;
+        height: 300px;
+      }
+      &:hover{
+        &:before {
+          opacity: 1;
+        }
+        &:after{
+          background: linear-gradient(152.42deg, rgba(255, 255, 255, 0.4) 14.57%, rgba(255, 255, 255, 0.8) 74.32%);
+        }
+      }
+      &:before {
+        left: 0;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        position: absolute;
+        z-index: 2;
+        transition: opacity $trans;
+        content: '';
+        opacity: 0;
+        background: url("../images/general/arrows.svg") no-repeat center;
+      }
+      &:after{
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        content: '';
+        transition: $trans;
+        background: linear-gradient(152.42deg, rgba(255, 255, 255, 0) 14.57%, rgba(255, 255, 255, 0.64) 74.32%);
+      }
+      img{
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        display: block;
+        z-index: -1;
+        position: relative;
+
+      }
+
+    }
+    &-title{
+      font-weight: 800;
+      font-size: 24px;
+      line-height: 32px;
+      margin-bottom: 10px;
+    }
+    &-decr{
+      font-size: 16px;
+      line-height: 24px;
+      color: $gray-300;
+      margin-bottom: 20px;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      height: 73px;
+      max-height: 300px;
+      -webkit-line-clamp: 3;
+      @include md-block(){
+        height: 120px;
+        -webkit-line-clamp: 5;
+      }
+    }
+  }
+
+}
+

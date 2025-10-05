@@ -1,0 +1,223 @@
+﻿<?php
+
+
+// Disable JQMIGRATE: Migrate is installed, version 1.4.1
+add_action('wp_default_scripts', function ($scripts) {
+    if (!empty($scripts->registered['jquery'])) {
+        $scripts->registered['jquery']->deps = array_diff($scripts->registered['jquery']->deps, ['jquery-migrate']);
+    }
+});
+
+$core_path = get_template_directory() . '/core/';
+
+require_once $core_path . 'init.php';
+require_once $core_path . 'customize.php';
+require_once $core_path . 'dev_tools.php';
+require_once $core_path . 'pagination.php';
+require_once $core_path . 'admin_customize.php';
+require_once $core_path . 'mail/mail.php';
+require_once $core_path . 'doctor_select_id.php';
+require_once $core_path . 'telegram/tg-message-sender.php';
+require_once $core_path . 'helper/helper.php';
+//РєР»Р°СЃСЃ РґР»СЏ РєРѕРјРјРµРЅС‚Р°СЂРёРµРІ
+require_once $core_path . 'comments_walker.php';
+require_once $core_path . 'walker_category.php';
+require_once $core_path . 'cabinet/cabinet-init.php';
+require_once $core_path . 'poll/poll-init.php';
+
+add_action( 'after_setup_theme', 'my_theme_setup');
+
+function my_theme_setup(){
+    load_theme_textdomain( 'mz', get_template_directory() . '/languages' );
+}
+
+
+remove_filter('get_the_time', 'qtranxf_timeFromPostForCurrentLanguage',0,3);
+remove_filter('get_the_date', 'qtranxf_dateFromPostForCurrentLanguage',0,3);
+remove_filter('get_the_modified_date', 'qtranxf_dateModifiedFromPostForCurrentLanguage',0,2);
+
+function searchExcludePages($query) {
+    if ($query->is_search) {
+        $query->set('post_type', 'post');
+        $query->set('post_type', array(
+            'article', 'services', 'analysis', 'doctor', 'specials', 'equipment'
+        ));
+    }
+
+    return $query;
+}
+
+//add_filter('pre_get_posts','searchExcludePages');
+
+
+function load_scripts()
+{
+	global $wp;
+
+	if (get_the_ID() == 1009 || get_the_ID() == 1140 || get_post_type() == 'doctor' || get_post_type() == 'specials' || get_post_type() == 'jobs') {
+    wp_register_script( 'pageschedule', get_template_directory_uri() . '/core' . '/js/schedule.js', array('jquery'), '1.0', true);
+    wp_enqueue_script('pageschedule');
+  }
+  if (get_post_type() == 'doctor') {
+
+  }
+  if (get_the_ID() == 1009) {
+    wp_register_script( 'pageschedulelist', get_template_directory_uri() . '/core' . '/js/schedule-page-list.js', array('jquery'), '1.0', true);
+    wp_enqueue_script('pageschedulelist');
+  }
+
+	wp_register_script('cabinet-index', get_template_directory_uri() . '/core' . '/cabinet/js/index.js', [], '1.0', true);
+	wp_enqueue_script('cabinet-index');
+
+    wp_register_script('appointment-index', get_template_directory_uri() . '/core' . '/js/appointment.js', [], '1.0', true);
+    wp_enqueue_script('appointment-index');
+
+	wp_register_script('cabinet-modal', get_template_directory_uri() . '/core' . '/cabinet/js/modal.js', ['jquery', 'cabinet-index'], '1.0', true);
+	wp_enqueue_script('cabinet-modal');
+
+	if (in_array($wp->request, ['cabinet', 'cabinet/appointments', 'cabinet/analysis', 'cabinet/patient', 'cabinet/doctor-shedule'])) {
+		wp_register_script('cabinet-lib', get_template_directory_uri() . '/core' . '/cabinet/js/lib.js', [], '1.0', true);
+		wp_enqueue_script('cabinet-lib');
+		wp_register_script('cabinet-cabinet', get_template_directory_uri() . '/core' . '/cabinet/js/cabinet.js', ['jquery', 'cabinet-index', 'cabinet-lib'], '1.0', true);
+		wp_enqueue_script('cabinet-cabinet');
+	}
+}
+
+add_action('wp_enqueue_scripts', 'load_scripts');
+
+
+add_filter( 'cron_schedules', 'true_moi_interval');
+
+function true_moi_interval( $raspisanie ) {
+  // $raspisanie - пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ, пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ
+  $raspisanie['interval_11_h'] = array(
+    'interval' => 39600,
+    'display' => 'пїЅпїЅпїЅпїЅпїЅпїЅ 11 пїЅпїЅпїЅпїЅпїЅ'
+  );
+  $raspisanie['interval_30_m'] = array(
+    'interval' => 1800,
+    'display' => 'Every 30 minutes'
+  );
+  return $raspisanie;
+}
+
+/**
+ * Update CSS within in Admin
+ */
+
+function admin_style() {
+    wp_enqueue_style('admin-styles', get_stylesheet_directory_uri() . '/admin.css');
+}
+add_action('admin_enqueue_scripts', 'admin_style');
+
+
+// acf
+
+function get_src_iframe($oEmbed){
+    if($oEmbed){
+        preg_match('/src="(.+?)"/', $oEmbed, $matches);
+        $src = $matches[1];
+        return $src;
+    }
+}
+
+function get_src_iframe_id($videoSrc){
+    parse_str( parse_url( $videoSrc, PHP_URL_QUERY ), $my_array_of_vars );
+
+    return $my_array_of_vars['v'];
+}
+
+require_once $core_path . 'api_services.php';
+
+add_action('template_redirect', 'send_cv');
+
+//changing rel="canonical" to current url to solve multilingual problem
+add_filter( 'wpseo_canonical', 'yoast_seo_canonical_change' );
+function yoast_seo_canonical_change() {
+    return $_SERVER['HTTP_X_FORWARDED_PROTO'].'://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI'];
+}
+
+//title
+add_filter( 'wpseo_title', 'my_custom_title', 10, 2 );
+function my_custom_title( $title, $presentation ){
+    if (in_array(get_post_type(), array('analysis', 'services', 'equipment', 'reviews', 'jobs')) && is_archive()){
+        return pods('title_archive_post')->field(get_post_type().'_'.LOCALE);
+    }
+	if (is_front_page()){
+		return get_post_meta(1976,'_yoast_wpseo_title', true );
+	}
+    if (is_tax()) {
+        $option = get_option('wpseo_taxonomy_meta');
+        $term = get_queried_object();
+        if ($term instanceof WP_Term) {
+            $term_id = $term->term_id;
+            $taxonomy = $term->taxonomy;
+        }
+        return $option[$taxonomy][$term_id]['wpseo_title'];
+    } else {
+        return get_post_meta(get_the_ID(),'_yoast_wpseo_title', true );
+    }
+}
+//description
+add_filter( 'wpseo_metadesc', 'my_custom_description', 10, 2 );
+function my_custom_description($description, $post_id) {
+	if (in_array(get_post_type(), array('analysis', 'services', 'equipment', 'reviews', 'jobs')) && is_archive()){
+		return pods('title_archive_post')->field(get_post_type().'_desc_'.LOCALE);
+	}
+	if (is_front_page()){
+		return get_post_meta(1976,'_yoast_wpseo_metadesc', true );
+	}
+	if (is_tax()) {
+		$option = get_option('wpseo_taxonomy_meta');
+		$term = get_queried_object();
+		if ($term instanceof WP_Term) {
+			$term_id = $term->term_id;
+			$taxonomy = $term->taxonomy;
+		}
+		return $option[$taxonomy][$term_id]['wpseo_desc'];
+	} else {
+		return get_post_meta(get_the_ID(),'_yoast_wpseo_metadesc', true );
+	}
+}
+
+require_once $core_path . 'poll/poll-functions.php';
+
+require_once $core_path . 'cabinet/core/cabinet-wp-functions.php';
+
+
+
+
+add_action( 'wp_footer', 'my_custom_function' );
+
+function my_custom_function() {
+
+    if($_GET['cron'] == 'price'){
+        get_services_from_api();
+    }
+}
+
+function enqueue_menu_2025_v2_style() {
+    wp_enqueue_style(
+        'menu-2025-v2',
+        get_template_directory_uri() . '/core/css/menu-2025-v2.css',
+        array(),
+        filemtime(get_template_directory() . '/core/css/menu-2025-v2.css')
+    );
+}
+add_action('wp_enqueue_scripts', 'enqueue_menu_2025_v2_style');
+
+
+
+
+
+
+
+function enqueue_menu_medical_style() {
+    wp_enqueue_style(
+        'menu-medical',
+        get_template_directory_uri() . '/core/css/menu-medical.css',
+        array(),
+        filemtime(get_template_directory() . '/core/css/menu-medical.css')
+    );
+}
+add_action('wp_enqueue_scripts', 'enqueue_menu_medical_style');

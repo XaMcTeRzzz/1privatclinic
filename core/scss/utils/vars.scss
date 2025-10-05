@@ -1,0 +1,53 @@
+// Colors
+$black: #000000;
+
+$white: #FFFFF;
+$dark: #000000;
+$red: #ff0000;
+
+$blue: #04B8FE;
+
+$gray: #707E98;
+$gray-100: #CCCCCC;
+$gray-200: #57596B;
+$gray-300: #333333;
+$gray-400: #EEEEEE;
+$gray-500: #F4F4F4;
+$gray-600: #25282B;
+$gray-700: #F2F2F2;
+$gray-800: rgba(196, 196, 196, 0.28);
+$gray-900: #90A8BE;
+$green: #00DBA1;
+$green-100: rgba(149, 197, 61, 0.4);
+$green-200: #5BCEAE;
+
+// font
+$default-font: 'SourceSerif4', sans-serif;
+
+// Sizes
+$base-font-size: 16px;
+
+// transition
+$trans: .3s ease-in-out;
+
+$z-index: (
+        modal              : 200,
+        navigation         : 100,
+        footer             : 90,
+        triangle           : 60,
+        navigation-rainbow : 50,
+        share-type         : 41,
+        share              : 40,
+        slider              : 4,
+);
+@function z-index($key) {
+  @return map-get($z-index, $key);
+}
+
+@mixin z-index($key) {
+  z-index: z-index($key);
+}
+/*.navigation {
+  @include z-index(navigation);
+}*/
+

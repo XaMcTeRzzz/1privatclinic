@@ -1,0 +1,1771 @@
+                      1025787790
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta property="og:image" content="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/general/logo-xs.jpg" />
+
+    
+    <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v20.4 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>МЦ Здоровья</title>
+	<link rel="canonical" href="http://medzdrav-test.loc/ua/cabinet/appointments/" />
+	<meta property="og:locale" content="uk_UA" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="МЦ Здоровья" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"http://medzdrav-test.loc/ua/#website","url":"http://medzdrav-test.loc/ua/","name":"МЦ Здоровья","description":"","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"http://medzdrav-test.loc/ua/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"uk"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+
+<script>
+dataLayer = [[]];
+</script>
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/medzdrav-test.loc\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.2.2"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){p.clearRect(0,0,i.width,i.height),p.fillText(e,0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(t,0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s("\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!s("\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!s("\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!s("\ud83e\udef1\ud83c\udffb\u200d\ud83e\udef2\ud83c\udfff","\ud83e\udef1\ud83c\udffb\u200b\ud83e\udef2\ud83c\udfff")}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css' href='http://medzdrav-test.loc/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='http://medzdrav-test.loc/wp-includes/css/classic-themes.min.css?ver=6.2.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='wpm-main-css' href='//medzdrav-test.loc/wp-content/plugins/wp-multilang/assets/styles/main.min.css?ver=2.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css' href='http://medzdrav-test.loc/wp-content/themes/medzdrav/core/css/main.min.css?ver=12' type='text/css' media='all' />
+<link rel='stylesheet' id='dev-css' href='http://medzdrav-test.loc/wp-content/themes/medzdrav/core/css/dev.css?ver=12' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-asl-basic-css' href='http://medzdrav-test.loc/wp-content/plugins/ajax-search-lite/css/style.basic.css?ver=4.8.1' type='text/css' media='all' />
+<link rel='stylesheet' id='wpdreams-ajaxsearchlite-css' href='http://medzdrav-test.loc/wp-content/plugins/ajax-search-lite/css/style-simple-red.css?ver=4.8.1' type='text/css' media='all' />
+<link rel="https://api.w.org/" href="http://medzdrav-test.loc/ua/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://medzdrav-test.loc/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://medzdrav-test.loc/wp-includes/wlwmanifest.xml" />
+<meta name="generator" content="WordPress 6.2.2" />
+<!-- SLP Custom CSS -->
+<style type="text/css">
+div#map.slp_map {
+width:100%;
+height:640px;
+}
+div#slp_tagline {
+width:100%;
+}
+</style>
+
+<link rel="alternate" hreflang="x-default" href="http://medzdrav-test.loc/cabinet/appointments/"/>
+<link rel="alternate" hreflang="ru" href="http://medzdrav-test.loc/cabinet/appointments/"/>
+<link rel="alternate" hreflang="uk" href="http://medzdrav-test.loc/ua/cabinet/appointments/"/>
+		<script>
+			document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );
+		</script>
+				<style>
+			.no-js img.lazyload { display: none; }
+			figure.wp-block-image img.lazyloading { min-width: 150px; }
+							.lazyload, .lazyloading { opacity: 0; }
+				.lazyloaded {
+					opacity: 1;
+					transition: opacity 400ms;
+					transition-delay: 0ms;
+				}
+					</style>
+		                <link href='//fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+                                <style type="text/css">
+                    <!--
+                    
+            @font-face {
+                font-family: 'aslsicons2';
+                src: url('//medzdrav-test.loc/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot');
+                src: url('//medzdrav-test.loc/wp-content/plugins/ajax-search-lite/css/fonts/icons2.eot?#iefix') format('embedded-opentype'),
+                     url('//medzdrav-test.loc/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff2') format('woff2'),
+                     url('//medzdrav-test.loc/wp-content/plugins/ajax-search-lite/css/fonts/icons2.woff') format('woff'),
+                     url('//medzdrav-test.loc/wp-content/plugins/ajax-search-lite/css/fonts/icons2.ttf') format('truetype'),
+                     url('//medzdrav-test.loc/wp-content/plugins/ajax-search-lite/css/fonts/icons2.svg#icons') format('svg');
+                font-weight: normal;
+                font-style: normal;
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label {
+                font-size: 0px !important;
+                color: rgba(0, 0, 0, 0);
+            }
+            div[id*='ajaxsearchlitesettings'].searchsettings .asl_option_inner label:after {
+                font-size: 11px !important;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 1;
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results div.resdrg span.highlighted {
+                font-weight: bold;
+                color: rgba(217, 49, 43, 1);
+                background-color: rgba(238, 238, 238, 1);
+            }
+            div[id*='ajaxsearchliteres'].wpdreams_asl_results .results div.asl_image {
+                width: 70px;
+                height: 70px;
+            }
+            div.asl_r .results {
+                max-height: none;
+            }
+            
+                .asl_w, .asl_w * {font-family:inherit !important;}
+                .asl_m input[type=search]::placeholder{font-family:inherit !important;}
+                .asl_m input[type=search]::-webkit-input-placeholder{font-family:inherit !important;}
+                .asl_m input[type=search]::-moz-placeholder{font-family:inherit !important;}
+                .asl_m input[type=search]:-ms-input-placeholder{font-family:inherit !important;}
+                
+                div.asl_r.asl_w.vertical .results .item::after {
+                    display: block;
+                    position: absolute;
+                    bottom: 0;
+                    content: '';
+                    height: 1px;
+                    width: 100%;
+                    background: #D8D8D8;
+                }
+                div.asl_r.asl_w.vertical .results .item.asp_last_item::after {
+                    display: none;
+                }
+                                    -->
+                </style>
+                            <script type="text/javascript">
+                if ( typeof _ASL !== "undefined" && _ASL !== null && typeof _ASL.initialize !== "undefined" )
+                    _ASL.initialize();
+            </script>
+            <link rel="icon" href="http://medzdrav-test.loc/wp-content/uploads/2023/03/favicon.png" sizes="32x32" />
+<link rel="icon" href="http://medzdrav-test.loc/wp-content/uploads/2023/03/favicon.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://medzdrav-test.loc/wp-content/uploads/2023/03/favicon.png" />
+<meta name="msapplication-TileImage" content="http://medzdrav-test.loc/wp-content/uploads/2023/03/favicon.png" />
+
+    <!--Google Tag Manager -->
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-MC7DS2B');
+
+    </script>
+    <!--End Google Tag Manager -->
+
+    <style>
+        #bingc-phone-button svg.bingc-phone-button-circle circle.bingc-phone-button-circle-inside {
+            fill: #95c53d !important;
+        }
+
+        #bingc-phone-button:hover svg.bingc-phone-button-circle circle.bingc-phone-button-circle-inside {
+            fill: #95c53d !important;
+        }
+
+        #bingc-phone-button div.bingc-phone-button-tooltip {
+            background: #95c53d !important;
+        }
+
+        #bingc-phone-button div.bingc-phone-button-tooltip svg.bingc-phone-button-arrow polyline {
+            fill: #95c53d !important;
+        }
+
+        #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form a.bingc-passive-phone-form-button {
+            background: #95c53d !important;
+        }
+
+        #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form a.bingc-passive-phone-form-button:hover {
+            background: #99c744 !important;
+        }
+
+        #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-hour,
+        #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-minutes {
+            background: #95c53d !important;
+        }
+
+        #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-hour:hover,
+        #bingc-passive div.bingc-passive-overlay div.bingc-passive-content div.bingc-passive-get-phone-form form.bingc-passive-get-phone-form div.bingc-passive-get-phone-form-date-selection div.bingc-passive-date-selection-select-minutes:hover {
+            background: #99c744 !important;
+        }
+
+        #bingc-active div.bingc-active-overlay div.bingc-active-content div.bingc-active-get-phone-form form.bingc-active-get-phone-form a.bingc-active-phone-form-button {
+            background: #95c53d !important;
+        }
+
+        #bingc-active div.bingc-active-overlay div.bingc-active-content div.bingc-active-get-phone-form form.bingc-active-get-phone-form a.bingc-active-phone-form-button:hover {
+            background: #99c744 !important;
+        }
+
+        #bingc-active div.bingc-active-overlay div.bingc-active-content div.bingc-active-get-phone-form form.bingc-active-get-phone-form div.bingc-active-get-phone-form-date-selection div.bingc-active-date-selection-select-hour,
+        #bingc-active div.bingc-active-overlay div.bingc-active-content div.bingc-active-get-phone-form form.bingc-active-get-phone-form div.bingc-active-get-phone-form-date-selection div.bingc-active-date-selection-select-minutes {
+            background: #95c53d !important;
+        }
+
+        #bingc-active div.bingc-active-overlay div.bingc-active-content div.bingc-active-get-phone-form form.bingc-active-get-phone-form div.bingc-active-get-phone-form-date-selection div.bingc-active-date-selection-select-hour:hover,
+        #bingc-active div.bingc-active-overlay div.bingc-active-content div.bingc-active-get-phone-form form.bingc-active-get-phone-form div.bingc-active-get-phone-form-date-selection div.bingc-active-date-selection-select-minutes:hover {
+            background: #99c744 !important;
+        }
+
+    </style>
+
+</head>
+
+<body >
+<!--    -->
+<!--Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MC7DS2B" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!--End Google Tag Manager (noscript) -->
+
+<div class="wrapper">
+
+    <header class="header">
+        <div class="nav-top">
+            <div class="container-fluid">
+                <div class="nav-top-row">
+
+
+                    <div class="nav-top__left">
+                                                <div class="nav-top__cont__left-bottom">
+                            <ul class="list-clock js__appendToJs__cloneClock">
+                                <li class="list-clock__item cont-header title-desc">
+                                    Графік прийому:
+                                </li>
+                                <li class="list-clock__item cont-header">
+                                    <b>пн-пт</b> 08:00 - 16:00                                </li>
+                                                                    <li class="list-clock__item cont-header ">
+                                        <b>сб</b> 08:00 - 15:00                                    </li>
+                                                            </ul>
+                        </div>
+                        <div class="nav-top__cont__left-bottom">
+                            <ul class="list-clock js__appendToJs__cloneClock">
+                                <li class="list-clock__item cont-header title-desc">
+                                    Call-центр:
+                                </li>
+                                <li class="list-clock__item cont-header desc-desc">
+                                    <b>пн-пт</b> 07:30 - 19:00                                </li>
+                                                                    <li class="list-clock__item cont-header">
+                                        <b>сб</b> 07:30 - 17:00                                    </li>
+                                                                                                    <li class="list-clock__item cont-header">
+                                        <b>нд</b> 09:00 - 15:00                                    </li>
+                                                            </ul>
+                        </div>
+                        <div class="nav-top__cont__left-bottom">
+                            <div class="link-phone">
+                                <div class="link-phone-item">
+                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M8.31375 2.68804C10.8288 1.68297 13.7583 1.75246 16.2063 2.91984C15.5087 2.81358 14.7992 2.8937 14.1088 3.01074C12.2335 3.36585 10.4514 4.25054 9.05848 5.56487C7.72285 6.88122 6.78689 8.6278 6.52254 10.4964C6.34769 11.8205 6.50977 13.2092 7.10232 14.4144C7.71294 15.6788 8.78777 16.7159 10.0832 17.2511C11.3315 17.7808 12.7796 17.7749 14.044 17.3022C15.9412 16.6041 17.3043 14.7191 17.4602 12.7052C17.5583 11.3852 17.2381 9.98113 16.3537 8.96878C15.5094 7.97783 14.2746 7.432 13.0389 7.1213C12.9726 5.89936 13.5468 4.69219 14.4573 3.8975C14.963 3.44033 15.5905 3.14893 16.2394 2.96245L16.2887 2.94539C18.1463 3.83858 19.7247 5.31166 20.7304 7.12008C21.5921 8.65973 22.0414 10.4339 21.9969 12.2012C21.9885 14.4866 21.1365 16.7493 19.6761 18.4967C18.2951 20.1632 16.3636 21.3619 14.2584 21.8419C12.1476 22.3302 9.8767 22.1196 7.90125 21.2201C5.9683 20.3545 4.3307 18.8497 3.28894 16.9987C2.42234 15.4605 1.9639 13.687 2.00195 11.9176C2.00608 9.71299 2.78684 7.5254 4.15002 5.80145C5.23889 4.4249 6.68341 3.33036 8.31375 2.68804Z" fill="#707E98"/>
+                                        <path d="M14.1088 3.00968C14.7992 2.89264 15.5087 2.81258 16.2063 2.91883L16.3064 2.93583L16.2394 2.96133C15.5905 3.14792 14.963 3.43927 14.4573 3.89649C13.5468 4.69113 12.9726 5.89835 13.0389 7.1203C14.2745 7.43094 15.5094 7.97672 16.3537 8.96771C17.238 9.98007 17.5582 11.3842 17.4602 12.7041C17.3043 14.718 15.9412 16.603 14.044 17.3011C12.7796 17.7739 11.3315 17.7797 10.0832 17.2501C8.78771 16.7148 7.71293 15.6778 7.10232 14.4133C6.50977 13.2082 6.34768 11.8194 6.52259 10.4954C6.78689 8.62674 7.72284 6.88016 9.05852 5.56381C10.4514 4.24947 12.2335 3.36479 14.1088 3.00968Z" fill="white"/>
+                                    </svg>
+                                    <a href="tel:+380504020193" class="link-phone  cont-header">
+                                        +38 (050) 402 01 93                                    </a>
+                                </div>
+                                <div class="link-phone-item">
+                                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0001 3C12.6515 3 13.1844 3.55677 13.1844 4.23692V8.83518C13.1844 9.51564 12.6515 10.0723 12.0001 10.0723C11.3487 10.0723 10.8159 9.51564 10.8159 8.83518V4.23692C10.8159 3.55677 11.3487 3 12.0001 3Z" fill="#707E98"/>
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M3.05778 9.78417C3.25904 9.1371 3.93042 8.77977 4.54991 8.98998L8.73671 10.411C9.35628 10.6212 9.69832 11.3225 9.49707 11.9696C9.29581 12.6166 8.62429 12.974 8.00487 12.7637L3.81799 11.3428C3.19857 11.1325 2.85639 10.4312 3.05778 9.78417Z" fill="#707E98"/>
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M6.47345 20.764C5.94654 20.3642 5.8287 19.5867 6.21151 19.0364L8.7991 15.3163C9.18184 14.7658 9.92624 14.6426 10.4532 15.0426C10.9802 15.4426 11.098 16.2199 10.7152 16.7703L8.12758 20.4903C7.74477 21.0409 7.00044 21.164 6.47345 20.764Z" fill="#707E98"/>
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5269 20.7641C16.9998 21.1639 16.2556 21.0408 15.8726 20.4904L13.2851 16.7704C12.9021 16.2198 13.02 15.4425 13.547 15.0425C14.0739 14.6427 14.8183 14.7659 15.2012 15.3161L17.7887 19.0362C18.1716 19.5866 18.0536 20.3641 17.5269 20.7641Z" fill="#707E98"/>
+                                        <path fill-rule="evenodd" clip-rule="evenodd" d="M20.942 9.78416C21.1433 10.4312 20.8012 11.1326 20.1816 11.3428L15.9948 12.7637C15.3753 12.974 14.704 12.6166 14.5026 11.9696C14.3013 11.3226 14.6433 10.6212 15.2629 10.4109L19.4497 8.98997C20.0691 8.77976 20.7406 9.13717 20.942 9.78416Z" fill="#707E98"/>
+                                    </svg>
+                                    <a href="tel:+380677207077" class="link-phone  cont-header">
+                                        +38 (067) 720 70 77                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="nav-top__center">
+                        <div class="nav-top__center__logo">
+                            <a href="http://medzdrav-test.loc/ua">
+                                <img class="no-lazy" src="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/general/logo-xs.svg" alt="logo" width="375" height="46">
+                            </a>
+                        </div>
+                        <div class="nav-top__center__search">
+                            <div class="search-bar  ajs"><div id='ajaxsearchlite1' class="wpdreams_asl_container asl_w asl_m asl_m_1">
+<div class="probox">
+
+    
+    <div class='promagnifier'>
+                <div class='innericon'>
+          <svg class="svg-sprite-icon icon-searchForm">
+            <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#searchForm"></use>
+          </svg>
+        </div>
+    </div>
+
+    
+    
+    <div class='prosettings' style='display:none;' data-opened=0>
+                <div class='innericon'>
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                <polygon id="arrow-25-icon" transform = "rotate(90 256 256)" points="142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 "/>
+            </svg>
+        </div>
+    </div>
+
+    
+    
+    <div class='proinput'>
+        <form autocomplete="off" aria-label='Ajax search form'>
+            <input aria-label='Search input' type='search' class='orig' name='phrase' placeholder='Поиск..' value='' autocomplete="off"/>
+            <input aria-label='Autocomplete input, do not use this' type='text' class='autocomplete' name='phrase' value='' autocomplete="off"/>
+            <span class='loading'></span>
+            <input type='submit' value="Start search" style='width:0; height: 0; visibility: hidden;'>
+        </form>
+    </div>
+
+    
+    
+    <div class='proloading'>
+
+        <div class="asl_loader"><div class="asl_loader-inner asl_simple-circle"></div></div>
+
+            </div>
+
+            <div class='proclose'>
+          <svg class="svg-sprite-icon icon-crossM">
+            <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#crossM"></use>
+          </svg>
+        </div>
+    
+    
+</div>
+</div>
+
+
+<div id='ajaxsearchlitesettings1' class="searchsettings wpdreams_asl_settings asl_w asl_s asl_s_1">
+    <form name='options' autocomplete='off'>
+
+        
+                <fieldset class="asl_sett_scroll">
+            <legend style="display: none;">Generic selectors</legend>
+            <div class="asl_option_inner hiddend">
+                <input type='hidden' name='qtranslate_lang' id='qtranslate_lang1'
+                       value='0'/>
+            </div>
+
+	        
+            
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="checked" id="set_exactonly1"
+                           title="Exact matches only"
+                           name="set_exactonly" />
+                    <label for="set_exactonly1">Exact matches only</label>
+                </div>
+                <div class="asl_option_label">
+                    Exact matches only                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_intitle1"
+                           title="Search in title"
+                           name="set_intitle"  checked="checked"/>
+                    <label for="set_intitle1">Search in title</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in title                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_incontent1"
+                           title="Search in content"
+                           name="set_incontent"  checked="checked"/>
+                    <label for="set_incontent1">Search in content</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in content                </div>
+            </div>
+            <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="None" id="set_inexcerpt1"
+                       title="Search in excerpt"
+                       name="set_inexcerpt"  checked="checked"/>
+                <label for="set_inexcerpt1">Search in excerpt</label>
+            </div>
+
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_inposts1"
+                           title="Search in posts"
+                           name="set_inposts" />
+                    <label for="set_inposts1">Search in posts</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in posts                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_inpages1"
+                           title="Search in pages"
+                           name="set_inpages" />
+                    <label for="set_inpages1">Search in pages</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in pages                </div>
+            </div>
+                    </fieldset>
+                    <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="equipment"
+                       id="1customset_11"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="1customset_11">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="services"
+                       id="1customset_12"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="1customset_12">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="article"
+                       id="1customset_13"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="1customset_13">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="analysis"
+                       id="1customset_14"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="1customset_14">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="specials"
+                       id="1customset_15"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="1customset_15">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="doctor"
+                       id="1customset_16"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="1customset_16">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        </form>
+</div>
+
+<div id='ajaxsearchliteres1' class='vertical wpdreams_asl_results asl_w asl_r asl_r_1'>
+
+    
+    <div class="results">
+
+        
+            <div class="resdrg">
+            </div>
+
+        
+    </div>
+
+    
+    
+</div>
+
+    <div id="asl_hidden_data">
+        <svg style="position:absolute" height="0" width="0">
+            <filter id="aslblur">
+                <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+            </filter>
+        </svg>
+        <svg style="position:absolute" height="0" width="0">
+            <filter id="no_aslblur"></filter>
+        </svg>
+
+    </div>
+
+<div class="asl_init_data wpdreams_asl_data_ct" style="display:none !important;" id="asl_init_id_1" data-asldata="ewogICAgImhvbWV1cmwiOiAiaHR0cDovL21lZHpkcmF2LXRlc3QubG9jL3VhLyIsCiAgICAicmVzdWx0c3R5cGUiOiAidmVydGljYWwiLAogICAgInJlc3VsdHNwb3NpdGlvbiI6ICJob3ZlciIsCiAgICAiaXRlbXNjb3VudCI6IDQsCiAgICAiaW1hZ2V3aWR0aCI6IDcwLAogICAgImltYWdlaGVpZ2h0IjogNzAsCiAgICAicmVzdWx0aXRlbWhlaWdodCI6ICI3MHB4IiwKICAgICJzaG93YXV0aG9yIjogMCwKICAgICJzaG93ZGF0ZSI6IDAsCiAgICAic2hvd2Rlc2NyaXB0aW9uIjogMSwKICAgICJjaGFyY291bnQiOiAgMywKICAgICJkZWZhdWx0SW1hZ2UiOiAiaHR0cHM6Ly9tZWR6ZHJhdi5jb20udWEvd3AtY29udGVudC9wbHVnaW5zL2FqYXgtc2VhcmNoLWxpdGUvaW1nL2RlZmF1bHQuanBnIiwKICAgICJoaWdobGlnaHQiOiAwLAogICAgImhpZ2hsaWdodHdob2xld29yZHMiOiAxLAogICAgInNjcm9sbFRvUmVzdWx0cyI6IDAsCiAgICAicmVzdWx0YXJlYWNsaWNrYWJsZSI6IDEsCiAgICAiYXV0b2NvbXBsZXRlIjogewogICAgICAgICJlbmFibGVkIiA6IDAsCiAgICAgICAgImxhbmciIDogImVuIgogICAgfSwKICAgICJ0cmlnZ2Vyb250eXBlIjogMSwKICAgICJ0cmlnZ2VyX29uX2NsaWNrIjogMCwKICAgICJ0cmlnZ2VyX29uX2ZhY2V0X2NoYW5nZSI6IDEsCiAgICAic2V0dGluZ3NpbWFnZXBvcyI6ICJyaWdodCIsCiAgICAiaHJlc3VsdGFuaW1hdGlvbiI6ICJmeC1ub25lIiwKICAgICJ2cmVzdWx0YW5pbWF0aW9uIjogImZ4LW5vbmUiLAogICAgImhyZXN1bHRoaWRlZGVzYyI6ICIxIiwKICAgICJwcmVzY29udGFpbmVyaGVpZ2h0IjogIjQwMHB4IiwKICAgICJwc2hvd3N1YnRpdGxlIjogIjAiLAogICAgInBzaG93ZGVzYyI6ICIxIiwKICAgICJjbG9zZU9uRG9jQ2xpY2siOiAxLAogICAgImlpZk5vSW1hZ2UiOiAiZGVzY3JpcHRpb24iLAogICAgImlpUm93cyI6IDIsCiAgICAiaWl0ZW1zV2lkdGgiOiAyMDAsCiAgICAiaWl0ZW1zSGVpZ2h0IjogMjAwLAogICAgImlpc2hvd092ZXJsYXkiOiAxLAogICAgImlpYmx1ck92ZXJsYXkiOiAxLAogICAgImlpaGlkZUNvbnRlbnQiOiAxLAogICAgImlpYW5pbWF0aW9uIjogIjEiLAogICAgImFuYWx5dGljcyI6IDAsCiAgICAiYW5hbHl0aWNzU3RyaW5nIjogIiIsCiAgICAicmVkaXJlY3RvbmNsaWNrIjogMSwKICAgICJyZWRpcmVjdENsaWNrVG8iOiAicmVzdWx0c19wYWdlIiwKICAgICJyZWRpcmVjdENsaWNrTG9jIjogInNhbWUiLAogICAgInJlZGlyZWN0X29uX2VudGVyIjogMSwKICAgICJyZWRpcmVjdEVudGVyVG8iOiAicmVzdWx0c19wYWdlIiwKICAgICJyZWRpcmVjdEVudGVyTG9jIjogInNhbWUiLAogICAgInJlZGlyZWN0X3VybCI6ICI/cz17cGhyYXNlfSIsCiAgICAib3ZlcnJpZGV3cGRlZmF1bHQiOiAwLAogICAgIm92ZXJyaWRlX21ldGhvZCI6ICJnZXQiCn0K"></div>
+</div>
+                        </div>
+                    </div>
+                    <div class="nav-top__right">
+                        <div class="nav-top__cont__right-bottom current_site_obl hide_mobile_chose">
+                            <svg width="14" height="20" viewBox="0 0 14 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-pin">
+                                <path d="M6.99997 9.5C6.33693 9.5 5.70104 9.23661 5.2322 8.76777C4.76336 8.29893 4.49997 7.66304 4.49997 7C4.49997 6.33696 4.76336 5.70107 5.2322 5.23223C5.70104 4.76339 6.33693 4.5 6.99997 4.5C7.66301 4.5 8.2989 4.76339 8.76774 5.23223C9.23658 5.70107 9.49997 6.33696 9.49997 7C9.49997 7.3283 9.43531 7.65339 9.30967 7.95671C9.18403 8.26002 8.99988 8.53562 8.76774 8.76777C8.53559 8.99991 8.25999 9.18406 7.95668 9.3097C7.65337 9.43534 7.32828 9.5 6.99997 9.5ZM6.99997 0C5.14345 0 3.36298 0.737498 2.05022 2.05025C0.737467 3.36301 -3.05176e-05 5.14348 -3.05176e-05 7C-3.05176e-05 12.25 6.99997 20 6.99997 20C6.99997 20 14 12.25 14 7C14 5.14348 13.2625 3.36301 11.9497 2.05025C10.637 0.737498 8.85649 0 6.99997 0Z" fill="#707E98"></path>
+                            </svg>
+                            <p class="select-region-title">Виберіть своє місто</p>
+                            <div class="select-region-city js__reg-city-desc">
+                                <p>м. Харків</p>
+                                <svg width="10" height="5" viewBox="0 0 10 5" fill="none" class="chevron" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1 4L5 1L9 4" stroke="#C9C9C9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </svg>
+                            </div>
+                        </div>
+                        <div class="nav-top__cont__right-bottom">
+                            <div class="nav-top__cont__left-bottom-row">
+                                <span class="cont-header nav-top__cont__left-top-lock js__appendToJs__cloneClock">
+                                    <span>м. Харків, пр. Незалежності (Правди), 13</span>
+                                </span>
+                            </div>
+                        </div>
+                        <div class="nav-top__cont__right-bottom">
+                            <div class="list-lang">
+                                <ul class="wpm-language-switcher switcher-list">
+			<li class="item-language-ru">
+							<a href="http://medzdrav-test.loc/cabinet/appointments/" data-lang="ru">
+												<img src="http://medzdrav-test.loc/wp-content/plugins/wp-multilang/flags/ru.png" alt="рус">
+													<span>рус</span>
+											</a>
+					</li>
+			<li class="item-language-ua active">
+							<span data-lang="ua">
+												<img src="http://medzdrav-test.loc/wp-content/plugins/wp-multilang/flags/ua.png" alt="укр">
+													<span>укр</span>
+											</span>
+					</li>
+	</ul>
+                            </div>
+                            <div class="list-shared">
+
+                                                                    <a target="_blank" href="https://www.facebook.com/healthcentrkh/" class="list-shared__item__link">
+                                        <svg class="svg-sprite-icon icon-fb">
+                                            <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#fb"></use>
+                                        </svg>
+                                    </a>
+                                                                                                    <a target="_blank" href="https://www.instagram.com/medzdravkh/" class="list-shared__item__link">
+                                        <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg" class="svg-sprite-icon icon-instagram">
+                                            <path d="M8.59785 2H16.9979C20.1979 2 22.7979 4.6 22.7979 7.8V16.2C22.7979 17.7383 22.1868 19.2135 21.0991 20.3012C20.0114 21.3889 18.5361 22 16.9979 22H8.59785C5.39785 22 2.79785 19.4 2.79785 16.2V7.8C2.79785 6.26174 3.40892 4.78649 4.49663 3.69878C5.58434 2.61107 7.0596 2 8.59785 2ZM18.0479 5.5C18.3794 5.5 18.6973 5.6317 18.9317 5.86612C19.1662 6.10054 19.2979 6.41848 19.2979 6.75C19.2979 7.08152 19.1662 7.39946 18.9317 7.63388C18.6973 7.8683 18.3794 8 18.0479 8C17.7163 8 17.3984 7.8683 17.164 7.63388C16.9295 7.39946 16.7979 7.08152 16.7979 6.75C16.7979 6.41848 16.9295 6.10054 17.164 5.86612C17.3984 5.6317 17.7163 5.5 18.0479 5.5ZM12.7979 7C14.1239 7 15.3957 7.52678 16.3334 8.46447C17.2711 9.40215 17.7979 10.6739 17.7979 12C17.7979 13.3261 17.2711 14.5979 16.3334 15.5355C15.3957 16.4732 14.1239 17 12.7979 17C11.4718 17 10.2 16.4732 9.26232 15.5355C8.32464 14.5979 7.79785 13.3261 7.79785 12C7.79785 10.6739 8.32464 9.40215 9.26232 8.46447C10.2 7.52678 11.4718 7 12.7979 7ZM12.7979 9C12.0022 9 11.2391 9.31607 10.6765 9.87868C10.1139 10.4413 9.79785 11.2044 9.79785 12C9.79785 12.7956 10.1139 13.5587 10.6765 14.1213C11.2391 14.6839 12.0022 15 12.7979 15C13.5935 15 14.3566 14.6839 14.9192 14.1213C15.4818 13.5587 15.7979 12.7956 15.7979 12C15.7979 11.2044 15.4818 10.4413 14.9192 9.87868C14.3566 9.31607 13.5935 9 12.7979 9Z" fill="#707E98" />
+                                            <circle cx="18.2979" cy="6.5" r="1.5" fill="white" />
+                                            <circle cx="12.7979" cy="12" r="5" fill="white" />
+                                            <circle cx="12.7979" cy="12" r="3" fill="#707E98" />
+                                        </svg>
+                                    </a>
+                                                                                                                            </div>
+	                        	                        <div class="c-header-link__wrap">
+		                        		                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+		                             xmlns="http://www.w3.org/2000/svg">
+			                        <path
+				                        d="M11.9999 22C17.5517 22 21.9999 17.5499 21.9999 12C21.9999 6.45011 17.5517 2 11.9999 2C6.44999 2 1.99988 6.45011 1.99988 12C1.99988 17.5499 6.44999 22 11.9999 22Z"
+				                        fill="#95c53d"/>
+			                        <path
+				                        d="M11.997 14.2222C8.978 14.2222 6.39929 14.6982 6.39929 16.6021C6.39929 18.5067 8.9619 18.9995 11.997 18.9995C15.016 18.9995 17.5947 18.5242 17.5947 16.6196C17.5947 14.7149 15.0328 14.2222 11.997 14.2222Z"
+				                        fill="white"/>
+			                        <path
+				                        d="M11.9971 12.4085C14.0536 12.4085 15.7014 10.7601 15.7014 8.70426C15.7014 6.64844 14.0536 5 11.9971 5C9.94129 5 8.29285 6.64844 8.29285 8.70426C8.29285 10.7601 9.94129 12.4085 11.9971 12.4085Z"
+				                        fill="white"/>
+		                        </svg>
+		                        			                        <a href="/ua/cabinet/appointments/"
+			                           class="c-header-link__link">Особистий кабінет			                        </a>
+		                        	                        </div>
+	                                                </div>
+                    </div>
+
+                    <button class="cont-trigger js__reg-trigger">
+                        <svg width="14" height="20" viewBox="0 0 14 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-pin">
+                            <path d="M6.99997 9.5C6.33693 9.5 5.70104 9.23661 5.2322 8.76777C4.76336 8.29893 4.49997 7.66304 4.49997 7C4.49997 6.33696 4.76336 5.70107 5.2322 5.23223C5.70104 4.76339 6.33693 4.5 6.99997 4.5C7.66301 4.5 8.2989 4.76339 8.76774 5.23223C9.23658 5.70107 9.49997 6.33696 9.49997 7C9.49997 7.3283 9.43531 7.65339 9.30967 7.95671C9.18403 8.26002 8.99988 8.53562 8.76774 8.76777C8.53559 8.99991 8.25999 9.18406 7.95668 9.3097C7.65337 9.43534 7.32828 9.5 6.99997 9.5ZM6.99997 0C5.14345 0 3.36298 0.737498 2.05022 2.05025C0.737467 3.36301 -3.05176e-05 5.14348 -3.05176e-05 7C-3.05176e-05 12.25 6.99997 20 6.99997 20C6.99997 20 14 12.25 14 7C14 5.14348 13.2625 3.36301 11.9497 2.05025C10.637 0.737498 8.85649 0 6.99997 0Z" fill="#707E98"></path>
+                        </svg>
+                    </button>
+                    <div class="search-bar ajaxsearchlite3 ajs"><div id='ajaxsearchlite2' class="wpdreams_asl_container asl_w asl_m asl_m_2">
+<div class="probox">
+
+    
+    <div class='promagnifier'>
+                <div class='innericon'>
+          <svg class="svg-sprite-icon icon-searchForm">
+            <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#searchForm"></use>
+          </svg>
+        </div>
+    </div>
+
+    
+    
+    <div class='prosettings' style='display:none;' data-opened=0>
+                <div class='innericon'>
+            <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="512px" height="512px" viewBox="0 0 512 512" enable-background="new 0 0 512 512" xml:space="preserve">
+                <polygon id="arrow-25-icon" transform = "rotate(90 256 256)" points="142.332,104.886 197.48,50 402.5,256 197.48,462 142.332,407.113 292.727,256 "/>
+            </svg>
+        </div>
+    </div>
+
+    
+    
+    <div class='proinput'>
+        <form autocomplete="off" aria-label='Ajax search form'>
+            <input aria-label='Search input' type='search' class='orig' name='phrase' placeholder='Поиск..' value='' autocomplete="off"/>
+            <input aria-label='Autocomplete input, do not use this' type='text' class='autocomplete' name='phrase' value='' autocomplete="off"/>
+            <span class='loading'></span>
+            <input type='submit' value="Start search" style='width:0; height: 0; visibility: hidden;'>
+        </form>
+    </div>
+
+    
+    
+    <div class='proloading'>
+
+        <div class="asl_loader"><div class="asl_loader-inner asl_simple-circle"></div></div>
+
+            </div>
+
+            <div class='proclose'>
+          <svg class="svg-sprite-icon icon-crossM">
+            <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#crossM"></use>
+          </svg>
+        </div>
+    
+    
+</div>
+</div>
+
+
+<div id='ajaxsearchlitesettings2' class="searchsettings wpdreams_asl_settings asl_w asl_s asl_s_2">
+    <form name='options' autocomplete='off'>
+
+        
+                <fieldset class="asl_sett_scroll">
+            <legend style="display: none;">Generic selectors</legend>
+            <div class="asl_option_inner hiddend">
+                <input type='hidden' name='qtranslate_lang' id='qtranslate_lang2'
+                       value='0'/>
+            </div>
+
+	        
+            
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="checked" id="set_exactonly2"
+                           title="Exact matches only"
+                           name="set_exactonly" />
+                    <label for="set_exactonly2">Exact matches only</label>
+                </div>
+                <div class="asl_option_label">
+                    Exact matches only                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_intitle2"
+                           title="Search in title"
+                           name="set_intitle"  checked="checked"/>
+                    <label for="set_intitle2">Search in title</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in title                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_incontent2"
+                           title="Search in content"
+                           name="set_incontent"  checked="checked"/>
+                    <label for="set_incontent2">Search in content</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in content                </div>
+            </div>
+            <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="None" id="set_inexcerpt2"
+                       title="Search in excerpt"
+                       name="set_inexcerpt"  checked="checked"/>
+                <label for="set_inexcerpt2">Search in excerpt</label>
+            </div>
+
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_inposts2"
+                           title="Search in posts"
+                           name="set_inposts" />
+                    <label for="set_inposts2">Search in posts</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in posts                </div>
+            </div>
+            <div class="asl_option">
+                <div class="asl_option_inner">
+                    <input type="checkbox" value="None" id="set_inpages2"
+                           title="Search in pages"
+                           name="set_inpages" />
+                    <label for="set_inpages2">Search in pages</label>
+                </div>
+                <div class="asl_option_label">
+                    Search in pages                </div>
+            </div>
+                    </fieldset>
+                    <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="equipment"
+                       id="2customset_21"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="2customset_21">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="services"
+                       id="2customset_22"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="2customset_22">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="article"
+                       id="2customset_23"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="2customset_23">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="analysis"
+                       id="2customset_24"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="2customset_24">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="specials"
+                       id="2customset_25"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="2customset_25">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        <div class="asl_option_inner hiddend">
+                <input type="checkbox" value="doctor"
+                       id="2customset_26"
+                       title="Hidden option, ignore please"
+                       name="customset[]" checked="checked"/>
+                <label for="2customset_26">Hidden</label>
+            </div>
+            <div class="asl_option_label hiddend"></div>
+
+                        </form>
+</div>
+
+<div id='ajaxsearchliteres2' class='vertical wpdreams_asl_results asl_w asl_r asl_r_2'>
+
+    
+    <div class="results">
+
+        
+            <div class="resdrg">
+            </div>
+
+        
+    </div>
+
+    
+    
+</div>
+
+
+<div class="asl_init_data wpdreams_asl_data_ct" style="display:none !important;" id="asl_init_id_2" data-asldata="ewogICAgImhvbWV1cmwiOiAiaHR0cDovL21lZHpkcmF2LXRlc3QubG9jL3VhLyIsCiAgICAicmVzdWx0c3R5cGUiOiAidmVydGljYWwiLAogICAgInJlc3VsdHNwb3NpdGlvbiI6ICJob3ZlciIsCiAgICAiaXRlbXNjb3VudCI6IDQsCiAgICAiaW1hZ2V3aWR0aCI6IDcwLAogICAgImltYWdlaGVpZ2h0IjogNzAsCiAgICAicmVzdWx0aXRlbWhlaWdodCI6ICI3MHB4IiwKICAgICJzaG93YXV0aG9yIjogMCwKICAgICJzaG93ZGF0ZSI6IDAsCiAgICAic2hvd2Rlc2NyaXB0aW9uIjogMSwKICAgICJjaGFyY291bnQiOiAgMywKICAgICJkZWZhdWx0SW1hZ2UiOiAiaHR0cHM6Ly9tZWR6ZHJhdi5jb20udWEvd3AtY29udGVudC9wbHVnaW5zL2FqYXgtc2VhcmNoLWxpdGUvaW1nL2RlZmF1bHQuanBnIiwKICAgICJoaWdobGlnaHQiOiAwLAogICAgImhpZ2hsaWdodHdob2xld29yZHMiOiAxLAogICAgInNjcm9sbFRvUmVzdWx0cyI6IDAsCiAgICAicmVzdWx0YXJlYWNsaWNrYWJsZSI6IDEsCiAgICAiYXV0b2NvbXBsZXRlIjogewogICAgICAgICJlbmFibGVkIiA6IDAsCiAgICAgICAgImxhbmciIDogImVuIgogICAgfSwKICAgICJ0cmlnZ2Vyb250eXBlIjogMSwKICAgICJ0cmlnZ2VyX29uX2NsaWNrIjogMCwKICAgICJ0cmlnZ2VyX29uX2ZhY2V0X2NoYW5nZSI6IDEsCiAgICAic2V0dGluZ3NpbWFnZXBvcyI6ICJyaWdodCIsCiAgICAiaHJlc3VsdGFuaW1hdGlvbiI6ICJmeC1ub25lIiwKICAgICJ2cmVzdWx0YW5pbWF0aW9uIjogImZ4LW5vbmUiLAogICAgImhyZXN1bHRoaWRlZGVzYyI6ICIxIiwKICAgICJwcmVzY29udGFpbmVyaGVpZ2h0IjogIjQwMHB4IiwKICAgICJwc2hvd3N1YnRpdGxlIjogIjAiLAogICAgInBzaG93ZGVzYyI6ICIxIiwKICAgICJjbG9zZU9uRG9jQ2xpY2siOiAxLAogICAgImlpZk5vSW1hZ2UiOiAiZGVzY3JpcHRpb24iLAogICAgImlpUm93cyI6IDIsCiAgICAiaWl0ZW1zV2lkdGgiOiAyMDAsCiAgICAiaWl0ZW1zSGVpZ2h0IjogMjAwLAogICAgImlpc2hvd092ZXJsYXkiOiAxLAogICAgImlpYmx1ck92ZXJsYXkiOiAxLAogICAgImlpaGlkZUNvbnRlbnQiOiAxLAogICAgImlpYW5pbWF0aW9uIjogIjEiLAogICAgImFuYWx5dGljcyI6IDAsCiAgICAiYW5hbHl0aWNzU3RyaW5nIjogIiIsCiAgICAicmVkaXJlY3RvbmNsaWNrIjogMSwKICAgICJyZWRpcmVjdENsaWNrVG8iOiAicmVzdWx0c19wYWdlIiwKICAgICJyZWRpcmVjdENsaWNrTG9jIjogInNhbWUiLAogICAgInJlZGlyZWN0X29uX2VudGVyIjogMSwKICAgICJyZWRpcmVjdEVudGVyVG8iOiAicmVzdWx0c19wYWdlIiwKICAgICJyZWRpcmVjdEVudGVyTG9jIjogInNhbWUiLAogICAgInJlZGlyZWN0X3VybCI6ICI/cz17cGhyYXNlfSIsCiAgICAib3ZlcnJpZGV3cGRlZmF1bHQiOiAwLAogICAgIm92ZXJyaWRlX21ldGhvZCI6ICJnZXQiCn0K"></div>
+</div>
+                    <button class="cont-trigger js__cont-trigger">
+                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                            <path d="M17.25 0C20.972 0 24 3.06413 24 6.83046C24 10.5968 20.972 13.6609 17.25 13.6609C13.528 13.6609 10.5 10.5967 10.5 6.83046C10.5 3.06417 13.528 0 17.25 0ZM16.6239 6.83046C16.6239 7.05678 16.7432 7.26592 16.9369 7.37906L19.2599 8.73609C19.3584 8.7937 19.4661 8.82111 19.5723 8.82111C19.7886 8.82111 19.9991 8.7075 20.115 8.50423C20.2879 8.20121 20.1853 7.81377 19.8859 7.63888L17.876 6.46472V2.7592C17.876 2.40935 17.5957 2.12571 17.25 2.12571C16.9042 2.12571 16.6239 2.40935 16.6239 2.7592V6.83046Z" fill="#D5E8B1" />
+                            <path d="M19.8333 17.5578C18.375 17.5578 16.975 17.3236 15.6683 16.8902C15.26 16.7614 14.805 16.8551 14.4783 17.183L11.9117 19.7599C8.61 18.0732 5.90333 15.3558 4.22333 12.041L6.79 9.46414C7.11667 9.13618 7.21 8.67937 7.08167 8.26941C6.65 6.95756 6.41667 5.55199 6.41667 4.08787C6.41667 3.77722 6.29375 3.47929 6.07496 3.25963C5.85616 3.03997 5.55942 2.91656 5.25 2.91656H1.16667C0.857247 2.91656 0.560501 3.03997 0.341709 3.25963C0.122916 3.47929 0 3.77722 0 4.08787C0 9.36889 2.08958 14.4336 5.80905 18.1679C9.52852 21.9021 14.5732 24 19.8333 24C20.1428 24 20.4395 23.8766 20.6583 23.6569C20.8771 23.4373 21 23.1393 21 22.8287V18.7291C21 18.4185 20.8771 18.1206 20.6583 17.9009C20.4395 17.6812 20.1428 17.5578 19.8333 17.5578Z" fill="#707E98" />
+                        </svg>
+                    </button>
+                    <a href="#" class="hc-nav-trigger hc-nav-1 js__burger"><span></span></a>
+
+                    <div class="nav-top__pop js__cloneClock">
+                        <button class="nav-top__pop-cross  js__cont-trigger">
+                            <svg class="svg-sprite-icon icon-crossM">
+                                <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#crossM"></use>
+                            </svg>
+                        </button>
+                        <ul class="list-clock js__appendToJs__cloneClock">
+                            <li>
+                                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M9.99994 0C15.514 0 20 4.48597 20 10C20 15.514 15.514 20 9.99994 20C4.48591 20 2.10789e-06 15.514 2.10789e-06 10C2.10789e-06 4.48604 4.48591 0 9.99994 0V0ZM9.07248 10C9.07248 10.3313 9.24926 10.6375 9.53621 10.8032L12.9776 12.7899C13.1236 12.8742 13.2831 12.9144 13.4404 12.9144C13.761 12.9144 14.0728 12.748 14.2445 12.4505C14.5006 12.0068 14.3486 11.4396 13.905 11.1836L10.9274 9.46455V4.03956C10.9274 3.52736 10.5121 3.11211 9.99994 3.11211C9.48774 3.11211 9.07248 3.52736 9.07248 4.03956V10Z" fill="#707E98"/>
+                                </svg>
+                            </li>
+                            <li class="list-clock__item cont-header">
+                                Графік прийому                            </li>
+                            <li class="list-clock__item cont-header"><b>пн-пт</b> 08:00 - 16:00</li>
+                                                            <li class="list-clock__item cont-header">
+                                    <b>сб</b> 08:00 - 15:00                                </li>
+                                                    </ul>
+                        <ul class="list-clock js__appendToJs__cloneClock">
+                            <li>
+                                <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M9.99994 0C15.514 0 20 4.48597 20 10C20 15.514 15.514 20 9.99994 20C4.48591 20 2.10789e-06 15.514 2.10789e-06 10C2.10789e-06 4.48604 4.48591 0 9.99994 0V0ZM9.07248 10C9.07248 10.3313 9.24926 10.6375 9.53621 10.8032L12.9776 12.7899C13.1236 12.8742 13.2831 12.9144 13.4404 12.9144C13.761 12.9144 14.0728 12.748 14.2445 12.4505C14.5006 12.0068 14.3486 11.4396 13.905 11.1836L10.9274 9.46455V4.03956C10.9274 3.52736 10.5121 3.11211 9.99994 3.11211C9.48774 3.11211 9.07248 3.52736 9.07248 4.03956V10Z" fill="#707E98"/>
+                                </svg>
+                            </li>
+                            <li class="list-clock__item cont-header">
+                                Запис по телефону                            </li>
+                            <li class="list-clock__item cont-header">
+                                <b>пн-пт</b> 07:30 - 19:00                            </li>
+                                                            <li class="list-clock__item cont-header">
+                                    <b>сб</b> 07:30 - 17:00                                </li>
+                                                                                        <li class="list-clock__item cont-header">
+                                    <b>нд</b> 09:00 - 15:00                                </li>
+                                                    </ul>
+                        <ul class="list-clock js__appendToJs__cloneClock">
+                            <li>
+                                <svg width="14" height="20" viewBox="0 0 14 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-pin">
+                                    <path d="M6.99997 9.5C6.33693 9.5 5.70104 9.23661 5.2322 8.76777C4.76336 8.29893 4.49997 7.66304 4.49997 7C4.49997 6.33696 4.76336 5.70107 5.2322 5.23223C5.70104 4.76339 6.33693 4.5 6.99997 4.5C7.66301 4.5 8.2989 4.76339 8.76774 5.23223C9.23658 5.70107 9.49997 6.33696 9.49997 7C9.49997 7.3283 9.43531 7.65339 9.30967 7.95671C9.18403 8.26002 8.99988 8.53562 8.76774 8.76777C8.53559 8.99991 8.25999 9.18406 7.95668 9.3097C7.65337 9.43534 7.32828 9.5 6.99997 9.5ZM6.99997 0C5.14345 0 3.36298 0.737498 2.05022 2.05025C0.737467 3.36301 -3.05176e-05 5.14348 -3.05176e-05 7C-3.05176e-05 12.25 6.99997 20 6.99997 20C6.99997 20 14 12.25 14 7C14 5.14348 13.2625 3.36301 11.9497 2.05025C10.637 0.737498 8.85649 0 6.99997 0Z" fill="#707E98"></path>
+                                </svg>
+                            </li>
+                            <li class="list-clock__item cont-header">м. Харків, пр. Незалежності (Правди), 13</li>
+                        </ul>
+                        <ul class="list-clock js__appendToJs__cloneClock">
+                            <li>
+                                <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M19.9434 1.45975L16.9243 15.0342C16.7018 15.9968 16.1009 16.2303 15.2627 15.7774L10.6637 12.543L8.44574 14.5813C8.20095 14.8148 7.99325 15.013 7.51851 15.013L7.84489 10.5471L16.368 3.20079C16.7389 2.88939 16.2864 2.71245 15.7968 3.02386L5.26349 9.35107L0.723777 7.99928C-0.262794 7.70203 -0.285048 7.05798 0.931477 6.60503L18.6675 0.0796524C19.4909 -0.203444 20.2104 0.270743 19.9434 1.45975Z" fill="#707E98"/>
+                                </svg>
+                            </li>
+                            <li class="list-clock__item cont-header header-mail"><a href="https://t.me/Zdorovya_Kh_bot">https://t.me/Zdorovya_Kh_bot</a></li>
+                        </ul>
+                        <ul class="list-clock js__appendToJs__cloneClock">
+                            <li>
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M8.68239 3.62364C10.9459 2.71906 13.5825 2.78161 15.7857 3.83226C15.1579 3.73662 14.5194 3.80873 13.898 3.91407C12.2102 4.23367 10.6063 5.02989 9.35265 6.2128C8.15057 7.39752 7.30821 8.96945 7.07029 10.6512C6.91292 11.8429 7.0588 13.0928 7.5921 14.1774C8.14165 15.3154 9.10901 16.2488 10.2749 16.7305C11.3984 17.2072 12.7016 17.2019 13.8396 16.7764C15.5471 16.1481 16.7739 14.4516 16.9142 12.6391C17.0025 11.4512 16.7143 10.1875 15.9184 9.27633C15.1585 8.38448 14.0472 7.89322 12.935 7.6136C12.8754 6.51384 13.3922 5.42738 14.2116 4.71216C14.6667 4.3007 15.2315 4.03844 15.8155 3.8706L15.8599 3.85525C17.5317 4.65913 18.9523 5.98491 19.8574 7.6125C20.6329 8.99819 21.0374 10.595 20.9973 12.1856C20.9897 14.2424 20.2229 16.2789 18.9085 17.8516C17.6656 19.3514 15.9273 20.4302 14.0326 20.8623C12.1329 21.3017 10.089 21.1121 8.31114 20.3026C6.57147 19.5236 5.09762 18.1692 4.16003 16.5034C3.38009 15.119 2.96749 13.5227 3.00173 11.9303C3.00545 9.94613 3.70813 7.97728 4.93501 6.42572C5.915 5.18682 7.21507 4.20173 8.68239 3.62364Z" fill="#707E98"/>
+                                </svg>
+                            </li>
+                            <li class="list-clock__item cont-header header-mail"><a href="tel:+380504020193">+38 (050) 402 01 93</a></li>
+                        </ul>
+                        <ul class="list-clock js__appendToJs__cloneClock">
+                            <li>
+                                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M12.0001 3C12.6515 3 13.1844 3.55677 13.1844 4.23692V8.83518C13.1844 9.51564 12.6515 10.0723 12.0001 10.0723C11.3487 10.0723 10.8159 9.51564 10.8159 8.83518V4.23692C10.8159 3.55677 11.3487 3 12.0001 3Z" fill="#707E98"/>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M3.05778 9.78417C3.25904 9.1371 3.93042 8.77977 4.54991 8.98998L8.73671 10.411C9.35628 10.6212 9.69832 11.3225 9.49707 11.9696C9.29581 12.6166 8.62429 12.974 8.00487 12.7637L3.81799 11.3428C3.19857 11.1325 2.85639 10.4312 3.05778 9.78417Z" fill="#707E98"/>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M6.47345 20.764C5.94654 20.3642 5.8287 19.5867 6.21151 19.0364L8.7991 15.3163C9.18184 14.7658 9.92624 14.6426 10.4532 15.0426C10.9802 15.4426 11.098 16.2199 10.7152 16.7703L8.12758 20.4903C7.74477 21.0409 7.00044 21.164 6.47345 20.764Z" fill="#707E98"/>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M17.5269 20.7641C16.9998 21.1639 16.2556 21.0408 15.8726 20.4904L13.2851 16.7704C12.9021 16.2198 13.02 15.4425 13.547 15.0425C14.0739 14.6427 14.8183 14.7659 15.2012 15.3161L17.7887 19.0362C18.1716 19.5866 18.0536 20.3641 17.5269 20.7641Z" fill="#707E98"/>
+                                    <path fill-rule="evenodd" clip-rule="evenodd" d="M20.942 9.78416C21.1433 10.4312 20.8012 11.1326 20.1816 11.3428L15.9948 12.7637C15.3753 12.974 14.704 12.6166 14.5026 11.9696C14.3013 11.3226 14.6433 10.6212 15.2629 10.4109L19.4497 8.98997C20.0691 8.77976 20.7406 9.13717 20.942 9.78416Z" fill="#707E98"/>
+                                </svg>
+                            </li>
+                            <li class="list-clock__item cont-header header-mail"><a href="tel:+380677207077">+38 (067) 720 70 77</a></li>
+                        </ul>
+                    </div>
+                    <div class="nav-top__pop js__popRegion">
+                        <button class="nav-top__pop-cross js__cont-trigger-region">
+                            <svg class="svg-sprite-icon icon-crossM">
+                                <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#crossM"></use>
+                            </svg>
+                        </button>
+
+                        <ul class="list-clock list-clock-region js__appendToJs__cloneClock">
+                            <li class="list-clock__item cont-header">Виберіть своє місто:</li>
+                            <li class="list-clock__item reg-city js__reg-city cont-header">
+                                <p>м. Харків</p>
+                                <svg width="10" height="5" viewBox="0 0 10 5" fill="none" class="chevron" xmlns="http://www.w3.org/2000/svg">
+                                    <path d="M1 4L5 1L9 4" stroke="#C9C9C9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                </svg>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="nav-top__pop js__popCity">
+                        <button class="nav-top__pop-cross js__cont-trigger-city">
+                            <svg class="svg-sprite-icon icon-crossM">
+                                <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#crossM"></use>
+                            </svg>
+                        </button>
+
+                        <ul class="list-clock list-clock-region">
+                            <li class="list-clock__item cont-header">
+                                <p class="change-city" data-gd="pl">м. Полтава</p>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="nav-top__pop js__appendToJs__cloneClock">
+                        <button class="nav-top__pop-cross  js__cont-trigger">
+                            <svg class="svg-sprite-icon icon-crossM">
+                                <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#crossM"></use>
+                            </svg>
+                        </button>
+                    </div>
+
+                    <div class="nav-top__pop js__medPop">
+                        <button class="nav-top__pop-cross  js__medPop-trigger">
+                            <svg class="svg-sprite-icon icon-crossM">
+                                <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#crossM"></use>
+                            </svg>
+                        </button>
+                        <form class="med-call-pop">
+                            <div class="med-call-pop-img">
+                                <img src="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/general/callMed.svg" alt="med">
+                            </div>
+                            <div class="med-call-pop-der">
+                                Наши менеджеры перезвонят вам
+                                в течении 30 мин.
+                            </div>
+
+                            <label class="input-form">Iм'я*                                <input type="text" name="name" class="feedback-name" required>
+                                <span class="error-label" style="display: none">поле заполнено некорректно</span>
+                            </label>
+
+                            <label class="input-form">Телефон*                                <input type="tel" name="name" class="feedback-phone" required placeholder="+38 (___) __ __ ___">
+                                <span class="error-label" style="display: none">поле заполнено некорректно</span>
+                            </label>
+                            <input type="hidden" class="feedback-subject" value="Заказ обратного звонка">
+                            <input type="hidden" class="feedback-type" value="1">
+                            <button type="button" class="btn btn--sm send-email">замовити дзвінок</button>
+
+
+                        </form>
+                    </div>
+                    <div class="nav-top__pop js__popRegionDesc">
+                        <ul class="list-clock list-clock-region">
+                            <li class="list-clock__item cont-header">
+                                <p class="change-city" data-gd="pl">м. Полтава</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <div class="nav-bottom">
+            <div class="container-fluid">
+                <div class="nav-bottom-row">
+                    <div class="nav-bottom__logo">
+                        <a href="http://medzdrav-test.loc/ua"><img src="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/general/logo-sm.svg" alt="logo"></a>
+                    </div>
+                    <nav class="nav-bottom__nav" id="main-nav">
+                        <ul class="nav-bottom__nav-list__parent">
+
+                            <li class="nav-bottom__nav-list__parent__item custom-content custom-content-region">
+                                <div class="select-region">
+                                    <p class="select-region-title">Виберіть своє місто:</p>
+                                    <div class="select-region-city js__reg-city_menu">
+                                        <p>м. Харків</p>
+                                        <svg width="10" height="5" viewBox="0 0 10 5" fill="none" class="chevron" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M1 4L5 1L9 4" stroke="#C9C9C9" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                                        </svg>
+                                    </div>
+                                    <div class="nav-top__pop js__popCity_menu">
+                                        <button class="nav-top__pop-cross js__cont-trigger-city">
+                                            <svg class="svg-sprite-icon icon-crossM">
+                                                <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#crossM"></use>
+                                            </svg>
+                                        </button>
+
+                                        <div class="list-clock list-clock-region">
+                                            <div class="list-clock__item cont-header">
+                                                <p class="change-city" data-gd="pl">м. Полтава</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li class="nav-bottom__nav-list__parent__item">
+                                <a class="link__parent first " href="http://medzdrav-test.loc/ua/doc/">
+                                    лікарі</a>
+                                
+                                <ul class="nav-bottom__nav-list__children ">
+                                    <li class="pc-menu-child"><ul>                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/allergologiya/">
+                                                        Алерголог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/ginekologiya/">
+                                                        Гінеколог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/dermatologiya/">
+                                                        Дерматолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/urologiya/">
+                                                        Уролог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/seksolog/">
+                                                        Сексолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/proktologiya/">
+                                                        Проктолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/kardiolog/">
+                                                        Кардіолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/terapevt/">
+                                                        Терапевт                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/gastroenterologiya/">
+                                                        Гастроентеролог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/lor/">
+                                                        Отоларинголог (ЛОР)                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/infektsionist/">
+                                                        Інфекціоніст                                                    </a>
+                                                </li>
+                                                </ul><ul>                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/nevropatolog/">
+                                                        Невропатолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/parazitolog/">
+                                                        Паразитолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/immunolog/">
+                                                        Імунолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/revmatolog-2/">
+                                                        Ревматолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/hirurg/">
+                                                        Хірург                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/ortoped-travmatolog/">
+                                                        Ортопед-травматолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/vrach-uzi/">
+                                                        Лікар УЗД                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/endokrinolog/">
+                                                        Ендокринолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/dietolog/">
+                                                        Дієтолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/mammolog/">
+                                                        Мамолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/refleksoterapevt/">
+                                                        Рефлексотерапевт                                                    </a>
+                                                </li>
+                                                </ul><ul>                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/nefrolog/">
+                                                        Нефролог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/funkcionalnaya-diagnostika/">
+                                                        Функціональна діагностика                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/endoskopist/">
+                                                        Ендоскопіст                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/onkoginekolog/">
+                                                        Онкогінеколог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/kosmetolog/">
+                                                        Косметолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/flebolog/">
+                                                        Флеболог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/rentgenolog/">
+                                                        Рентгенолог                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/doc/massazhist/">
+                                                        Масажист-реабілітолог                                                    </a>
+                                                </li>
+                                                </ul></li>                                            <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/allergologiya/">
+                                                    Алерголог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/ginekologiya/">
+                                                    Гінеколог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/dermatologiya/">
+                                                    Дерматолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/urologiya/">
+                                                    Уролог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/seksolog/">
+                                                    Сексолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/proktologiya/">
+                                                    Проктолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/kardiolog/">
+                                                    Кардіолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/terapevt/">
+                                                    Терапевт                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/gastroenterologiya/">
+                                                    Гастроентеролог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/lor/">
+                                                    Отоларинголог (ЛОР)                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/infektsionist/">
+                                                    Інфекціоніст                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/nevropatolog/">
+                                                    Невропатолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/parazitolog/">
+                                                    Паразитолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/immunolog/">
+                                                    Імунолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/revmatolog-2/">
+                                                    Ревматолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/hirurg/">
+                                                    Хірург                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/ortoped-travmatolog/">
+                                                    Ортопед-травматолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/vrach-uzi/">
+                                                    Лікар УЗД                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/endokrinolog/">
+                                                    Ендокринолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/dietolog/">
+                                                    Дієтолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/mammolog/">
+                                                    Мамолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/refleksoterapevt/">
+                                                    Рефлексотерапевт                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/nefrolog/">
+                                                    Нефролог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/funkcionalnaya-diagnostika/">
+                                                    Функціональна діагностика                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/endoskopist/">
+                                                    Ендоскопіст                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/onkoginekolog/">
+                                                    Онкогінеколог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/kosmetolog/">
+                                                    Косметолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/flebolog/">
+                                                    Флеболог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/rentgenolog/">
+                                                    Рентгенолог                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item  mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/doc/massazhist/">
+                                                    Масажист-реабілітолог                                                </a>
+                                            </li>
+                                                                                <li class="nav-bottom__nav-list__children-item-fixed">
+                                        <a href="http://medzdrav-test.loc/ua/vse-vrachi/" class="nav-bottom__nav-list__children-item-all-link">
+                                            Всі лікарі                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M5 12H19" stroke="#707E98" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M13 6L19 12L13 18" stroke="#707E98" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                            </svg>
+                                        </a>
+                                    </li>
+
+                                    <!--
+                                        <li class="nav-bottom__nav-list__children-item-img">
+                                            <a class="link__children-img" href="http://medzdrav-test.loc/ua/?post_type=specials&#038;p=1245">
+                                                <img src="http://medzdrav-test.loc/wp-content/uploads/2020/08/Testuvannia-na-koronavirus-COVID-19-v-laboratorii-MTs-Zdorovia-MTs-Zdorovia-Google-Chrome.jpg" alt="">
+                                                <div class="link__children-img-text">
+                                                    <p><b>Тестування на коронавірус COVID-19 в лабораторії МЦ Здоров&#039;я
+</b></p>
+                                                    <p>Медичний Центр Здоров&#039;я відкрив в Харкові приватні пункти тестування на коронавірус COVID-19, в яких всі бажаючі можуть пройти всі ...</p>
+                                                </div>
+                                            </a>
+                                            <a href="javascript:void(0);" class="btn mt-1 get-covid-test">
+                                                Записатися на тестування</a>
+                                        </li>
+-->
+                                </ul>
+                            </li>
+
+                            <li class="nav-bottom__nav-list__parent__item"><a class="link__parent " href="http://medzdrav-test.loc/ua/analizy/ ">
+                                    аналізи</a>
+                                                                <ul class="nav-bottom__nav-list__children ">
+                                    <li class="pc-menu-child"><ul>                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/gistologicheskie-issledovaniya/">
+                                                        Гістологічні дослідження                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/immunofermentnye-issledovaniya-ifa/">
+                                                        Імуноферментні дослідження (ІФА)                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/test-na-covid-19-na-domu/">
+                                                        Тестування на COVID-19 на дому або в офісі                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/testirovanie-na-covid-19/">
+                                                        Тестування на COVID-19                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/gormony/">
+                                                        Гормональна панель                                                    </a>
+                                                </li>
+                                                </ul><ul>                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/bakteriologicheskie-issledovaniya/">
+                                                        Панель бактеріологічних досліджень                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/biohimicheskie-issledovaniya/">
+                                                        Панель біохімічних досліджень                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/immunologicheskie-issledovaniya/">
+                                                        Панель імунології                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/markery-onkologicheskix-zabolevanij/">
+                                                        Онкологічна панель                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/autoimmunnye-zabolevaniya/">
+                                                        Аутоімунні захворювання                                                    </a>
+                                                </li>
+                                                </ul><ul>                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/infekcionnye-zabolevaniya/">
+                                                        Інфекційна панель                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/service-at-home/">
+                                                        Виїзд додому та в офіс                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/citologicheskie-issledovaniya/">
+                                                        Панель цитологічних досліджень                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/obshheklinicheskij-analiz-krovi/">
+                                                        Аналіз крові                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/obshheklinicheskie-isslkdovaniya/">
+                                                        Панель загальноклінічних досліджень                                                    </a>
+                                                </li>
+                                                </ul></li>                                            <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/gistologicheskie-issledovaniya/">
+                                                    Гістологічні дослідження                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/immunofermentnye-issledovaniya-ifa/">
+                                                    Імуноферментні дослідження (ІФА)                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/test-na-covid-19-na-domu/">
+                                                    Тестування на COVID-19 на дому або в офісі                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/testirovanie-na-covid-19/">
+                                                    Тестування на COVID-19                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/gormony/">
+                                                    Гормональна панель                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/bakteriologicheskie-issledovaniya/">
+                                                    Панель бактеріологічних досліджень                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/biohimicheskie-issledovaniya/">
+                                                    Панель біохімічних досліджень                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/immunologicheskie-issledovaniya/">
+                                                    Панель імунології                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/markery-onkologicheskix-zabolevanij/">
+                                                    Онкологічна панель                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/autoimmunnye-zabolevaniya/">
+                                                    Аутоімунні захворювання                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/infekcionnye-zabolevaniya/">
+                                                    Інфекційна панель                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/service-at-home/">
+                                                    Виїзд додому та в офіс                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/citologicheskie-issledovaniya/">
+                                                    Панель цитологічних досліджень                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/obshheklinicheskij-analiz-krovi/">
+                                                    Аналіз крові                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/analizy/obshheklinicheskie-isslkdovaniya/">
+                                                    Панель загальноклінічних досліджень                                                </a>
+                                            </li>
+                                                                                <li class="nav-bottom__nav-list__children-item-fixed">
+                                        <a href="http://medzdrav-test.loc/ua/analizy/" class="nav-bottom__nav-list__children-item-all-link">
+                                            Всі аналізи                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M5 12H19" stroke="#707E98" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M13 6L19 12L13 18" stroke="#707E98" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                            </svg>
+                                        </a>
+                                    </li>
+                                    <!--
+                                        <li class="nav-bottom__nav-list__children-item-img">
+                                            <a class="link__children-img" href="http://medzdrav-test.loc/ua/?post_type=specials&#038;p=1245">
+                                                <img src="http://medzdrav-test.loc/wp-content/uploads/2020/08/Testuvannia-na-koronavirus-COVID-19-v-laboratorii-MTs-Zdorovia-MTs-Zdorovia-Google-Chrome.jpg" alt="">
+                                                <div class="link__children-img-text">
+                                                    <p><b>Тестування на коронавірус COVID-19 в лабораторії МЦ Здоров&#039;я
+</b></p>
+                                                    <p>Медичний Центр Здоров&#039;я відкрив в Харкові приватні пункти тестування на коронавірус COVID-19, в яких всі бажаючі можуть пройти всі ...</p>
+                                                </div>
+                                            </a>
+
+                                            <a href="javascript:void(0);" class="btn mt-1 get-covid-test">Записатися на тестування                                            </a>
+                                        </li>
+-->
+                                </ul>
+                            </li>
+
+                            <li class="nav-bottom__nav-list__parent__item">
+                                <a class="link__parent " href="http://medzdrav-test.loc/ua/uslugi/">послуги                                </a>
+                                                                <ul class="nav-bottom__nav-list__children ">
+                                    <li class="pc-menu-child"><ul>                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/encefalografiya/">
+                                                        Енцефалографія                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/udalenie-rodinok-i-dermatoskopiya/">
+                                                        Видалення родимок та дерматоскопія                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/programma-vrachebnyj-kontrol-hoda-covid-19/">
+                                                        Програма "Лікарський контроль перебігу COVID-19"                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/lechenie-i-soprovozhdenie-covid-19/">
+                                                        Лікування та супроводження COVID-19                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/vedenie-beremennosti/">
+                                                        Ведення вагітності                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/zhenskaya-konsultaciya/">
+                                                        Жіноча консультація                                                    </a>
+                                                </li>
+                                                </ul><ul>                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/kosmetologiya/">
+                                                        Косметологія                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/funkcionalnaya-diagnostika/">
+                                                        Функціональна діагностика                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/stoimost-uslug/">
+                                                        Вартість послуг                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/gastroskopiya/">
+                                                        Гастроскопія                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/kolonoskopiya/">
+                                                        Колоноскопія                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/ultrazvukovye-issledovaniya/">
+                                                        УЗД                                                    </a>
+                                                </li>
+                                                </ul><ul>                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/elastografiya/">
+                                                        Еластографія                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/manipulyacii/">
+                                                        Загальноклінічні маніпуляції                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/diagnosticheskie-profili-issledovanij/">
+                                                        Діагностичні профілі досліджень                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/fizioprotsedury/">
+                                                        Фізіопроцедури                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/medicinskaya-spravka-sanitarnaya-knizhka/">
+                                                        Санітарна книжка (особиста медична книжка)                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/rabota-so-strahovimi-kompaniyami/">
+                                                        Робота зі страховими компаніями                                                    </a>
+                                                </li>
+                                                </ul><ul>                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/vyzov-medicinskoj-sestry-na-dom/">
+                                                        Виклик медичної сестри додому                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/elektrokardiogramma/">
+                                                        Електрокардіограма                                                    </a>
+                                                </li>
+                                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                    <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/korporativnym-klientam/">
+                                                        Корпоративним клієнтам                                                    </a>
+                                                </li>
+                                                </ul></li>                                            <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/encefalografiya/">
+                                                    Енцефалографія                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/udalenie-rodinok-i-dermatoskopiya/">
+                                                    Видалення родимок та дерматоскопія                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/programma-vrachebnyj-kontrol-hoda-covid-19/">
+                                                    Програма "Лікарський контроль перебігу COVID-19"                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/lechenie-i-soprovozhdenie-covid-19/">
+                                                    Лікування та супроводження COVID-19                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/vedenie-beremennosti/">
+                                                    Ведення вагітності                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/zhenskaya-konsultaciya/">
+                                                    Жіноча консультація                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/kosmetologiya/">
+                                                    Косметологія                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/funkcionalnaya-diagnostika/">
+                                                    Функціональна діагностика                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/stoimost-uslug/">
+                                                    Вартість послуг                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/gastroskopiya/">
+                                                    Гастроскопія                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/kolonoskopiya/">
+                                                    Колоноскопія                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/ultrazvukovye-issledovaniya/">
+                                                    УЗД                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/elastografiya/">
+                                                    Еластографія                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/manipulyacii/">
+                                                    Загальноклінічні маніпуляції                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/diagnosticheskie-profili-issledovanij/">
+                                                    Діагностичні профілі досліджень                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/fizioprotsedury/">
+                                                    Фізіопроцедури                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/medicinskaya-spravka-sanitarnaya-knizhka/">
+                                                    Санітарна книжка (особиста медична книжка)                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/rabota-so-strahovimi-kompaniyami/">
+                                                    Робота зі страховими компаніями                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/vyzov-medicinskoj-sestry-na-dom/">
+                                                    Виклик медичної сестри додому                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/elektrokardiogramma/">
+                                                    Електрокардіограма                                                </a>
+                                            </li>
+                                                                                        <li class="nav-bottom__nav-list__children-item mob-menu-child">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/uslugi/korporativnym-klientam/">
+                                                    Корпоративним клієнтам                                                </a>
+                                            </li>
+                                                                                <li class="nav-bottom__nav-list__children-item-fixed">
+                                        <a href="http://medzdrav-test.loc/ua/uslugi/" class="nav-bottom__nav-list__children-item-all-link">
+                                            Всі послуги                                            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M5 12H19" stroke="#707E98" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                                <path d="M13 6L19 12L13 18" stroke="#707E98" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+                                            </svg>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+
+                            <li class="nav-bottom__nav-list__parent__item">
+                                <a class="link__parent " href="http://medzdrav-test.loc/ua/uslugi/stoimost-uslug/">ціни</a>
+                            </li>
+
+                            <li class="nav-bottom__nav-list__parent__item"><a class="link__parent " href="http://medzdrav-test.loc/ua/specials/">акції                                </a>
+                            </li>
+                            <!--
+                                <li class="nav-bottom__nav-list__parent__item"><a class="link__parent " href="http://medzdrav-test.loc/ua/?page_id=1974">чекап</a>
+                                </li>
+-->
+                            <li class="nav-bottom__nav-list__parent__item"><a class="link__parent text-no-wrap  " href="http://medzdrav-test.loc/ua/about-the-center/">про центр</a>
+                                <ul class="nav-bottom__nav-list__children columns-one">
+                                    <li class="nav-bottom__nav-list__children-item">
+                                        <a class="link__children" href="http://medzdrav-test.loc/ua/about-us/">Про нас                                        </a>
+                                    </li>
+                                    <li class="nav-bottom__nav-list__children-item">
+                                        <a class="link__children" href="http://medzdrav-test.loc/ua/komanda/rukovodstvo/">Керівництво                                        </a>
+                                    </li>
+                                                                        <li class="nav-bottom__nav-list__children-item">
+                                        <a class="link__children" href="http://medzdrav-test.loc/ua/team-view/kartavceva-ekaterina-dmitrievna/">Медичні працівники                                        </a>
+                                    </li>
+                                                                        <li class="nav-bottom__nav-list__children-item">
+                                        <a class="link__children" href="http://medzdrav-test.loc/ua/oborudovanie/">Обладнання                                        </a>
+                                    </li>
+                                    <li class="nav-bottom__nav-list__children-item">
+                                        <a class="link__children" href="http://medzdrav-test.loc/ua/otzyvy/">Відгуки                                        </a>
+                                    </li>
+                                    <li class="nav-bottom__nav-list__children-item">
+                                        <a class="link__children" href="http://medzdrav-test.loc/ua/vakansii/">Вакансії                                        </a>
+                                    </li>
+                                    <li class="nav-bottom__nav-list__children-item">
+                                        <a class="link__children" href="http://medzdrav-test.loc/ua/laboratoriya/">
+                                            Лабораторія                                        </a>
+                                    </li>
+                                    <!--
+                                        <li class="nav-bottom__nav-list__children-item-img">
+                                            <a class="link__children-img" href="http://medzdrav-test.loc/ua/?post_type=specials&#038;p=1245">
+                                                <img src="http://medzdrav-test.loc/wp-content/uploads/2020/08/Testuvannia-na-koronavirus-COVID-19-v-laboratorii-MTs-Zdorovia-MTs-Zdorovia-Google-Chrome.jpg" alt="">
+                                                <div class="link__children-img-text">
+                                                    <p><b>Тестування на коронавірус COVID-19 в лабораторії МЦ Здоров&#039;я
+</b></p>
+                                                    <p>Медичний Центр Здоров&#039;я відкрив в Харкові приватні пункти тестування на коронавірус COVID-19, в яких всі бажаючі можуть пройти всі ...</p>
+                                                </div>
+                                            </a>
+                                            <a href="javascript:void(0);" class="btn mt-1 get-covid-test">Записатися на тестування                                            </a>
+                                        </li>
+-->
+                                </ul>
+
+                            <li class="nav-bottom__nav-list__parent__item"><a class="link__parent " href="http://medzdrav-test.loc/ua/news-info/">новини</a>
+                                                                <ul class="nav-bottom__nav-list__children columns-one">
+
+                                                                                <li class="nav-bottom__nav-list__children-item">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/mc-zdorove-grafik-na-prazdnichnye-dni/">
+                                                    Питання-відповідь                                                </a>
+                                            </li>
+                                                                                    <li class="nav-bottom__nav-list__children-item">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/mc-zdorove-grafik-na-prazdnichnye-dni/">
+                                                    Діагностична лабораторія                                                </a>
+                                            </li>
+                                                                                    <li class="nav-bottom__nav-list__children-item">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/mc-zdorove-grafik-na-prazdnichnye-dni/">
+                                                    Cтатті                                                </a>
+                                            </li>
+                                                                                    <li class="nav-bottom__nav-list__children-item">
+                                                <a class="link__children" href="http://medzdrav-test.loc/ua/mc-zdorove-grafik-na-prazdnichnye-dni/">
+                                                    Турбота про здоров'я                                                </a>
+                                            </li>
+                                                                            <!--
+                                        <li class="nav-bottom__nav-list__children-item-img">
+
+                                            <a class="link__children-img" href="http://medzdrav-test.loc/ua/?post_type=specials&#038;p=1245">
+                                                <img src="http://medzdrav-test.loc/wp-content/uploads/2020/08/Testuvannia-na-koronavirus-COVID-19-v-laboratorii-MTs-Zdorovia-MTs-Zdorovia-Google-Chrome.jpg" alt="">
+                                                <div class="link__children-img-text">
+                                                    <p><b>Тестування на коронавірус COVID-19 в лабораторії МЦ Здоров&#039;я
+</b></p>
+                                                    <p>Медичний Центр Здоров&#039;я відкрив в Харкові приватні пункти тестування на коронавірус COVID-19, в яких всі бажаючі можуть пройти всі ...</p>
+                                                </div>
+                                            </a>
+
+                                            <a href="javascript:void(0);" class="btn mt-1 get-covid-test">
+                                                Записатися на тестування                                            </a>
+                                        </li>
+-->
+                                </ul>
+                            </li>
+                            <li class="nav-bottom__nav-list__parent__item"><a class="link__parent " href="http://medzdrav-test.loc/ua/contacts/">
+                                    контакти</a>
+                                <ul class="nav-bottom__nav-list__children columns-one">
+                                    <li class="nav-bottom__nav-list__children-item">
+                                        <a class="link__children" href="http://medzdrav-test.loc/ua/punkty-zabora-krovi/">Пункти забору крові                                        </a>
+                                    </li>
+                                    <li class="nav-bottom__nav-list__children-item">
+                                        <a class="link__children" href="http://medzdrav-test.loc/ua/informatsionnyj-tsentr/">
+                                            Інформаційний центр                                        </a>
+                                    </li>
+                                    <!--
+                                        <li class="nav-bottom__nav-list__children-item-img">
+                                            <a class="link__children-img" href="http://medzdrav-test.loc/ua/?post_type=specials&#038;p=1245">
+                                                <img src="http://medzdrav-test.loc/wp-content/uploads/2020/08/Testuvannia-na-koronavirus-COVID-19-v-laboratorii-MTs-Zdorovia-MTs-Zdorovia-Google-Chrome.jpg" alt="">
+                                                <div class="link__children-img-text">
+                                                    <p><b>Тестування на коронавірус COVID-19 в лабораторії МЦ Здоров&#039;я
+</b></p>
+                                                    <p>Медичний Центр Здоров&#039;я відкрив в Харкові приватні пункти тестування на коронавірус COVID-19, в яких всі бажаючі можуть пройти всі ...</p>
+                                                </div>
+                                            </a>
+                                            <a href="javascript:void(0);" class="btn mt-1 get-covid-test">Записатися на тестування</a>
+                                        </li>
+-->
+                                </ul>
+                            </li>
+                            <li class="nav-bottom__nav-list__parent__item"><a class="link__parent " href="http://medzdrav-test.loc/ua/schedule/">розклад</a>
+                            </li>
+                            <li class="nav-bottom__nav-list__parent__item last_item"><a class="link__parent last" href="https://kids.medzdrav.com.ua/">дитяче відділення</a>
+                                <img src="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/general/menu_lion_boy.svg" alt="med">
+                            </li>
+	                        	                        <li class="nav-bottom__nav-list__parent__item c-header-link__mob" data-nav-custom-content>
+		                        <div class="c-header-link__mob-wrap">
+			                        <svg width="24" height="24" viewBox="0 0 24 24" fill="none"
+			                             xmlns="http://www.w3.org/2000/svg">
+				                        <rect width="24" height="24" rx="12" fill="#F9F9F9"/>
+				                        <path
+					                        d="M11.9971 14.2222C8.97812 14.2222 6.39941 14.6982 6.39941 16.6021C6.39941 18.5067 8.96202 18.9995 11.9971 18.9995C15.0161 18.9995 17.5948 18.5242 17.5948 16.6196C17.5948 14.7149 15.0329 14.2222 11.9971 14.2222Z"
+					                        fill="#95c53d"/>
+				                        <path opacity="0.4"
+				                              d="M11.9972 12.4085C14.0538 12.4085 15.7015 10.7601 15.7015 8.70426C15.7015 6.64844 14.0538 5 11.9972 5C9.94141 5 8.29297 6.64844 8.29297 8.70426C8.29297 10.7601 9.94141 12.4085 11.9972 12.4085Z"
+				                              fill="#95c53d"/>
+			                        </svg>
+			                        				                        <a href="/ua/cabinet/appointments/">Особистий кабінет</a>
+			                        		                        </div>
+	                        </li>
+	                                                    <li class="nav-bottom__nav-list__parent__item-bottom custom-content" data-nav-custom-content>
+                                <div class="list-lang">
+                                    <ul class="wpm-language-switcher switcher-list">
+			<li class="item-language-ru">
+							<a href="http://medzdrav-test.loc/cabinet/appointments/" data-lang="ru">
+												<img src="http://medzdrav-test.loc/wp-content/plugins/wp-multilang/flags/ru.png" alt="рус">
+													<span>рус</span>
+											</a>
+					</li>
+			<li class="item-language-ua active">
+							<span data-lang="ua">
+												<img src="http://medzdrav-test.loc/wp-content/plugins/wp-multilang/flags/ua.png" alt="укр">
+													<span>укр</span>
+											</span>
+					</li>
+	</ul>
+                                </div>
+                                <div class="list-shared">
+                                                                            <a href="https://www.facebook.com/healthcentrkh/" class="list-shared__item__link">
+                                            <svg class="svg-sprite-icon icon-fb">
+                                                <use xlink:href="http://medzdrav-test.loc/wp-content/themes/medzdrav/core/images/svg/symbol/sprite.svg#fb"></use>
+                                            </svg>
+                                        </a>
+                                                                                                                <a href="https://www.instagram.com/medzdravkh/" class="list-shared__item__link">
+                                            <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                <path d="M8.59785 2H16.9979C20.1979 2 22.7979 4.6 22.7979 7.8V16.2C22.7979 17.7383 22.1868 19.2135 21.0991 20.3012C20.0114 21.3889 18.5361 22 16.9979 22H8.59785C5.39785 22 2.79785 19.4 2.79785 16.2V7.8C2.79785 6.26174 3.40892 4.78649 4.49663 3.69878C5.58434 2.61107 7.0596 2 8.59785 2ZM18.0479 5.5C18.3794 5.5 18.6973 5.6317 18.9317 5.86612C19.1662 6.10054 19.2979 6.41848 19.2979 6.75C19.2979 7.08152 19.1662 7.39946 18.9317 7.63388C18.6973 7.8683 18.3794 8 18.0479 8C17.7163 8 17.3984 7.8683 17.164 7.63388C16.9295 7.39946 16.7979 7.08152 16.7979 6.75C16.7979 6.41848 16.9295 6.10054 17.164 5.86612C17.3984 5.6317 17.7163 5.5 18.0479 5.5ZM12.7979 7C14.1239 7 15.3957 7.52678 16.3334 8.46447C17.2711 9.40215 17.7979 10.6739 17.7979 12C17.7979 13.3261 17.2711 14.5979 16.3334 15.5355C15.3957 16.4732 14.1239 17 12.7979 17C11.4718 17 10.2 16.4732 9.26232 15.5355C8.32464 14.5979 7.79785 13.3261 7.79785 12C7.79785 10.6739 8.32464 9.40215 9.26232 8.46447C10.2 7.52678 11.4718 7 12.7979 7ZM12.7979 9C12.0022 9 11.2391 9.31607 10.6765 9.87868C10.1139 10.4413 9.79785 11.2044 9.79785 12C9.79785 12.7956 10.1139 13.5587 10.6765 14.1213C11.2391 14.6839 12.0022 15 12.7979 15C13.5935 15 14.3566 14.6839 14.9192 14.1213C15.4818 13.5587 15.7979 12.7956 15.7979 12C15.7979 11.2044 15.4818 10.4413 14.9192 9.87868C14.3566 9.31607 13.5935 9 12.7979 9Z" fill="#707E98" />
+                                                <circle cx="18.2979" cy="6.5" r="1.5" fill="white" />
+                                                <circle cx="12.7979" cy="12" r="5" fill="white" />
+                                                <circle cx="12.7979" cy="12" r="3" fill="#707E98" />
+                                            </svg>
+                                        </a>
+                                                                                                                                            </div>
+                                <div class="list-address">
+                                    <svg width="14" height="20" viewBox="0 0 14 20" fill="none" xmlns="http://www.w3.org/2000/svg" class="icon-pin">
+                                        <path d="M6.99997 9.5C6.33693 9.5 5.70104 9.23661 5.2322 8.76777C4.76336 8.29893 4.49997 7.66304 4.49997 7C4.49997 6.33696 4.76336 5.70107 5.2322 5.23223C5.70104 4.76339 6.33693 4.5 6.99997 4.5C7.66301 4.5 8.2989 4.76339 8.76774 5.23223C9.23658 5.70107 9.49997 6.33696 9.49997 7C9.49997 7.3283 9.43531 7.65339 9.30967 7.95671C9.18403 8.26002 8.99988 8.53562 8.76774 8.76777C8.53559 8.99991 8.25999 9.18406 7.95668 9.3097C7.65337 9.43534 7.32828 9.5 6.99997 9.5ZM6.99997 0C5.14345 0 3.36298 0.737498 2.05022 2.05025C0.737467 3.36301 -3.05176e-05 5.14348 -3.05176e-05 7C-3.05176e-05 12.25 6.99997 20 6.99997 20C6.99997 20 14 12.25 14 7C14 5.14348 13.2625 3.36301 11.9497 2.05025C10.637 0.737498 8.85649 0 6.99997 0Z" fill="#707E98"></path>
+                                    </svg>
+                                    <span class="cont-header">м. Харків, пр. Незалежності (Правди), 13</span>
+                                </div>
+                                <div class="list-telegram">
+                                    <svg width="20" height="16" viewBox="0 0 20 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                        <path d="M19.9434 1.45975L16.9243 15.0342C16.7018 15.9968 16.1009 16.2303 15.2627 15.7774L10.6637 12.543L8.44574 14.5813C8.20095 14.8148 7.99325 15.013 7.51851 15.013L7.84489 10.5471L16.368 3.20079C16.7389 2.88939 16.2864 2.71245 15.7968 3.02386L5.26349 9.35107L0.723777 7.99928C-0.262794 7.70203 -0.285048 7.05798 0.931477 6.60503L18.6675 0.0796524C19.4909 -0.203444 20.2104 0.270743 19.9434 1.45975Z" fill="#707E98"/>
+                                    </svg>
+                                    <span class="cont-header"><a href="https://t.me/Zdorovya_Kh_bot" class="list-shared__item__link">Чат-бот</a></span>
+                                </div>
+                            </li>
+
+                        </ul>
+
+                    </nav>
+
+                </div>
+            </div>
+        </div>
+    </header>

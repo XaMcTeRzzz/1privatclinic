@@ -1,0 +1,93 @@
+.certificate{
+  padding-top: 48px;
+  max-width: 1455px;
+  margin: 0 auto;
+  padding-left: 15px;
+  padding-right: 15px;
+  @include md-block(){
+    margin: 0 auto;
+  }
+
+.swiper-slide{
+ @include xs-block(){
+   width: 50%;
+ }
+}
+  &-slider{
+    &-item{
+      display: block;
+      height: 253px;
+      @include md-block(){
+        height: auto;
+      }
+      &:hover .certificate-slider-item-zoom{
+        opacity: 1;
+      }
+      img{
+        height: 100%;
+        width: 100%;
+        object-fit: contain;
+        display: block;
+        z-index: 1;
+      }
+      &-zoom{
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        right: 0;
+        bottom: 0;
+        transition: $trans;
+        left: 0;
+        top: 0;
+        background: rgba(255, 255, 255, 0.8);
+        opacity: 0;
+        svg{
+          position: absolute;
+          right: 15px;
+          bottom: 15px;
+          width: 32px;
+          fill: $gray;
+          height: 32px;
+        }
+      }
+    }
+    .swiper-slide {
+      @include md-block(){
+        width: auto;
+      }
+    }
+    .swiper-wrapper{
+      margin-bottom: 20px;
+    }
+  }
+  .nav-slider {
+    justify-content: center;
+    @include md-block(){
+      justify-content: flex-end;
+    }
+    .swiper-button-next, .swiper-button-prev{
+      display: none;
+      @include md-block(){
+        display: flex;
+      }
+    }
+    .swiper-pagination {
+      display: flex;
+      align-items: center;
+      .swiper-pagination-bullet {
+        width: 4px;
+        height: 4px;
+        background: $gray;
+        &:not(:last-child){
+          margin-right: 4px;
+        }
+      }
+      .swiper-pagination-bullet-active {
+        opacity: 1;
+        width: 8px;
+        height: 8px;
+        background: $green;
+      }
+    }
+  }
+}

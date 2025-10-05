@@ -1,0 +1,177 @@
+# Copyright (C) 2024 Banner Slider Plugin
+# This file is distributed under the same license as the Banner Slider Plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Banner Slider 1.0.0\n"
+"Report-Msgid-Bugs-To: https://yourwebsite.com\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: Your Name <your.email@example.com>\n"
+"Language-Team: Russian <ru@yourwebsite.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0\n"
+
+#: banner-slider.php
+msgid "Banner Slider"
+msgstr "Баннерный слайдер"
+
+#: banner-slider.php
+msgid "Custom banner slider with clickable images and links"
+msgstr "Кастомный баннерный слайдер с кликабельными изображениями и ссылками"
+
+#: banner-slider.php
+msgid "Banner slider settings"
+msgstr "Настройки баннерного слайдера"
+
+#: banner-slider.php
+msgid "Add images for the banner slider"
+msgstr "Добавьте изображения для баннерного слайдера"
+
+#: banner-slider.php
+msgid "Add image"
+msgstr "Добавить изображение"
+
+#: banner-slider.php
+msgid "Image"
+msgstr "Изображение"
+
+#: banner-slider.php
+msgid "Link"
+msgstr "Ссылка"
+
+#: banner-slider.php
+msgid "URL for clicking on the image (leave empty if no link needed)"
+msgstr "URL для перехода при клике на изображение (оставьте пустым, если ссылка не нужна)"
+
+#: banner-slider.php
+msgid "Title"
+msgstr "Заголовок"
+
+#: banner-slider.php
+msgid "Image title (for accessibility)"
+msgstr "Заголовок изображения (для доступности)"
+
+#: banner-slider.php
+msgid "Slider settings"
+msgstr "Настройки слайдера"
+
+#: banner-slider.php
+msgid "Slider behavior settings"
+msgstr "Настройки поведения слайдера"
+
+#: banner-slider.php
+msgid "Number of visible slides"
+msgstr "Количество видимых слайдов"
+
+#: banner-slider.php
+msgid "Number of images visible at once (default: 3)"
+msgstr "Количество изображений, видимых одновременно (по умолчанию: 3)"
+
+#: banner-slider.php
+msgid "Space between slides (px)"
+msgstr "Отступ между слайдами (px)"
+
+#: banner-slider.php
+msgid "Distance between images in pixels (default: 20)"
+msgstr "Расстояние между изображениями в пикселях (по умолчанию: 20)"
+
+#: banner-slider.php
+msgid "Slider height (px)"
+msgstr "Высота слайдера (px)"
+
+#: banner-slider.php
+msgid "Slider container height in pixels (default: 300)"
+msgstr "Высота контейнера слайдера в пикселях (по умолчанию: 300)"
+
+#: banner-slider.php
+msgid "Enable autoplay"
+msgstr "Включить автопрокрутку"
+
+#: banner-slider.php
+msgid "Automatically switch slides"
+msgstr "Автоматически переключать слайды"
+
+#: banner-slider.php
+msgid "Autoplay delay (ms)"
+msgstr "Задержка автопрокрутки (мс)"
+
+#: banner-slider.php
+msgid "Time between automatic switches in milliseconds (default: 5000)"
+msgstr "Время между автоматическими переключениями в миллисекундах (по умолчанию: 5000)"
+
+#: banner-slider.php
+msgid "Show navigation buttons"
+msgstr "Показывать кнопки навигации"
+
+#: banner-slider.php
+msgid "Show arrows for manual switching"
+msgstr "Показывать стрелочки для ручного переключения"
+
+#: banner-slider.php
+msgid "Allow touch dragging"
+msgstr "Разрешить перетаскивание касаниями"
+
+#: banner-slider.php
+msgid "Allow finger dragging on mobile devices"
+msgstr "Разрешить перетаскивание пальцем на мобильных устройствах"
+
+#: banner-slider.php
+msgid "Mobile images"
+msgstr "Мобильные изображения"
+
+#: banner-slider.php
+msgid "Separate images for mobile devices (if not filled, main images will be used)"
+msgstr "Отдельные изображения для мобильных устройств (если не заполнены, будут использоваться основные изображения)"
+
+#: banner-slider.php
+msgid "Add mobile image"
+msgstr "Добавить мобильное изображение"
+
+#: banner-slider.php
+msgid "Mobile image"
+msgstr "Мобильное изображение"
+
+#: banner-slider.php
+msgid "Mobile image title"
+msgstr "Заголовок мобильного изображения"
+
+#: banner-slider.php
+msgid "Banner slider"
+msgstr "Баннерный слайдер"
+
+#: banner-slider.php
+msgid "Configure images and behavior of the banner slider"
+msgstr "Настройте изображения и поведение баннерного слайдера"
+
+#: banner-slider.php
+msgid "Usage"
+msgstr "Использование"
+
+#: banner-slider.php
+msgid "To display the banner slider in the desired location, add the shortcode:"
+msgstr "Для отображения баннерного слайдера в нужном месте добавьте шорткод:"
+
+#: banner-slider.php
+msgid "Or use in PHP code:"
+msgstr "Или используйте в PHP коде:"
+
+#: banner-slider.php
+msgid "Add images in the banner slider settings"
+msgstr "Добавьте изображения в настройках баннерного слайдера"
+
+#: banner-slider.php
+msgid "Banner image"
+msgstr "Изображение баннера"
+
+#: banner-slider.php
+msgid "Mobile banner image"
+msgstr "Мобильное изображение баннера"
+
+#: banner-slider.php
+msgid "Save settings"
+msgstr "Сохранить настройки"
+

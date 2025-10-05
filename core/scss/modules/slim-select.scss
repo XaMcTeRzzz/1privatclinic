@@ -1,0 +1,142 @@
+@import 'node_modules/slim-select/src/slim-select/slimselect';
+
+$font-color: #545E70;
+$border-radius: 0;
+$border-color: rgba(0, 0, 0, 0.1);
+$spacing-m: 15px;
+
+// Colors
+$black: #000000;
+
+$white: white;
+$dark: #000000;
+$red: #ff0000;
+$gray: #0000ff;
+// font
+
+
+.select-wrap{
+  width: 325px;
+  border-radius: 8px;
+  margin-top: 30px;
+  @include md-block(){
+    margin-top: 0;
+  }
+  box-shadow: 0px 0px 24px rgba(112, 126, 152, 0.4);
+}
+
+.ss-main {
+  width: 100%;
+  .ss-single-selected{
+    height: 48px;
+    padding: 0;
+    border-radius: 8px;
+    border: 1px solid transparent;
+    transition: $trans;
+    &:hover{
+      border: 1px solid #C4C4C4;
+    }
+    &.ss-open-below {
+       border-bottom-left-radius: 8px;
+       border-bottom-right-radius: 8px;
+    }
+    .placeholder {
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 24px;
+      padding: 0 16px;
+      color: black;
+      .ss-disabled {
+        font-weight: 600;
+        font-size: 16px;
+        line-height: 1;
+        color: $gray;
+      }
+    }
+    .ss-option-selected{
+      display: none;
+    }
+    .ss-arrow {
+      margin: 0 $spacing-m 0 $spacing-m;
+      span {
+        border-width: 0 2px 2px 0;
+        padding: 3px;
+        border-color: $gray;
+        &.arrow-up{
+          border-color: $green;
+        }
+      }
+    }
+  }
+}
+
+.ss-content {
+  margin: 4px 0 0 0;
+  &.ss-open {
+    box-shadow: 0px 0px 24px rgba(112, 126, 152, 0.4);
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  .ss-list {
+    background: white;
+    max-height: 440px;
+    @include md-block(){
+      max-height: 400px;
+    }
+    .ss-optgroup {
+      .ss-optgroup-label {
+        padding: 6px 10px 6px 10px;
+        font-weight: bold;
+      }
+      .ss-option {
+        padding: 6px 6px 6px 25px;
+      }
+    }
+
+    .ss-optgroup-label-selectable {
+      &:hover {
+        color: $font-color;
+        background-color: $primary-color;
+      }
+    }
+
+    .ss-option {
+      user-select: none;
+      cursor: pointer;
+      font-weight: 600;
+      font-size: 16px;
+      line-height: 28px;
+      transition: $trans;
+      color: #000000;
+      position: relative;
+      &:before{
+        content: '';
+        width: 4px;
+        transition: $trans;
+        position: absolute;
+        left: 0;
+        top: 0;
+        background: $green;
+        height: 100%;
+        opacity: 0;
+      }
+      &:hover, &.ss-highlighted {
+        background-color: transparent;
+        color: $green;
+        &:before{
+          opacity: 1;
+        }
+      }
+
+      &.ss-disabled {
+        cursor: not-allowed;
+        color: $font-disabled-color;
+        background-color: $white;
+      }
+
+      .ss-search-highlight {
+        background-color: $search-highlight-color;
+      }
+    }
+  }
+}

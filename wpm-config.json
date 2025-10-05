@@ -1,0 +1,17 @@
+{
+  "post_types": {
+    "doctor": {},
+    "specials": {},
+    "services": {},
+    "analysis": {},
+    "article": {},
+    "equipment": {},
+    "reviews": {},
+    "jobs": {}
+  },
+  "taxonomies": {
+    "specializations": {},
+    "blog": {}
+  },
+  "admin_pages": []
+}

@@ -1,0 +1,278 @@
+.poll-page {
+	min-height: 90vh;
+
+	h1 {
+		font-size: 32px;
+		font-weight: 900;
+		line-height: 42px;
+		color: #000000;
+		margin-bottom: 35px;
+
+		@include to($break_md) {
+			font-size: 26px;
+			line-height: 32px;
+		}
+	}
+
+	.questions {
+		background: #fff;
+		box-shadow: 0 0 12px 0 rgba(112, 126, 152, 0.4);
+		border-radius: 8px;
+		padding: 57px 119px;
+		margin-bottom: 57px;
+
+		@include to($break_md) {
+			padding: 28px 59px;
+		}
+
+		@include to(472px) {
+			padding: 28px;
+		}
+
+		.question {
+			display: flex;
+			flex-direction: column;
+			margin-bottom: 72px;
+
+			&:last-child {
+				margin-bottom: 0;
+			}
+		}
+
+		.question-title {
+			font-size: 26px;
+			font-weight: 700;
+			line-height: 42px;
+			color: #000000;
+			margin-bottom: 15px;
+
+			@include to($break_xs) {
+				font-size: 20px;
+				line-height: 25px;
+			}
+
+		}
+
+		label {
+			font-size: 22px;
+			font-weight: 400;
+			line-height: 40px;
+			margin-left: 118px;
+			cursor: pointer;
+			width: fit-content;
+
+			@include to($break_md) {
+				margin-left: 59px;
+			}
+
+			@include to(472px) {
+				margin-left: 38px;
+			}
+
+			input[type="radio"], input[type="checkbox"] {
+				position: relative;
+				-webkit-appearance: initial;
+				-moz-appearance: initial;
+				appearance: initial;
+				height: 0;
+				width: 0;
+				transition: .3s ease-in-out;
+			}
+
+			input[type="radio"]::before, input[type="checkbox"]::before {
+				content: '';
+				position: absolute;
+				top: -18px;
+				left: -33px;
+				width: 24px;
+				height: 24px;
+				background-image: url("data:image/svg+xml,%3Csvg width='25' height='25' viewBox='0 0 25 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='12.25' cy='12.25' r='10.75' stroke='%2395C53D' stroke-width='3'/%3E%3C/svg%3E%0A");
+				background-repeat: no-repeat;
+				background-size: 24px 24px;
+				background-position: center;
+				z-index: 2;
+				cursor: pointer;
+				transition: .3s ease-in-out;
+			}
+
+			input[type="checkbox"]::before {
+				background-image: url("data:image/svg+xml,%3Csvg width='28' height='24' viewBox='0 0 28 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='1' y='1.21399' width='26' height='21.358' rx='3' stroke='%2395C53D' stroke-width='2'/%3E%3C/svg%3E%0A");
+			}
+
+			input[type="radio"]:checked::before, input[type="checkbox"]:checked::before {
+				background-image: url("data:image/svg+xml,%3Csvg width='25' height='25' viewBox='0 0 25 25' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Ccircle cx='12.25' cy='12.25' r='10.75' stroke='%2395C53D' stroke-width='3'/%3E%3Ccircle cx='12.5333' cy='12.5333' r='6.53333' fill='%2395C53D'/%3E%3C/svg%3E%0A");
+				background-repeat: no-repeat;
+				background-size: 24px 24px;
+				background-position: center;
+			}
+
+			input[type="checkbox"]:checked::before {
+				background-image: url("data:image/svg+xml,%3Csvg width='28' height='24' viewBox='0 0 28 24' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Crect x='1' y='1.60706' width='26' height='21.358' rx='3' stroke='%2395C53D' stroke-width='2'/%3E%3Crect width='4.12134' height='15.3132' rx='2.06067' transform='matrix(0.74733 -0.664453 0.558478 0.829519 3.23004 9.599)' fill='%2395C53D'/%3E%3Crect width='4.12134' height='21.4385' rx='2.06067' transform='matrix(0.74733 0.664453 -0.558478 0.829519 21.636 1.74835)' fill='%2395C53D'/%3E%3C/svg%3E%0A");
+			}
+
+			&:hover {
+				opacity: .7;
+				transition: .3s ease-in-out;
+			}
+		}
+
+		.question-option-custom {
+			display: flex;
+			margin-right: 88px;
+
+			@include to($break_md) {
+				margin-right: 0;
+			}
+
+			@include to($break_sm) {
+				flex-direction: column;
+			}
+
+			input[type="text"] {
+				height: 30px;
+				width: 100%;
+				/*max-width: 400px;*/
+				border: none;
+				border-bottom: 1px solid #777777;
+				padding: 5px 10px;
+				outline: none;
+				font-size: 22px;
+				line-height: 48px;
+				flex: 1;
+				margin-left: 10px;
+				visibility: hidden;
+
+				@include to($break_sm) {
+					flex-basis: auto;
+				}
+			}
+
+			&:has(input[type="checkbox"]:checked),
+			&:has(input[type="radio"]:checked) {
+				input[type="text"] {
+					visibility: visible;
+				}
+			}
+		}
+
+		.questions-comment {
+			display: flex;
+			justify-content: center;
+			margin: 20px 88px 0;
+
+			@include to($break_md) {
+				margin: 20px 0 0;
+			}
+
+			//@include to($break_sm) {
+			//	margin: 0;
+			//}
+
+			textarea {
+				width: 100%;
+				border: 1px solid #777777;
+				font-size: 22px;
+				border-radius: 10px;
+				padding: 6px 17px;
+				height: 150px;
+				min-height: 100px;
+				min-width: 100%;
+				max-height: 250px;
+
+				&:focus {
+					outline: inherit;
+				}
+			}
+		}
+
+		.questions-buttons {
+			display: flex;
+			justify-content: space-between;
+			margin: 0 88px 0;
+
+			@include to($break_md) {
+				margin: 35px 44px 0;
+			}
+
+			@include to($break_sm) {
+				margin: 25px 0;
+			}
+
+			@include to(472px) {
+				flex-direction: column-reverse;
+			}
+
+			.btn {
+				width: 242px;
+				height: 57px;
+				font-size: 22px;
+				font-weight: 900;
+				line-height: 27px;
+				transition: .3s ease-in-out;
+
+				@include to($break_sm) {
+					width: 202px;
+					height: 44px;
+					font-size: 16px;
+					line-height: 22px;
+				}
+
+				@include to($break_xs) {
+					width: 156px;
+					height: 34px;
+					font-size: 14px;
+					line-height: 18px;
+				}
+
+				@include to(472px) {
+					width: 100%;
+					margin-bottom: 10px;
+				}
+
+				&.btn-cancel {
+					color: #95C53D;
+					background: 0 0;
+					border: 1px solid #95C53D;
+					transition: .3s ease-in-out;
+
+					&:hover {
+						opacity: .7;
+						transition: .3s ease-in-out;
+					}
+				}
+			}
+		}
+
+		.preloader-poll-send {
+			display: none;
+			margin: 0 auto;
+			text-align: center;
+		}
+
+		.poll-send-interactive {
+			min-height: 70px;
+			text-align: center;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			margin-top: 35px;
+		}
+
+		.error-msg, .question-error-message {
+			color: #FF0000;
+			display: inline-block;
+			text-align: center;
+			font-size: 16px;
+			line-height: 24px;
+		}
+
+		.question-error-message {
+			margin: 20px 88px 0;
+			text-align: left;
+
+			@include to($break_xs) {
+				margin: 20px 20px 0;
+			}
+		}
+	}
+}

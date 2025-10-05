@@ -1,0 +1,84 @@
+.advantages{
+  @include sm-block(){
+    margin-bottom: 40px;
+  }
+}
+.advantages-row{
+  $o: 30px;
+  margin-bottom: 64px;
+
+  @include u-row-flex($o);
+  @include md-block(){
+    margin-bottom: 72px;
+  }
+  @include lg-block(){
+    align-items: center;
+    margin-bottom: 48px;
+  }
+
+.advantages__img{
+  display: block;
+  margin-bottom: 25px;
+  @include sm-block(){
+    margin-bottom: 40px;
+  }
+  @include md-block(){
+    margin-bottom: 0;
+  }
+}
+  .advantages-item-img-lite{
+    margin-bottom: 35px;
+    display: block;
+  }
+  .advantages-item-img{
+    @include u-col($o);
+    @include u-size(12, 12, $o);
+    @include md-block(){
+      @include u-size(6, 12, $o);
+    }
+    @include lg-block(){
+      @include u-size(8, 16, $o);
+    }
+    @include shift-lg-right(.5);
+
+  }
+  .advantages-item-text{
+    @include u-col($o);
+    @include u-size(12, 12, $o);
+    @include md-block(){
+      @include u-size(6, 12, $o);
+    }
+    @include lg-block(){
+      @include u-size(5, 16, $o);
+      margin-left: auto;
+    };
+    @include shift-lg-right(.5);
+  }
+  .advantages-item-img.animated{
+    @include md-block(){
+      animation: slide-bottom 3s cubic-bezier(.25,.46,.45,.94) both;
+    }
+
+  }
+  .advantages-item-text.animated{
+    @include md-block(){
+      animation: slide-top 3s cubic-bezier(.25,.46,.45,.94) both;
+    }
+  }
+
+  .advantages-item-img ~ .advantages-item-text  {
+    @include u-col($o);
+  }
+
+  .advantages-item-text ~ .advantages-item-img  {
+    @include shift-lg-right(0);
+    order: -1;
+    @include md-block(){
+      order: 0;
+    }
+
+  }
+}
+
+
+

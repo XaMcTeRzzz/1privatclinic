@@ -1,0 +1,68 @@
+<div class="c-modal" id="js-cabinet-confirmation-code-modal">
+	<div class="c-modal__wrap">
+
+		<div class="c-modal__header">
+			<div class="c-modal__header-title c-mb-0"><?php _e("Підтвердження номеру телефону", 'mz') ?></div>
+		</div>
+		<div class="c-modal__body c-p-32-24-0">
+			<div class="c-modal__body-subtitle js-info-msg">
+				<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<path
+						d="M16.5 27C14.4233 27 12.3932 26.3842 10.6665 25.2304C8.9398 24.0767 7.59399 22.4368 6.79927 20.5182C6.00455 18.5996 5.79661 16.4884 6.20176 14.4516C6.6069 12.4148 7.60693 10.5438 9.07538 9.07539C10.5438 7.60693 12.4148 6.6069 14.4516 6.20176C16.4884 5.79661 18.5996 6.00455 20.5182 6.79927C22.4368 7.59399 24.0767 8.9398 25.2304 10.6665C26.3842 12.3932 27 14.4233 27 16.5C26.9974 19.284 25.8903 21.9531 23.9217 23.9217C21.9531 25.8903 19.284 26.9974 16.5 27ZM16.5 8.00001C14.8189 8.00001 13.1755 8.49853 11.7777 9.43252C10.3798 10.3665 9.29037 11.694 8.64703 13.2472C8.00368 14.8004 7.83536 16.5094 8.16333 18.1583C8.4913 19.8071 9.30085 21.3217 10.4896 22.5104C11.6783 23.6992 13.1929 24.5087 14.8417 24.8367C16.4906 25.1647 18.1996 24.9963 19.7528 24.353C21.306 23.7096 22.6335 22.6202 23.5675 21.2224C24.5015 19.8245 25 18.1811 25 16.5C24.9974 14.2465 24.101 12.086 22.5075 10.4925C20.914 8.89904 18.7535 8.00265 16.5 8.00001Z"
+						fill="#0075FF"/>
+					<path
+						d="M16.5 21.9101C16.2348 21.9101 15.9804 21.8048 15.7929 21.6172C15.6054 21.4297 15.5 21.1753 15.5 20.9101V16.3701C15.5 16.1049 15.6054 15.8505 15.7929 15.663C15.9804 15.4755 16.2348 15.3701 16.5 15.3701C16.7652 15.3701 17.0196 15.4755 17.2071 15.663C17.3946 15.8505 17.5 16.1049 17.5 16.3701V20.9101C17.5 21.1753 17.3946 21.4297 17.2071 21.6172C17.0196 21.8048 16.7652 21.9101 16.5 21.9101Z"
+						fill="#0075FF"/>
+					<path
+						d="M16.5 14.1201C16.3022 14.1201 16.1089 14.0615 15.9444 13.9516C15.78 13.8417 15.6518 13.6855 15.5761 13.5028C15.5004 13.3201 15.4806 13.119 15.5192 12.925C15.5578 12.731 15.653 12.5529 15.7929 12.413C15.9327 12.2732 16.1109 12.1779 16.3049 12.1393C16.4989 12.1007 16.7 12.1206 16.8827 12.1962C17.0654 12.2719 17.2216 12.4001 17.3315 12.5645C17.4414 12.729 17.5 12.9223 17.5 13.1201C17.5 13.2523 17.4738 13.3831 17.4229 13.5051C17.3721 13.6271 17.2975 13.7378 17.2036 13.8308C17.1097 13.9238 16.9982 13.9972 16.8758 14.0469C16.7533 14.0965 16.6222 14.1214 16.49 14.1201H16.5Z"
+						fill="#0075FF"/>
+				</svg>
+				<span><?php _e("Будь ласка, введіть перевірочний код, який було надіслано в SMS на вказаний вами номер телефону", 'mz') ?><b></b></span>
+			</div>
+
+			<form id="js-cabinet-confirmation-code-form" class="form-default">
+
+				<div class="c-modal__body-code-numbers">
+					<input type="text" name="code[0]" maxlength="1" pattern="[0-9]{1}" inputmode="numeric" value=""
+					       autocomplete="off" required/>
+					<input type="text" name="code[1]" maxlength="1" pattern="[0-9]{1}" inputmode="numeric" value=""
+					       autocomplete="off" required/>
+					<input type="text" name="code[2]" maxlength="1" pattern="[0-9]{1}" inputmode="numeric" value=""
+					       autocomplete="off" required/>
+					<input type="text" name="code[3]" maxlength="1" pattern="[0-9]{1}" inputmode="numeric" value=""
+					       autocomplete="off" required/>
+				</div>
+
+				<input type="hidden" name="process">
+
+				<div class="c-modal__body-code-timer" id="js-cabinet-confirmation-code-timer">00:00</div>
+
+				<div class="c-modal__body-repeat-code">
+					<span><?php _e("Не отримали код?", 'mz') ?></span>
+					<a href="javascript:;"
+					   id="js-cabinet-confirmation-code-repeat"><?php _e("Надіслати код ще раз", 'mz') ?>
+					</a>
+				</div>
+
+				<div class="c-modal__body-interactive">
+					<span class="error-msg"></span>
+					<div class="indicator preloader-modal-send">
+						<svg width="32px" height="24px">
+							<polyline id="back" points="2 12 8 12 12 22 20 2 24 12 30 12"></polyline>
+							<polyline id="front" points="2 12 8 12 12 22 20 2 24 12 30 12"></polyline>
+						</svg>
+					</div>
+				</div>
+
+				<div class="c-modal__body-buttons">
+					<button class="btn btn-cancel"
+					        type="reset"
+					        onclick="$.fancybox.close()"><?php _e("скасувати", 'mz') ?></button>
+					<button class="btn"
+					        id="js-cabinet-confirmation-code-button"><?php _e("підтвердити", 'mz') ?>
+					</button>
+				</div>
+			</form>
+		</div>
+	</div>
+</div>

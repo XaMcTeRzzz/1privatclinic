@@ -1,0 +1,54 @@
+.specials{
+  @include md-block(){
+    margin-top: 64px;
+  }
+  &__card{
+    &.animated{
+      & > .specials__card-img{
+        @include md-block(){
+          animation: slide-top 3s cubic-bezier(.25,.46,.45,.94) both;
+        }
+
+      }
+      & > .specials__card-img + .specials__card-text{
+        @include md-block() {
+          animation: slide-bottom 3s cubic-bezier(.25,.46,.45,.94) both;
+        }
+      }
+    }
+    &:nth-child(even){
+      .specials__card-text{
+        @include md-block(){
+          order: -1;
+        }
+      }
+    }
+    &-text{
+      &-title{
+        margin-bottom: 16px;
+        @include md-block(){
+          margin-bottom: 24px;
+        }
+      }
+      &-decr{
+        margin-bottom: 16px;
+        @include md-block(){
+          margin-bottom: 24px;
+        }
+      }
+    }
+    &-img{
+
+      margin-bottom: 30px;
+      @include md-block(){
+        margin-bottom: 0;
+      }
+     img{
+       display: block;
+       width: 100%;
+       object-fit: cover;
+       max-height: 440px;
+     }
+    }
+  }
+}
